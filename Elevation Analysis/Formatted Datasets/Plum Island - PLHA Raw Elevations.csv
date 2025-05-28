@@ -1,0 +1,21 @@
+"","Season","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2022,"No Action","T1",1.29,1.1,1.38
+"2",2022,"No Action","T2",1.32,0.72,1.47
+"3",2022,"North Reference","T1",1.41,1.09,1.5
+"4",2022,"North Reference","T2",1.38,1.09,1.49
+"5",2022,"North Runnel","T1",1.56,1.42,1.75
+"6",2022,"North Runnel","T2",1.48,1.36,1.65
+"7",2022,"South Reference","T1",1.4,1.03,1.47
+"8",2022,"South Reference","T2",1.4,1.24,1.47
+"9",2022,"South Runnel","T1",1.51,1.24,1.71
+"10",2022,"South Runnel","T2",1.44,1.26,1.62
+"11",2024,"No Action","T1",1.25,1.04,1.36
+"12",2024,"No Action","T2",1.3,0.93,1.46
+"13",2024,"North Reference","T1",1.42,1.03,1.53
+"14",2024,"North Reference","T2",1.42,1.15,1.51
+"15",2024,"North Runnel","T1",1.52,1.37,1.68
+"16",2024,"North Runnel","T2",1.46,1.31,1.62
+"17",2024,"South Reference","T1",1.22,0.86,1.29
+"18",2024,"South Reference","T2",1.22,1.06,1.28
+"19",2024,"South Runnel","T1",1.48,1.09,1.64
+"20",2024,"South Runnel","T2",1.42,1.17,1.61

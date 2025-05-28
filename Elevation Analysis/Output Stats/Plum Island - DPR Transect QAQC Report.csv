@@ -1,0 +1,25 @@
+"","Season","Site_Treatment","Transect","transect_shift"
+"1",2021,"North Reference","T1",0
+"2",2021,"North Reference","T2",0
+"3",2021,"North Reference","T3",0
+"4",2021,"North Runnel","T1",0
+"5",2021,"North Runnel","T2",0
+"6",2021,"North Runnel","T3",0
+"7",2021,"South No Action","T1",0
+"8",2021,"South No Action","T2",0
+"9",2021,"South Reference","T1",0
+"10",2021,"South Reference","T2",0
+"11",2021,"South Runnel","T1",0
+"12",2021,"South Runnel","T2",0
+"13",2024,"North Reference","T1",0.081
+"14",2024,"North Reference","T2",0.091
+"15",2024,"North Reference","T3",0.082
+"16",2024,"North Runnel","T1",0.013
+"17",2024,"North Runnel","T2",0.051
+"18",2024,"North Runnel","T3",0.006
+"19",2024,"South No Action","T1",0.04
+"20",2024,"South No Action","T2",0.038
+"21",2024,"South Reference","T1",-0.003
+"22",2024,"South Reference","T2",-0.001
+"23",2024,"South Runnel","T1",0.07
+"24",2024,"South Runnel","T2",0.06

@@ -1,0 +1,9 @@
+"","Season","Site_Treatment","Transect","transect_shift"
+"1",2021,"Reference","T1",0
+"2",2021,"Reference","T2",0
+"3",2021,"Runnel","T1",0
+"4",2021,"Runnel","T2",0
+"5",2024,"Reference","T1",0.001
+"6",2024,"Reference","T2",-0.137
+"7",2024,"Runnel","T1",-0.002
+"8",2024,"Runnel","T2",0.299

@@ -1,0 +1,13 @@
+"","Season","Site_Treatment","Transect","transect_shift"
+"1",2022,"No Action","T1",0
+"2",2022,"No Action","T2",0
+"3",2022,"Reference","T1",0
+"4",2022,"Reference","T2",0
+"5",2022,"Runnel","T1",0
+"6",2022,"Runnel","T2",0
+"7",2024,"No Action","T1",-0.023
+"8",2024,"No Action","T2",-0.013
+"9",2024,"Reference","T1",-0.018
+"10",2024,"Reference","T2",-0.015
+"11",2024,"Runnel","T1",-0.034
+"12",2024,"Runnel","T2",-0.054
