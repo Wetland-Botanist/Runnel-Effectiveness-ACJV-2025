@@ -1,0 +1,9 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Plum Island - PLHA - North - Reference",2022,1.46,0.01,0
+"2","Plum Island - PLHA - North - Reference",2024,1.488,0.009,0.028
+"3","Plum Island - PLHA - North - Runnel",2022,1.482,0.028,0
+"4","Plum Island - PLHA - North - Runnel",2024,1.454,0.03,-0.028
+"5","Plum Island - PLHA - South - Reference",2022,1.451,0.007,0
+"6","Plum Island - PLHA - South - Reference",2024,1.267,0.008,-0.184
+"7","Plum Island - PLHA - South - Runnel",2022,1.502,0.032,0
+"8","Plum Island - PLHA - South - Runnel",2024,1.479,0.046,-0.0229999999999999

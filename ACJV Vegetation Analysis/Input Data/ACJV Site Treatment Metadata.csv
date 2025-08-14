@@ -1,0 +1,64 @@
+Site,Subsite,Site_Subsite,State,Overall_Treatment,Site_Treatment,Year,Year_0,Time_Since_Restoration,Restoration_Relative_To_Metonic_Low_2015,Elevation_mean,Tidal_Regime,Runnel_Marsh_Precondition,MHT_NAVD88m,MHHT_NAVD88m,Spring_Tide_NAVD88m,Tidal_Range_m,MHT_Difference_m,MHT_Difference_Relative,MHHT_Difference_m,MHHT_Difference_Relative,Spring_Tide_Difference_m,Spring_Tide_Difference_Relative
+Broad Cove,,Broad Cove,MA,Reference,Broad Cove - Reference,2021,2017,4,2,1.007,Microtidal,,0.95,0.971,1.305,1.331,0.057,4.28,0.036,2.7,-0.298,-22.39
+Broad Cove,,Broad Cove,MA,Runnel,Broad Cove - Runnel,2021,2017,4,2,1.018,Microtidal,Panne,0.95,0.971,1.305,1.331,0.068,5.11,0.047,3.53,-0.287,-21.56
+Canonchet,,Canonchet,RI,Reference,Canonchet - Reference,2022,2015,7,0,0.453,Microtidal,,0.454,0.503,0.764,1.056,-0.001,-0.09,-0.05,-4.73,-0.311,-29.45
+Canonchet,,Canonchet,RI,Runnel,Canonchet - Runnel,2022,2015,7,0,0.428,Microtidal,Panne,0.454,0.503,0.764,1.056,-0.026,-2.46,-0.075,-7.1,-0.336,-31.82
+Canonchet,,Canonchet,RI,No Action,Canonchet - No Action,2022,2015,7,0,0.416,Microtidal,,0.454,0.503,0.764,1.056,-0.038,-3.6,-0.087,-8.24,-0.348,-32.95
+Essex,North,Essex - North,MA,No Action,Essex - North - No Action,2022,2022,0,7,1.488,Mesotidal,,1.232,1.364,2.038,2.893,0.256,8.85,0.124,4.29,-0.55,-19.01
+Essex,North,Essex - North,MA,Runnel,Essex - North - Runnel,2022,2022,0,7,1.512,Mesotidal,Pool,1.232,1.364,2.038,2.893,0.28,9.68,0.148,5.12,-0.526,-18.18
+Essex,South,Essex - South,MA,Reference,Essex - South - Reference,2022,2022,0,7,1.407,Mesotidal,,1.353,1.447,1.759,2.893,0.054,1.87,-0.04,-1.38,-0.352,-12.17
+Essex,South,Essex - South,MA,No Action,Essex - South - No Action,2022,2022,0,7,1.463,Mesotidal,,1.353,1.447,1.759,2.893,0.11,3.8,0.016,0.55,-0.296,-10.23
+Essex,South,Essex - South,MA,Runnel,Essex - South - Runnel,2022,2022,0,7,1.234,Mesotidal,Pool,1.353,1.447,1.759,2.893,-0.119,-4.11,-0.213,-7.36,-0.525,-18.15
+Ipswich,,Ipswich,MA,No Action,Ipswich - No Action,2022,2022,0,7,1.257,Mesotidal,,1.35,1.446,1.703,2.893,-0.093,-3.21,-0.189,-6.53,-0.446,-15.42
+Ipswich,,Ipswich,MA,Reference,Ipswich - Reference,2022,2022,0,7,1.203,Mesotidal,,1.35,1.446,1.703,2.893,-0.147,-5.08,-0.243,-8.4,-0.5,-17.28
+Ipswich,,Ipswich,MA,Runnel,Ipswich - Runnel,2022,2022,0,7,1.327,Mesotidal,Panne,1.35,1.446,1.703,2.893,-0.023,-0.8,-0.119,-4.11,-0.376,-13
+Jacobs Point,,Jacobs Point,RI,Reference,Jacobs Point - Reference,2021,2016,5,1,0.82,Microtidal,,0.808,0.864,1.263,1.056,0.012,1.14,-0.044,-4.17,-0.443,-41.95
+Jacobs Point,,Jacobs Point,RI,No Action,Jacobs Point - No Action,2021,2016,5,1,0.788,Microtidal,,0.808,0.864,1.263,1.056,-0.02,-1.89,-0.076,-7.2,-0.475,-44.98
+Jacobs Point,,Jacobs Point,RI,Runnel,Jacobs Point - Runnel,2021,2016,5,1,0.873,Microtidal,Panne,0.808,0.864,1.263,1.056,0.065,6.16,0.009,0.85,-0.39,-36.93
+Kents Island,,Kents Island,MA,No Action,Kents Island - No Action,2022,2022,0,7,1.42,Mesotidal,,1.381,1.5,1.829,2.893,0.039,1.35,-0.08,-2.77,-0.409,-14.14
+Kents Island,,Kents Island,MA,Reference,Kents Island - Reference,2022,2022,0,7,1.284,Mesotidal,,1.381,1.5,1.829,2.893,-0.097,-3.35,-0.216,-7.47,-0.545,-18.84
+Kents Island,,Kents Island,MA,Runnel,Kents Island - Runnel,2022,2022,0,7,1.365,Mesotidal,Panne,1.381,1.5,1.829,2.893,-0.016,-0.55,-0.135,-4.67,-0.464,-16.04
+Middlebridge,,Middlebridge,RI,No Action,Middlebridge - No Action,2022,2016,6,1,0.454,Microtidal,,0.448,0.497,0.764,1.056,0.006,0.57,-0.043,-4.07,-0.31,-29.36
+Middlebridge,,Middlebridge,RI,Reference,Middlebridge - Reference,2022,2016,6,1,0.427,Microtidal,,0.448,0.497,0.764,1.056,-0.021,-1.99,-0.07,-6.63,-0.337,-31.91
+Middlebridge,,Middlebridge,RI,Runnel,Middlebridge - Runnel,2022,2016,6,1,0.308,Microtidal,Pool,0.448,0.497,0.764,1.056,-0.14,-13.26,-0.189,-17.9,-0.456,-43.18
+Moody Marsh,,Moody Marsh,ME,Runnel,Moody Marsh - Runnel,2021,2011,10,-4,1.241,Mesotidal,Pool,1.252,1.38,2.047,2.487,-0.011,-0.44,-0.139,-5.59,-0.806,-32.41
+Moody Marsh,,Moody Marsh,ME,No Action,Moody Marsh - No Action,2021,2011,10,-4,1.534,Mesotidal,,1.252,1.38,2.047,2.487,0.282,11.34,0.154,6.19,-0.513,-20.63
+Moody Marsh,,Moody Marsh,ME,Reference,Moody Marsh - Reference,2021,2011,10,-4,1.432,Mesotidal,,1.252,1.38,2.047,2.487,0.18,7.24,0.052,2.09,-0.615,-24.73
+Narrow River,,Narrow River,RI,No Action,Narrow River - No Action,2022,2016,6,1,0.508,Microtidal,,0.382,0.438,0.654,1.056,0.126,11.93,0.07,6.63,-0.146,-13.83
+Narrow River,,Narrow River,RI,Reference,Narrow River - Reference,2022,2016,6,1,0.442,Microtidal,,0.382,0.438,0.654,1.056,0.06,5.68,0.004,0.38,-0.212,-20.08
+Narrow River,,Narrow River,RI,Runnel,Narrow River - Runnel,2022,2016,6,1,0.467,Microtidal,Pool,0.382,0.438,0.654,1.056,0.085,8.05,0.029,2.75,-0.187,-17.71
+Pine Island,North,Pine Island - North,MA,Runnel,Pine Island - North - Runnel,2021,2015,6,0,1.465,Mesotidal,Pool,1.376,1.471,1.76,2.893,0.089,3.08,-0.006,-0.21,-0.295,-10.2
+Pine Island,North,Pine Island - North,MA,No Action,Pine Island - North - No Action,2021,2015,6,0,1.53,Mesotidal,,1.376,1.471,1.76,2.893,0.154,5.32,0.059,2.04,-0.23,-7.95
+Pine Island,North,Pine Island - North,MA,Reference,Pine Island - North - Reference,2021,2015,6,0,1.523,Mesotidal,,1.376,1.471,1.76,2.893,0.147,5.08,0.052,1.8,-0.237,-8.19
+Pine Island,South,Pine Island - South,MA,Reference,Pine Island - South - Reference,2021,2015,6,0,1.493,Mesotidal,,1.376,1.471,1.76,2.893,0.117,4.04,0.022,0.76,-0.267,-9.23
+Pine Island,South,Pine Island - South,MA,Runnel,Pine Island - South - Runnel,2021,2015,6,0,1.221,Mesotidal,Pool,1.376,1.471,1.76,2.893,-0.155,-5.36,-0.25,-8.64,-0.539,-18.63
+Plum Island - DPR,North,Plum Island - DPR - North,MA,Runnel,Plum Island - DPR - North - Runnel,2021,2016,5,1,1.507,Mesotidal,Panne,1.293,1.405,1.971,2.893,0.214,7.4,0.102,3.53,-0.464,-16.04
+Plum Island - DPR,North,Plum Island - DPR - North,MA,Reference,Plum Island - DPR - North - Reference,2021,2016,5,1,1.495,Mesotidal,,1.293,1.405,1.971,2.893,0.202,6.98,0.09,3.11,-0.476,-16.45
+Plum Island - DPR,North,Plum Island - DPR - North,MA,Runnel,Plum Island - DPR - North - Runnel,2021,2019,2,4,1.522,Mesotidal,Panne,1.293,1.405,1.971,2.893,0.229,7.92,0.117,4.04,-0.449,-15.52
+Plum Island - DPR,South,Plum Island - DPR - South,MA,Reference,Plum Island - DPR - South - Reference,2021,2017,4,2,1.501,Mesotidal,,1.293,1.405,1.971,2.893,0.208,7.19,0.096,3.32,-0.47,-16.25
+Plum Island - DPR,South,Plum Island - DPR - South,MA,Runnel,Plum Island - DPR - South - Runnel,2021,2017,4,2,1.528,Mesotidal,Panne,1.293,1.405,1.971,2.893,0.235,8.12,0.123,4.25,-0.443,-15.31
+Plum Island - DPR,South,Plum Island - DPR - South,MA,No Action,Plum Island - DPR - South - No Action,2021,2017,4,2,1.494,Mesotidal,,1.293,1.405,1.971,2.893,0.201,6.95,0.089,3.08,-0.477,-16.49
+Plum Island - PLHA,North,Plum Island - PLHA - North,MA,Reference,Plum Island - PLHA - North - Reference,2022,2022,0,7,1.46,Mesotidal,Pool,1.398,1.537,1.989,2.893,0.062,2.14,-0.077,-2.66,-0.529,-18.29
+Plum Island - PLHA,North,Plum Island - PLHA - North,MA,Runnel,Plum Island - PLHA - North - Runnel,2022,2022,0,7,1.482,Mesotidal,Pool,1.398,1.537,1.989,2.893,0.084,2.9,-0.055,-1.9,-0.507,-17.53
+Plum Island - PLHA,South,Plum Island - PLHA - South,MA,No Action,Plum Island - PLHA - South - No Action,2022,2022,0,7,1.393,Mesotidal,,1.398,1.537,1.989,2.893,-0.005,-0.17,-0.144,-4.98,-0.596,-20.6
+Plum Island - PLHA,South,Plum Island - PLHA - South,MA,Reference,Plum Island - PLHA - South - Reference,2022,2022,0,7,1.451,Mesotidal,Pool,1.398,1.537,1.989,2.893,0.053,1.83,-0.086,-2.97,-0.538,-18.6
+Plum Island - PLHA,South,Plum Island - PLHA - South,MA,Runnel,Plum Island - PLHA - South - Runnel,2022,2022,0,7,1.502,Mesotidal,Pool,1.398,1.537,1.989,2.893,0.104,3.59,-0.035,-1.21,-0.487,-16.83
+Potters Pond,,Potters Pond,RI,Reference,Potters Pond - Reference,2021,2018,3,3,0.246,Microtidal,Pool,0.264,0.295,0.552,1.056,-0.018,-1.7,-0.049,-4.64,-0.306,-28.98
+Potters Pond,,Potters Pond,RI,Runnel,Potters Pond - Runnel,2021,2018,3,3,0.174,Microtidal,Pool,0.264,0.295,0.552,1.056,-0.09,-8.52,-0.121,-11.46,-0.378,-35.8
+Potters Pond,,Potters Pond,RI,No Action,Potters Pond - No Action,2021,2018,3,3,0.122,Microtidal,,0.264,0.295,0.552,1.056,-0.142,-13.45,-0.173,-16.38,-0.43,-40.72
+Round Marsh,,Round Marsh,RI,Reference,Round Marsh - Reference,2021,2014,7,-1,0.706,Microtidal,,0.679,0.736,1.006,1.056,0.027,2.56,-0.03,-2.84,-0.3,-28.41
+Round Marsh,,Round Marsh,RI,No Action,Round Marsh - No Action,2021,2014,7,-1,0.633,Microtidal,Panne,0.679,0.736,1.006,1.056,-0.046,-4.36,-0.103,-9.75,-0.373,-35.32
+Round Marsh,,Round Marsh,RI,Runnel,Round Marsh - Runnel,2021,2014,7,-1,0.648,Microtidal,Panne,0.679,0.736,1.006,1.056,-0.031,-2.94,-0.088,-8.33,-0.358,-33.9
+Sapowet,North,Sapowet - North,RI,Runnel,Sapowet - North - Runnel,2022,2018,4,3,0.626,Microtidal,Pool,0.543,0.624,0.932,1.056,0.083,7.86,0.002,0.19,-0.306,-28.98
+Sapowet,North,Sapowet - North,RI,Reference,Sapowet - North - Reference,2022,2018,4,3,0.615,Microtidal,,0.543,0.624,0.932,1.056,0.072,6.82,-0.009,-0.85,-0.317,-30.02
+Sapowet,South,Sapowet - South,RI,No Action,Sapowet - South - No Action,2022,2022,0,7,0.666,Microtidal,Pool,0.543,0.624,0.932,1.056,0.123,11.65,0.042,3.98,-0.266,-25.19
+Sapowet,South,Sapowet - South,RI,Runnel,Sapowet - South - Runnel,2022,2022,0,7,0.668,Microtidal,Pool,0.543,0.624,0.932,1.056,0.125,11.84,0.044,4.17,-0.264,-25
+Weekapaug,,Weekapaug,RI,Runnel,Weekapaug - Runnel,2021,2017,4,2,0.199,Microtidal,Pool,0.377,0.437,0.755,1.056,-0.178,-16.86,-0.238,-22.54,-0.556,-52.65
+Weekapaug,,Weekapaug,RI,No Action,Weekapaug - No Action,2021,2017,4,2,0.175,Microtidal,,0.377,0.437,0.755,1.056,-0.202,-19.13,-0.262,-24.81,-0.58,-54.92
+Weekapaug,,Weekapaug,RI,Reference,Weekapaug - Reference,2021,2017,4,2,0.245,Microtidal,Pool,0.377,0.437,0.755,1.056,-0.132,-12.5,-0.192,-18.18,-0.51,-48.3
+Winnapaug,,Winnapaug,RI,Runnel,Winnapaug - Runnel,2021,2013,8,-2,0.226,Microtidal,Pool,0.387,0.446,0.755,1.056,-0.161,-15.25,-0.22,-20.83,-0.529,-50.09
+Winnapaug,,Winnapaug,RI,No Action,Winnapaug - No Action,2021,2013,8,-2,0.203,Microtidal,,0.387,0.446,0.755,1.056,-0.184,-17.42,-0.243,-23.01,-0.552,-52.27
+Winnapaug,,Winnapaug,RI,Reference,Winnapaug - Reference,2021,2013,8,-2,0.252,Microtidal,,0.387,0.446,0.755,1.056,-0.135,-12.78,-0.194,-18.37,-0.503,-47.63
+Old Town Hill,,Old Town Hill,MA,Runnel,Old Town Hill - Runnel,2022,2020,2,5,1.366,Mesotidal,Panne,1.388,1.495,1.762,2.893,-0.022,-0.129,-0.396,-0.76,-4.46,-13.69
+Old Town Hill,,Old Town Hill,MA,Reference,Old Town Hill - Reference,2022,2020,2,5,1.485,Mesotidal,,1.388,1.495,1.762,2.893,0.097,-0.01,-0.277,3.35,-0.35,-9.57
+Old Town Hill,,Old Town Hill,MA,No Action,Old Town Hill - No Action,2022,2020,2,5,1.349,Mesotidal,,1.388,1.495,1.762,2.893,-0.039,-0.146,-0.413,-1.35,-5.05,-14.28

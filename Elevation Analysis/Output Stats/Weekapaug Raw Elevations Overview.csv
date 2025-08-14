@@ -1,0 +1,13 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2021,"Weekapaug - No Action","T1",0.13,0.1,0.19
+"2",2021,"Weekapaug - No Action","T2",0.2,0.13,0.24
+"3",2021,"Weekapaug - Reference","T1",0.23,0.22,0.24
+"4",2021,"Weekapaug - Reference","T2",0.25,0.23,0.28
+"5",2021,"Weekapaug - Runnel","T1",0.21,0.15,0.24
+"6",2021,"Weekapaug - Runnel","T2",0.2,0.15,0.24
+"7",2024,"Weekapaug - No Action","T1",0.17,0.11,0.26
+"8",2024,"Weekapaug - No Action","T2",0.25,0.2,0.3
+"9",2024,"Weekapaug - Reference","T1",0.26,0.24,0.29
+"10",2024,"Weekapaug - Reference","T2",0.31,0.29,0.34
+"11",2024,"Weekapaug - Runnel","T1",0.24,0.2,0.28
+"12",2024,"Weekapaug - Runnel","T2",0.28,0.25,0.31

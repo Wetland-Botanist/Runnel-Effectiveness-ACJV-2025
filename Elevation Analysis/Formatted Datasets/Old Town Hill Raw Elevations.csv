@@ -1,0 +1,53 @@
+"","Season","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2021,"Drainage Enhancement (SC1)","T1",1.28,0.39,1.44
+"2",2021,"Drainage Enhancement (SC1)","T2",1.33,0.53,1.43
+"3",2021,"Drainage Enhancement (SC1)","T3",1.4,1.37,1.42
+"4",2021,"Drainage Enhancement (SC1)","T4",1.4,1.36,1.49
+"5",2021,"Drainage Enhancement (SC2)","T1",1.23,0.46,1.41
+"6",2021,"Drainage Enhancement (SC2)","T2",1.32,0.96,1.44
+"7",2021,"Drainage Enhancement (SC2)","T3",1.37,0.99,1.49
+"8",2021,"Drainage Enhancement (SC2)","T4",1.27,-0.38,1.41
+"9",2021,"North Reference (NNC)","T1",1.41,1.01,1.52
+"10",2021,"North Reference (NNC)","T2",1.41,0.93,1.49
+"11",2021,"South Reference (SC3)","T1",1.2,0.34,1.35
+"12",2021,"South Reference (SC3)","T2",1.19,0.5,1.35
+"13",2022,"Drainage Enhancement (SC1)","T1",1.27,0.57,1.45
+"14",2022,"Drainage Enhancement (SC1)","T2",1.27,0.54,1.42
+"15",2022,"Drainage Enhancement (SC1)","T3",1.41,1.37,1.44
+"16",2022,"Drainage Enhancement (SC1)","T4",1.4,1.39,1.43
+"17",2022,"Drainage Enhancement (SC2)","T1",1.19,0.56,1.4
+"18",2022,"Drainage Enhancement (SC2)","T2",1.3,0.94,1.42
+"19",2022,"Drainage Enhancement (SC2)","T3",1.29,-0.59,1.44
+"20",2022,"Drainage Enhancement (SC2)","T4",1.3,0.29,1.41
+"21",2022,"No Action","T1",1.35,1.21,1.45
+"22",2022,"No Action","T2",1.32,1.19,1.52
+"23",2022,"North Reference (NNC)","T1",1.44,1.07,1.54
+"24",2022,"North Reference (NNC)","T2",1.44,1.19,1.52
+"25",2022,"South Reference (SC3)","T1",1.16,0.19,1.35
+"26",2022,"South Reference (SC3)","T2",1.18,0.59,1.37
+"27",2023,"Drainage Enhancement (SC1)","T1",1.3,0.51,1.49
+"28",2023,"Drainage Enhancement (SC1)","T2",1.33,0.54,1.45
+"29",2023,"Drainage Enhancement (SC1)","T3",1.44,1.41,1.48
+"30",2023,"Drainage Enhancement (SC1)","T4",1.43,1.41,1.47
+"31",2023,"Drainage Enhancement (SC2)","T1",1.25,0.48,1.47
+"32",2023,"Drainage Enhancement (SC2)","T2",1.38,1.03,1.49
+"33",2023,"Drainage Enhancement (SC2)","T3",1.36,-0.44,1.51
+"34",2023,"Drainage Enhancement (SC2)","T4",1.33,-0.34,1.47
+"35",2023,"North Reference (NNC)","T1",1.42,0.94,1.52
+"36",2023,"North Reference (NNC)","T2",1.43,1.15,1.5
+"37",2023,"South Reference (SC3)","T1",1.23,0.39,1.4
+"38",2023,"South Reference (SC3)","T2",1.23,0.54,1.41
+"39",2024,"Drainage Enhancement (SC1)","T1",1.29,0.56,1.45
+"40",2024,"Drainage Enhancement (SC1)","T2",1.29,0.51,1.43
+"41",2024,"Drainage Enhancement (SC1)","T3",1.42,1.39,1.46
+"42",2024,"Drainage Enhancement (SC1)","T4",1.41,1.37,1.48
+"43",2024,"Drainage Enhancement (SC2)","T1",1.16,0.45,1.35
+"44",2024,"Drainage Enhancement (SC2)","T2",1.26,0.92,1.36
+"45",2024,"Drainage Enhancement (SC2)","T3",1.29,0.47,1.41
+"46",2024,"Drainage Enhancement (SC2)","T4",1.27,0.54,1.39
+"47",2024,"No Action","T1",1.37,1.22,1.47
+"48",2024,"No Action","T2",1.35,1.2,1.49
+"49",2024,"North Reference (NNC)","T1",1.37,0.86,1.48
+"50",2024,"North Reference (NNC)","T2",1.37,1.13,1.45
+"51",2024,"South Reference (SC3)","T1",1.17,0.34,1.44
+"52",2024,"South Reference (SC3)","T2",1.17,0.46,1.37

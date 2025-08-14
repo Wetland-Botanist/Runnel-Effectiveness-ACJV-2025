@@ -1,0 +1,9 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Pine Island - North - Reference",2021,1.523,0.023,0
+"2","Pine Island - North - Reference",2024,1.538,0.024,0.0150000000000001
+"3","Pine Island - North - Runnel",2021,1.471,0.03,0
+"4","Pine Island - North - Runnel",2024,1.484,0.026,0.0129999999999999
+"5","Pine Island - South - Reference",2021,1.493,0.024,0
+"6","Pine Island - South - Reference",2024,1.485,0.025,-0.00800000000000001
+"7","Pine Island - South - Runnel",2021,1.239,0.021,0
+"8","Pine Island - South - Runnel",2024,1.254,0.025,0.0149999999999999

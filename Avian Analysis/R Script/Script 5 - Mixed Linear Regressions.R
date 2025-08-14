@@ -5,11 +5,10 @@
 #Date Last Edited: March 22nd, 2024
 
 
-# Purpose: Conduct Mixed Linear Two-WAY ANOVAs on the avian community metrics, Graph the results
+# Purpose: Conduct Mixed Linear Two-WAY ANCOVAs on the avian community metrics, Graph the results
 
 
-# Chapter 1: Set up Code
-
+# Chapter 1: Package Library ------------------------------------------------
 rm(list = ls())
 
 #Library & Packages
@@ -33,7 +32,7 @@ library(ggResidpanel)
 
 
 
-#Chapter 2: Load the 0 - 50 m SHARP Point Count dataset (surveys averaged per monitoring season)
+#Chapter 2: Import the 0 - 50 m SHARP Point Count dataset -----------------
 # Dataset is formatted to remove feeding habits and individual species
 # Only SHARP points of 'runnel' treatment are retained for the regressions
 
@@ -45,10 +44,8 @@ library(ggResidpanel)
 # Change the state of Broad Cove to 'Rhode Island' since it is in the Narragansett Bay Estuary system
 # Add a 'Region' classifier that divides the sites between North Shore Mass and Narragansett Bay
 
-birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+birds <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
   select(-X, -c(Aerial:Wading), -c(AGWT:YEWA)) %>%
-  filter(!is.na(runnel_age), Site != "Moody Marsh") %>%
-  filter(Site != 'Broad Cove' | Treatment != 'No Action') %>%
   mutate(State = ifelse(str_starts("Broad Cove", Site), "RI", State)) %>%
   mutate(Region = ifelse(State == "RI", "Narragansett Bay", 
                          ifelse (State == "MA", "North Shore Mass", "Above Cape Cod")))
@@ -73,7 +70,7 @@ birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - 
 
 #Note - square-root transformation needed to improve QQ Plot and normality
 
-total <- lmer(sqrt(totalbirds) ~ runnel_age * Region + (1|PointID),
+total <- lmer(sqrt(totalbirds) ~ runnel_age * Treatment + (1|PointID),
                data = birds)
 
 #Residual plots of the model -- checking assumptions of ANOVA
@@ -101,7 +98,7 @@ summary(total)
 
 total_graph <- ggplot(birds,
                       aes(x = runnel_age, y = totalbirds)) +
-  geom_point(aes(fill = Region),
+  geom_point(aes(fill = Treatment),
              pch = 21, 
              size = 6) + 
  # geom_text_repel(aes(
@@ -110,22 +107,31 @@ total_graph <- ggplot(birds,
   scale_y_continuous(limits = c(-0.5, 30),
                      breaks = seq(0, 30, 5),
                      expand = c(0,0)) + 
-  scale_x_continuous(limits = c(-0.5, 10.5),
-                     breaks = seq(0, 10.5, 2),
+  scale_x_continuous(limits = c(-0.5, 12.5),
+                     breaks = seq(0, 12.5, 2),
                      expand = c(0,0)) + 
   labs(y = "Total Bird Abundance",
        x = element_blank()) +
   theme_bw() +
   theme(
-    legend.text = element_text(size = 16, colour = "black"),
+    strip.text = element_text(size = 25, colour = "black"), 
+    strip.background = element_blank(), 
+    legend.text = element_text(size = 25, colour = "black"),
     legend.title = element_blank(),
-    legend.position = c(0.20, 0.85),
+    legend.position = "blank",
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
-    axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.title = element_text(size = 25, colour = "black"),
+    axis.text = element_text(size = 25, colour = "black")) +
+  facet_wrap(~Treatment,
+             ncol = 1, nrow = 3)
 
 total_graph
+
+ggsave(total_graph,
+       filename = "Figures\\Total Bird Abundance Over Time.jpg",
+       dpi = 300, units = "in", limitsize = FALSE,
+       height = 14, width = 9)
 
 
 
@@ -143,7 +149,7 @@ sparrows <- birds %>%
 
 #Marsh sparrow model
 
-salty <- lmer(sqrt(saltysparrow) ~ runnel_age * Region + (1|PointID),
+salty <- lmer(sqrt(saltysparrow) ~ runnel_age * Treatment + (1|PointID),
               data = sparrows)
 
 #Residual plots of the model -- checking assumptions of ANOVA
@@ -197,29 +203,39 @@ sparrow_graph <- ggplot() +
   #          aes(x = runnel_age, y = predicted),
    #         linewidth = 1.5) +
   geom_point(data = sparrows,
-             aes(y = saltysparrow, x = runnel_age, fill = Region),
+             aes(y = saltysparrow, x = runnel_age, fill = Treatment),
              pch = 21, size = 6) + 
  # geom_text_repel(data = sparrows,
   #                aes(y = saltysparrow + 0.15, x = runnel_age, label = Site)) + 
   scale_y_continuous(limits = c(-0.5, 15),
                      breaks = seq(0, 15, 3),
                      expand = c(0,0)) + 
-  scale_x_continuous(limits = c(-0.5, 10.5),
-                     breaks = seq(0, 10.5, 2),
+  scale_x_continuous(limits = c(-0.5, 12.5),
+                     breaks = seq(0, 12.5, 2),
                      expand = c(0,0)) + 
   labs(y = "Marsh Sparrow Abundance",
        x = element_blank()) +
   theme_bw() +
   theme(
-    legend.text = element_text(size = 16, colour = "black"),
+    strip.text = element_text(size = 25, colour = "black"), 
+    strip.background = element_blank(), 
+    legend.text = element_text(size = 25, colour = "black"),
     legend.title = element_blank(),
-    legend.position = "none",
+    legend.position = "blank",
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
-    axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.title = element_text(size = 25, colour = "black"),
+    axis.text = element_text(size = 25, colour = "black")) +
+  facet_wrap(~Treatment,
+             ncol = 1, nrow = 3)
 
 sparrow_graph
+
+ggsave(sparrow_graph,
+       filename = "Figures\\Sparrow Abundance Over Time.jpg",
+       dpi = 300, units = "in", limitsize = FALSE,
+       height = 14, width = 9)
+
 
 
 
@@ -228,7 +244,7 @@ sparrow_graph
 
 #Analysis Notes - square root transformation to improve anova assumptions of normality of data
 
-panne <- lmer(sqrt(Panne_Dependent) ~ runnel_age * Region + (1|PointID),
+panne <- lmer(sqrt(Panne_Dependent) ~ runnel_age * Treatment + (1|PointID),
               data = birds)
 
 #Residual plots of the model -- checking assumptions of ANOVA
@@ -260,7 +276,7 @@ summary(panne)
 
 panne_graph <- ggplot(birds,
                 aes(x = runnel_age, y = Panne_Dependent)) +
-  geom_point(aes(fill = Region),
+  geom_point(aes(fill = Treatment),
              pch = 21,
              size = 6) + 
   #geom_text_repel(aes(
@@ -270,29 +286,40 @@ panne_graph <- ggplot(birds,
   scale_y_continuous(limits = c(-1, 100),
                      breaks = seq(0, 100, 25),
                      expand = c(0,0)) + 
-  scale_x_continuous(limits = c(-01, 11),
-                     breaks = seq(0, 11, 2),
+  scale_x_continuous(limits = c(-0.5, 12.5),
+                     breaks = seq(0, 12.5, 2),
                      expand = c(0,0)) + 
   labs(y = "Panne and Pool Species (%)",
        x = element_blank()) +
-  theme_bw() +
+  theme_bw() + 
   theme(
-    legend.text = element_text(size = 16, colour = "black"),
+    strip.text = element_text(size = 25, colour = "black"), 
+    strip.background = element_blank(), 
+    legend.text = element_text(size = 25, colour = "black"),
     legend.title = element_blank(),
-    legend.position = "none",
+    legend.position = "blank",
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
-    axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.title = element_text(size = 25, colour = "black"),
+    axis.text = element_text(size = 25, colour = "black")) +
+  facet_wrap(~Treatment,
+             ncol = 1, nrow = 3)
 
 panne_graph
+
+ggsave(panne_graph,
+       filename = "Figures\\Panne and Pool Percentage Over Time.jpg",
+       dpi = 300, units = "in", limitsize = FALSE,
+       height = 14, width = 9)
+
+
 
 
 #Analysis 4: Weighed Wetland Score
 
 #Analysis notes - no transformation or outliers removed
 
-wetland <- lmer(weighted_wetland_score ~ runnel_age * Region + (1|PointID),
+wetland <- lmer(weighted_wetland_score ~ runnel_age * Treatment + (1|PointID),
                 data = birds)
 
 
@@ -322,7 +349,7 @@ summary(wetland)
 #Predicted values of the Marsh Sparrow Model
 
 #Predicts the wetland score over runnel age for each Region
-predicted_wetland <- ggpredict(wetland, term = c("runnel_age[all]" , "Region[all]"),
+predicted_wetland <- ggpredict(wetland, term = c("runnel_age[all]"),
                                back.transform = FALSE, 
                                interval = 'confidence',
                                type = 'fixed') %>%
@@ -334,17 +361,9 @@ predicted_wetland <- ggpredict(wetland, term = c("runnel_age[all]" , "Region[all
 #Graph the wetland score regression
 
 wetland_graph <- ggplot() +
-  geom_ribbon(data = predicted_wetland,
-              aes(x = runnel_age, ymin = conf.low, ymax = conf.high,
-                  colour = Region, fill = Region),
-              size = 1, linetype = 'dashed', alpha = 0.50) + 
-  geom_line(data = predicted_wetland,
-            aes(x = runnel_age, y = predicted,
-                colour = Region),
-            linewidth = 1.5) +
   geom_point(data = birds,
              aes(x = runnel_age, y = weighted_wetland_score,
-                 fill = Region),
+                 fill = Treatment),
              pch = 21, size = 6) + 
  # geom_text_repel(data = birds,
   #                aes(x = runnel_age, y = weighted_wetland_score,
@@ -365,7 +384,8 @@ wetland_graph <- ggplot() +
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
     axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.text = element_text(size = 18, colour = "black")) +
+  facet_wrap(~Treatment)
 
 wetland_graph
 
@@ -378,7 +398,7 @@ wetland_graph
 
 #Analysis notes - no need for transformation, outlier removal
 
-shannon <- lmer(shannon ~ runnel_age * Region + (1|PointID),
+shannon <- lmer(shannon ~ runnel_age * Treatment + (1|PointID),
                 data = birds)
 
 #Residual plots of the model -- checking assumptions of ANOVA
@@ -407,7 +427,7 @@ summary(shannon)
 
 shannon_graph <- ggplot(birds,
                         aes(x = runnel_age, y = shannon)) +
-  geom_point(aes(fill = Region),
+  geom_point(aes(fill = Treatment),
              size = 6,
              pch = 21) + 
  # geom_text_repel(aes(y = shannon, label = Site)) + 
@@ -427,7 +447,8 @@ shannon_graph <- ggplot(birds,
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
     axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.text = element_text(size = 18, colour = "black")) +
+  facet_wrap(~Treatment)
 
 shannon_graph
 
@@ -438,7 +459,7 @@ shannon_graph
 
 #Analysis notes - no need for transformation, outlier removal
 
-species_richness <- lmer(richness ~ runnel_age * Region + (1|PointID),
+species_richness <- lmer(richness ~ runnel_age * Treatment + (1|PointID),
                          data = birds)
 
 #Residual plots of the model -- checking assumptions of ANOVA
@@ -467,7 +488,7 @@ summary(species_richness)
 
 richness_graph <- ggplot(birds,
                   aes(x = runnel_age, y = richness)) +
-  geom_point(aes(fill = Region),
+  geom_point(aes(fill = Treatment),
              size = 6,
              pch = 21) + 
   #geom_text_repel(aes(y = richness, label = Site)) + 
@@ -487,7 +508,8 @@ richness_graph <- ggplot(birds,
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
     axis.title = element_text(size = 18, colour = "black"),
-    axis.text = element_text(size = 18, colour = "black"))
+    axis.text = element_text(size = 18, colour = "black")) + 
+  facet_wrap(~Treatment)
 
 richness_graph
 
@@ -503,7 +525,7 @@ regression_graph
 #Save the Graph 
 
 ggsave(regression_graph,
-       filename = "Avian Analysis\\Figures\\Mixed Linear Regressions.jpg",
+       filename = "Figures\\Mixed Linear Regressions.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 12, width = 16)
 
@@ -515,12 +537,12 @@ ggsave(regression_graph,
 anova_tables <- rbind(total_anova, salty_anova, panne_anova, wetland_anova, species_richness_anova, shannon_anova)
 
 write.csv(anova_tables,
-          "Avian Analysis\\Output Stats\\Mixed Regression Tables Compiled.csv")
+          "Output Stats\\Mixed Regression Tables Compiled.csv")
 
 #Combine the model tidy tables 
 
 tidy_tables <- rbind(total_tidy, salty_tidy, panne_tidy, wetland_tidy, species_richness_tidy, shannon_tidy)
 
 write.csv(tidy_tables,
-          "Avian Analysis\\Output Stats\\Mixed Regression Model Tables Compiled.csv")
+          "Output Stats\\Mixed Regression Model Tables Compiled.csv")
 

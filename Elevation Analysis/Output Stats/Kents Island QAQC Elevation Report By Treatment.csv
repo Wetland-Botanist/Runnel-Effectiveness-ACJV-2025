@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Kents Island - No Action",2022,1.42,0.007,0
+"2","Kents Island - No Action",2024,1.402,0.01,-0.018
+"3","Kents Island - Reference",2022,1.375,0.014,0
+"4","Kents Island - Reference",2024,1.363,0.015,-0.012
+"5","Kents Island - Runnel",2022,1.365,0.016,0
+"6","Kents Island - Runnel",2024,1.435,0.008,0.0700000000000001

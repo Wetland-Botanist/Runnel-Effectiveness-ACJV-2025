@@ -1,0 +1,13 @@
+"","Site_Treatment","Transect","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Narrow River - No Action","T1",2022,0.504,0.012,0
+"2","Narrow River - No Action","T1",2024,0.51,0.016,0.00600000000000001
+"3","Narrow River - No Action","T2",2022,0.511,0.016,0
+"4","Narrow River - No Action","T2",2024,0.515,0.02,0.004
+"5","Narrow River - Reference","T1",2022,0.467,0.015,0
+"6","Narrow River - Reference","T1",2024,0.491,0.014,0.024
+"7","Narrow River - Reference","T2",2022,0.417,0.004,0
+"8","Narrow River - Reference","T2",2024,0.442,0.005,0.025
+"9","Narrow River - Runnel","T1",2022,0.46,0.008,0
+"10","Narrow River - Runnel","T1",2024,0.491,0.007,0.031
+"11","Narrow River - Runnel","T2",2022,0.476,0.009,0
+"12","Narrow River - Runnel","T2",2024,0.535,0.015,0.0590000000000001

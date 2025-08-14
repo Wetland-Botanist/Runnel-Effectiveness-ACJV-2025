@@ -1,0 +1,125 @@
+Site,Sub_Site,State,Treatment_Name,Overall_Treatment,WLR Name,Year,Year_0,Time_Since_Restoration,Creek,Spring_Tide_Adjustment_cm,Elevation_NAVD88m,Platform_Flood_Duration,Platform_HT_Frequency,Platform_Drainage_Depth_m,Root_Flood_Duration,Root_HT_Frequency,Root_Drainage_Depth_m,Drainage_Amplitude_m,Include_Analysis,Tidal_Range,Lingering Questions,Analysis Notes
+Broad Cove,,MA,Runnel,Runnel,RUN,2021,2017,4,Creek,-0.022,1.018,41.4,31.6,0.047,58.6,40.4,-0.003,0.126,Yes,Microtidal,Standing water for 5 - 6 days during spring tides? Broad Cove is a very well-drained system…, Maybe the cap was missing? Is water sitting in pipe? Remove the rainy days
+Broad Cove,,MA,Runnel,Runnel,RUN,2024,2017,7,Creek,-0.036,1.018,9.6,12.1,0.144,30.5,19,0.094,0.132,Yes,Microtidal,,
+Broad Cove,,MA,Reference,Reference,REF,2021,2017,4,Creek,WLR Malfunction,1.007,,,,,,,,No,Microtidal,,
+Broad Cove,,MA,Reference,Reference,REF,2024,2017,7,Creek,-0.027,1.007,2,13.8,0.215,29.7,22.4,0.165,0.227,Yes,Microtidal,,
+Canonchet,,RI,Runnel,Runnel,RUN,2022,2015,7,Creek,0.002,0.428,44.3,57.9,0.064,53.7,71.9,0.014,0.124,Yes,Microtidal,Standing water for 10 days during spring tides. Not sure if runnel is functioning properly?,Double-check for notes upon messing with
+Canonchet,,RI,Runnel,Runnel,RUN,2024,2015,9,Creek,0.03,0.428,6.9,43.1,0.103,43.5,51.7,0.053,0.139,Yes,Microtidal,,
+Canonchet,,RI,Reference,Reference,REF,2022,2015,7,Creek,0.038,0.453,21.1,45.6,0.084,53.5,64.9,0.034,0.147,Yes,Microtidal,,
+Canonchet,,RI,Reference,Reference,REF,2024,2015,9,Creek,0.026,0.453,11.2,32.8,0.114,46,51.7,0.064,0.2,Yes,Microtidal,,
+Canonchet,,RI,No Action,No Action,NAC,2022,2015,7,Creek,-0.031,0.416,100,61.4,-0.09,100,75.4,-0.14,0.061,Yes,Microtidal,A standing pool the entire time? 10 - 15 cm pool depth the entire time. WLR is set next to a pool!,
+Canonchet,,RI,No Action,No Action,NAC,2024,2015,9,Creek,0.017,0.416,99.4,44.8,-0.055,100,55.2,-0.105,0.058,Yes,Microtidal,A standing pool the entire time? 10 - 15 cm pool depth the entire time. WLR is set next to a pool!,
+Jacobs Point,,RI,Runnel,Runnel,RUN,2021,2016,5,Creek,0.007,0.873,11.1,42.1,0.074,31.6,54.4,0.024,0.027,Yes,Microtidal,,
+Jacobs Point,,RI,Runnel,Runnel,RUN,2024,2016,8,Creek,-0.005,0.873,2.6,24.1,0.088,34.5,41.4,0.038,0.089,Yes,Microtidal,,
+Jacobs Point,,RI,Reference,Reference,REF,2021,2016,5,Creek,0.009,0.82,8.9,56.1,0.036,84,63.2,-0.014,0.096,Yes,Microtidal,,
+Jacobs Point,,RI,Reference,Reference,REF,2024,2016,8,Creek,0.014,0.82,4,43.1,0.132,17.2,50,0.082,0.175,Yes,Microtidal,,
+Jacobs Point,,RI,No Action,No Action,NAC,2021,2016,5,Creek,0.014,0.788,76.1,63.2,0.004,100,68.4,-0.046,0.045,Yes,Microtidal,,
+Jacobs Point,,RI,No Action,No Action,NAC,2024,2016,8,Creek,-0.046,0.788,12.9,48.3,0.063,72.5,51.7,0.013,0.183,Yes,Microtidal,,
+Middlebridge,,RI,Runnel,Runnel,RUN,2022,2016,6,Creek,-0.002,0.308,55.9,86,0.046,73.5,93,-0.004,0.082,Yes,Microtidal,,
+Middlebridge,,RI,Runnel,Runnel,RUN,2024,2016,8,Creek,-0.021,0.308,13.6,58.6,0.184,18.2,74.1,0.134,0.154,Yes,Microtidal,,
+Middlebridge,,RI,Reference,Reference,REF,2022,2016,6,Creek,0,0.427,35.3,56.1,0.072,48.5,68.4,0.022,0.132,Yes,Microtidal,Reference has 1 - 2 cm of standing water during 9 days of spring tides; Within RTK-GPS error,
+Middlebridge,,RI,Reference,Reference,REF,2024,2016,8,Creek,-0.007,0.427,6.3,27.6,0.14,35.5,46.6,0.09,0.184,Yes,Microtidal,,
+Middlebridge,,RI,No Action,No Action,NAC,2022,2016,6,Creek,-0.029,0.454,59.9,42.1,0.004,98.6,61.4,-0.046,0.06,Yes,Microtidal,,
+Middlebridge,,RI,No Action,No Action,NAC,2024,2016,8,Creek,-0.027,0.454,4.9,20.7,0.065,59,37.9,0.015,0.103,Yes,Microtidal,,
+Narrow River,,RI,Runnel,Runnel,RUN,2022,2016,6,Creek,0.026,0.467,7.5,22.8,0.224,13.8,36.8,0.174,0.111,Yes,Microtidal,,
+Narrow River,,RI,Runnel,Runnel,RUN,2024,2016,8,Creek,-0.031,0.467,12,17.2,0.182,15.4,32.8,0.132,0.14,Yes,Microtidal,,
+Narrow River,,RI,Reference,Reference,REF,2022,2016,6,Creek,0.053,0.442,29,31.6,0.055,37.7,43.9,0.005,0.095,Yes,Microtidal,Standing water of 10 - 15 cm during spring tides. ,Check with Wenley about possible issues; look for rainfall events; Possibly remove from dataset
+Narrow River,,RI,Reference,Reference,REF,2024,2016,8,Creek,-0.025,0.442,48.3,24.1,0.027,70.7,43.1,-0.023,0.118,Yes,Microtidal,Standing water of 10 - 15 cm during spring tides. ,Check with Wenley about possible issues; look for rainfall events; Possibly remove from dataset
+Narrow River,,RI,No Action,No Action,NAC,2022,2016,6,Creek,-0.056,0.508,32.9,10.5,0.087,40.6,26.3,0.037,0.134,Yes,Microtidal,,
+Narrow River,,RI,No Action,No Action,NAC,2024,2016,8,Creek,-0.025,0.508,2.7,6.9,0.064,49,19,0.014,0.11,Yes,Microtidal,,
+Potters Pond,,RI,Runnel,Runnel,RUN,2021,2018,3,Creek,-0.034,0.174,42.3,85.7,0.063,67.4,94.6,0.013,0.079,Yes,Microtidal,,
+Potters Pond,,RI,Runnel,Runnel,RUN,2024,2018,6,Creek,0.057,0.174,29.2,56.9,0.091,59.1,74.1,0.041,0.112,Yes,Microtidal,,
+Potters Pond,,RI,Reference,Reference,REF,2021,2018,3,Creek,0.029,0.246,45.8,46.4,0.024,80.5,78.6,-0.026,0.103,Yes,Microtidal,Standing water of 2 - 4 cm during 5 days of spring tides?; Within RTK-GPS Error,
+Potters Pond,,RI,Reference,Reference,REF,2024,2018,6,Creek,-0.012,0.246,24,31,0.088,42.7,51.7,0.038,0.104,Yes,Microtidal,Standing water of 2 - 4 cm during 5 days of spring tides?; Within RTK-GPS Error,
+Potters Pond,,RI,No Action,No Action,NAC,2021,2018,3,Creek,-0.045,0.122,68.1,94.6,0.016,96.8,100,-0.034,0.06,Yes,Microtidal,,
+Potters Pond,,RI,No Action,No Action,NAC,2024,2018,6,Creek,-0.001,0.122,82.4,75.9,-0.004,90.4,87.9,-0.054,0.229,Yes,Microtidal,,
+Round Marsh,,RI,Runnel,Runnel,RUN,2021,2014,7,Creek,WLR Malfunction,0.648,,,,,,,,No,Microtidal,,
+Round Marsh,,RI,Runnel,Runnel,RUN,2024,2014,10,Creek,-0.013,0.648,9.4,37.9,0.064,67.4,51.7,0.014,0.126,Yes,Microtidal,,
+Round Marsh,,RI,Reference,Reference,REF,2021,2014,7,Creek,0.022,0.708,2.4,50,0.048,83.6,58.9,-0.002,0.034,Yes,Microtidal,,Water elevations lowered 6.2 cm by the difference in spot marsh elevations of 21 - 24
+Round Marsh,,RI,Reference,Reference,REF,2024,2014,10,Creek,-0.01,0.708,3,19,0.061,61.5,36.2,0.011,0.073,Yes,Microtidal,,
+Round Marsh,,RI,No Action,No Action,NAC,2021,2014,7,Creek,0.04,0.633,11.9,67.9,0.023,96,71.4,-0.027,0.041,Yes,Microtidal,,
+Round Marsh,,RI,No Action,No Action,NAC,2024,2014,10,Creek,-0.026,0.633,16,41.4,0.045,74.8,51.7,-0.005,0.103,Yes,Microtidal,,
+Sapowet,North,RI,North Runnel,Runnel,North_RUN,2022,2018,4,Creek,-0.012,0.626,2.3,10.3,0.187,11.8,13.8,0.137,0.14,Yes,Microtidal,,
+Sapowet,North,RI,North Runnel,Runnel,North_RUN,2024,2018,6,Creek,0.012,0.626,10.2,33.3,0.091,38.6,43.9,0.041,0.118,Yes,Microtidal,,
+Sapowet,North,RI,North Reference,Reference,North_REF,2022,2018,4,Creek,0.022,0.615,1.5,10.3,0.276,2.2,15.5,0.226,0.216,Yes,Microtidal,Marsh drains a lot!; 2022 was a very dry yeare and may explain the large drainage,
+Sapowet,North,RI,North Reference,Reference,North_REF,2024,2018,6,Creek,-0.014,0.615,18.6,35.1,0.078,69,47.4,0.028,0.24,Yes,Microtidal,,
+Sapowet,South,RI,South Runnel,Runnel,South_RUN,2022,2022,0,Creek,-0.015,0.68,5.1,13.8,0.148,13.6,25.9,0.098,0.097,Yes,Microtidal,,
+Sapowet,South,RI,South Runnel,Runnel,South_RUN,2024,2022,2,Creek,0.046,0.68,15,43.9,0.072,44.7,50.9,0.022,0.11,Yes,Microtidal,,Not spring tide adjusted
+Sapowet,South,RI,South No Action,No Action,South_NAC,2022,2022,0,Creek,0.001,0.666,1.5,10.3,0.153,2.7,12.1,0.103,0.097,Yes,Microtidal,Marsh drains a lot!; 2022 was a very dry yeare and may explain the large drainage,
+Sapowet,South,RI,South No Action,No Action,South_NAC,2024,2022,2,Creek,0.002,0.666,29.8,31.6,0.041,73.1,38.6,-0.009,0.106,Yes,Microtidal,,
+Weekapaug,,RI,Runnel,Runnel,RUN,2021,2017,4,Creek,0.044,0.199,76.2,96.4,0.003,97.1,100,-0.047,0.077,Yes,Microtidal,,
+Weekapaug,,RI,Runnel,Runnel,RUN,2024,2017,7,Creek,-0.02,0.199,21.8,67.2,0.11,29.1,82.8,0.06,0.171,Yes,Microtidal,,
+Weekapaug,,RI,Reference,Reference,REF,2021,2017,4,Creek,0.019,0.245,23.5,87.3,0.107,40.4,100,0.057,0.064,Yes,Microtidal,,
+Weekapaug,,RI,Reference,Reference,REF,2024,2017,7,Creek,-0.019,0.245,15.2,56.9,0.109,25.9,69,0.059,0.074,Yes,Microtidal,,
+Weekapaug,,RI,No Action,No Action,NAC,2021,2017,4,Creek,-0.004,0.175,94.2,100,-0.04,100,100,-0.09,0.08,Yes,Microtidal,Standing water of 7 - 9 cm for 2/3 of the monitoring period; Placed in a pool,
+Weekapaug,,RI,No Action,No Action,NAC,2024,2017,7,Creek,-0.01,0.175,31.5,72.4,0.076,69,86.2,0.026,0.126,Yes,Microtidal,,
+Winnapaug,,RI,Runnel,Runnel,RUN,2021,2013,8,Creek,-0.015,0.226,34.1,92.7,0.069,42.2,100,0.019,0.056,Yes,Microtidal,,
+Winnapaug,,RI,Runnel,Runnel,RUN,2024,2013,11,Creek,0.008,0.226,48.8,62.1,0.029,86.5,72.4,-0.021,0.145,Yes,Microtidal,,
+Winnapaug,,RI,Reference,Reference,REF,2021,2013,8,Creek,-0.005,0.252,30.3,87.3,0.07,73.9,96.4,0.02,0.079,Yes,Microtidal,,
+Winnapaug,,RI,Reference,Reference,REF,2024,2013,11,Creek,-0.006,0.252,13.6,58.6,0.145,21.2,67.2,0.095,0.115,Yes,Microtidal,,
+Winnapaug,,RI,No Action,No Action,NAC,2021,2013,8,Creek,0.025,0.202,40.3,96.4,0.032,95.2,100,-0.018,0.044,Yes,Microtidal,,
+Winnapaug,,RI,No Action,No Action,NAC,2024,2013,11,Creek,0.015,0.202,86.5,67.2,-0.011,91.7,84.5,-0.061,0.206,Yes,Microtidal,Standing water of 5 - 6 cm for 2/3 of the monitoring period; Within expectations of site,
+Moody Marsh,,ME,Runnel,Runnel,RUN,2021,2011,10,Creek,0,1.14,12.5,62.5,0.081,34,66.1,0.031,0.028,Yes,Mesotidal,,Spot elevation of 2024 used
+Moody Marsh,,ME,Runnel,Runnel,RUN,2024,2011,13,Creek,0.138,1.14,18.2,71.9,0.122,29.1,78.9,0.072,0.099,Yes,Mesotidal,,"Spring tide adjustment was not applied to the analyzed dataset, spot elevation of 2024 used"
+Moody Marsh,,ME,Reference,Reference,REF,2021,2011,10,Creek,0.004,1.432,54.6,25,0.057,60.9,26.8,0.007,0.15,Yes,Mesotidal,,
+Moody Marsh,,ME,Reference,Reference,REF,2024,2011,13,Creek,0.002,1.432,5.1,29.8,0.107,56.6,35.1,0.057,0.185,Yes,Mesotidal,,
+Moody Marsh,,ME,No Action,No Action,NAC,2021,2011,10,Creek,0.002,1.534,100,16.1,-0.033,100,17.9,-0.083,0.013,Yes,Mesotidal,,
+Moody Marsh,,ME,No Action,No Action,NAC,2024,2011,13,Creek,-0.007,1.534,27,19.3,0.025,88.3,22.8,-0.025,0.081,Yes,Mesotidal,,
+Pine Island,North,MA,North Runnel,Runnel,RUN,2021,2015,7,Creek,0,1.292,84.4,66.7,-0.007,100,73.7,-0.057,0.034,Yes,Mesotidal,,Used spot elevation for North Runnel - 1.292 from 2024 Monitroing
+Pine Island,North,MA,North Runnel,Runnel,RUN,2024,2015,9,Creek,Boston NOAA ,1.292,51.6,71.7,0.009,78.7,83.3,-0.041,0.115,Yes,Mesotidal,,Used spot elevation for North Runnel - 1.292 from 2024 Monitroing
+Pine Island,North,MA,North Reference,Reference,REF,2021,2015,7,Creek,-0.04,1.549,39.8,19.3,0.064,56.7,31.6,0.014,0.094,Yes,Mesotidal,Standing water on the marsh surface  1- 2 cm during spring tides continuously; Within RTK-GPS error,Used spot elevation for North Reference - 1.549 from 2024 Monitoring
+Pine Island,North,MA,North Reference,Reference,REF,2024,2015,9,Creek,WLR Malfunction,1.549,,,,,,,,No,Mesotidal,,"WLR Malfunction, not used"
+Pine Island,South,MA,South Runnel,Runnel,RUN,2021,2015,7,Creek,0.09,1.479,6,38.6,0.174,8.9,54.4,0.124,0.04,Yes,Mesotidal,,Used spot selevation for South Runnel - 1.479 from 2024 Monitoring
+Pine Island,South,MA,South Runnel,Runnel,RUN,2024,2015,9,Creek,Boston NOAA ,1.479,6.4,53.3,0.193,8.8,56.7,0.143,0.056,Yes,Mesotidal,,Used spot selevation for South Runnel - 1.479 from 2024 Monitoring
+Pine Island,South,MA,South Reference,Reference,REF,2021,2015,7,Creek,-0.04,1.557,1.7,19.3,0.158,3,28.1,0.108,0.118,Yes,Mesotidal,,Used spot elevation for South Reference - 1.557 from 2024 Monitoring
+Pine Island,South,MA,South Reference,Reference,REF,2024,2015,9,Creek,Boston NOAA ,1.557,5,30,0.108,31.7,51.7,0.058,0.177,Yes,Mesotidal,,Used spot elevation for South Reference - 1.557 from 2024 Monitoring
+Pine Island,North,MA,No Action,No Action,NAC,2021,2015,7,Creek,0,1.545,3.5,19.3,0.049,89.7,35.1,-0.001,0.051,Yes,Mesotidal,,Used spot elevation for NAC - 1.545 m from 2024 Monitoring
+Pine Island,North,MA,No Action,No Action,NAc,2024,2015,9,Creek,Boston NOAA ,1.545,7.6,33.3,0.063,44.2,53.3,0.013,0.168,Yes,Mesotidal,,Used spot elevation for NAC - 1.545 m from 2024 Monitoring
+Plum Island - DPR,North,MA,North Runnel,Runnel,North_RUN,2021,2016,5,Creek,-0.005,1.514,38.5,17,0.034,69.2,20.8,-0.016,0.079,Yes,Mesotidal,,
+Plum Island - DPR,North,MA,North Runnel,Runnel,North_RUN,2024,2016,8,Creek,0.075,1.514,8,32.8,0.106,38.6,41.4,0.056,0.121,Yes,Mesotidal,,
+Plum Island - DPR,North,MA,North Reference,Reference,North_REF,2021,2016,5,Creek,-0.02,1.495,40.1,17,0.061,52.1,22.6,0.011,0.099,Yes,Mesotidal,"Standing water of 1 - 2 cm for ~ 10 days; Most likely within RTK-GPS Error, so no issues. ",
+Plum Island - DPR,North,MA,North Reference,Reference,North_REF,2024,2016,8,Creek,0.022,1.495,3.3,34.5,0.174,19.2,41.4,0.124,0.144,Yes,Mesotidal,,Manually lowered the water elevation by 9.2 cm (difference in 21 and 24 spot elevations)
+Plum Island - DPR,South,MA,South Runnel,Runnel,South_RUN,2021,2017,4,Creek,-0.021,1.528,4.5,17,0.111,21.3,20.8,0.061,0.077,Yes,Mesotidal,,
+Plum Island - DPR,South,MA,South Runnel,Runnel,South_RUN,2024,2017,7,Creek,-0.011,1.528,24.2,31,0.092,38.2,39.7,0.042,0.129,Yes,Mesotidal,,
+Plum Island - DPR,South,MA,South Reference,Reference,South_REF,2021,2017,4,Creek,0.009,1.501,42,17,0.039,68.5,22.6,-0.011,0.082,Yes,Mesotidal,,
+Plum Island - DPR,South,MA,South Reference,Reference,South_REF,2024,2017,7,Creek,0.038,1.501,36,34.5,0.017,91.7,41.4,-0.033,0.042,No,Mesotidal,Standing water of 5 - 6 cm depth for 10 days during spring tides,Throw out of database
+Plum Island - DPR,South,MA,No Action,No Action,NAC,2021,2017,4,Creek,0.012,1.494,89.3,17,-0.015,100,22.6,-0.065,0.035,Yes,Mesotidal,,
+Plum Island - DPR,South,MA,No Action,No Action,NAC,2024,2017,7,Creek,0.086,1.494,37.8,34.5,0.031,71.2,41.4,-0.019,0.104,Yes,Mesotidal,,Not spring tide adjusted
+Plum Island - PLHA,North,MA,North Runnel,Runnel,North_RUN,2022,2022,0,Creek,0.024,1.482,42.3,28.1,0.041,60.3,43.9,-0.009,0.146,Yes,Mesotidal,,
+Plum Island - PLHA,North,MA,North Runnel,Runnel,North_RUN,2024,2022,2,Creek,0.086,1.482,26.6,39.7,0.073,42,41.4,0.023,0.149,Yes,Mesotidal,,
+Plum Island - PLHA,North,MA,North Reference,Reference,North_REF,2022,2022,0,Creek,0.051,1.46,18.8,35.1,0.177,28.9,54.4,0.127,0.197,Yes,Mesotidal,,
+Plum Island - PLHA,North,MA,North Reference,Reference,North_REF,2024,2022,2,Creek,0.026,1.46,20.7,41.4,0.139,31.5,46.6,0.089,0.134,Yes,Mesotidal,,
+Plum Island - PLHA,South,MA,South Runnel,Runnel,South_RUN,2022,2019,3,Creek,-0.001,1.502,6.1,24.6,0.159,9.6,40.4,0.109,0.095,Yes,Mesotidal,Standing water of 5 - 8cm during the spring tides.,WLR placed in pool…
+Plum Island - PLHA,South,MA,South Runnel,Runnel,South_RUN,2024,2019,5,Creek,0.005,1.502,13.7,34.5,0.083,32.3,41.4,0.033,0.098,Yes,Mesotidal,Standing water of 10 - 12 cm during the spring tides.,Double-check hydrology numbers…
+Plum Island - PLHA,South,MA,South Reference,Reference,South_REF,2022,2019,3,Creek,0.001,1.451,11.9,40.4,0.17,33.2,56.1,0.12,0.246,Yes,Mesotidal,,
+Plum Island - PLHA,South,MA,South Reference,Reference,South_REF,2024,2019,5,Creek,0.006,1.451,31.7,41.4,0.081,55.5,46.6,0.031,0.161,Yes,Mesotidal,,
+Plum Island - PLHA,South,MA,No Action,No Action,NAC,2022,2019,3,Creek,0.011,1.393,7.6,56.1,0.071,51.9,59.6,0.021,0.115,Yes,Mesotidal,,
+Plum Island - PLHA,South,MA,No Action,No Action,NAC,2024,2019,5,Creek,0.035,1.393,8,48.3,0.055,67.9,51.7,0.005,0.079,Yes,Mesotidal,,
+Essex,North,MA,Runnel,Runnel,RUN,2022,2022,0,North Creek,-0.026,1.53,12.2,24.6,0.075,38.4,36.8,0.025,0.068,Yes,Mesotidal,,Spot elevation in 2024
+Essex,North,MA,Runnel,Runnel,RUN,2024,2022,2,North Creek,0.007,1.53,20.9,31.6,0.112,29.9,33.3,0.062,0.098,Yes,Mesotidal,Standing water of 2 - 3 cm during spring tides; Most likely within RTK-GPS Error,Spot elevation in 2024
+Essex,North,MA,No Action,No Action,NAC,2022,2022,0,North Creek,0.039,1.432,100,42.1,-0.11,100,47.4,-0.16,0.036,Yes,Mesotidal,,Spot elevation in 2024
+Essex,North,MA,No Action,No Action,NAC,2024,2022,2,North Creek,0.051,1.432,56.6,42.1,0.006,79.8,47.4,-0.044,0.086,Yes,Mesotidal,,Spot elevation in 2024
+Essex,South,MA,Runnel,Runnel,RUN,2022,2017,5,South Creek,0.02,1.222,8.8,45.6,0.077,29.3,57.9,0.027,0.049,Yes,Mesotidal,,Recalculated marsh platform elevation to exclude pool plots and include other high marsh plots (accurate measurement of platform)
+Essex,South,MA,Runnel,Runnel,RUN,2024,2017,7,South Creek,0.02,1.222,21,61.4,0.07,57.9,80.7,0.02,0.104,Yes,Mesotidal,,Recalculated marsh platform elevation to exclude pool plots and include other high marsh plots (accurate measurement of platform)
+Essex,South,MA,Reference,Reference,REF,2022,2017,5,North Creek,0.011,1.407,3.8,28.1,0.087,46.8,28.1,0.037,0.08,Yes,Mesotidal,,
+Essex,South,MA,Reference,Reference,REF,2024,2017,7,North Creek,0.028,1.407,32.4,43.9,0.074,45,45.6,0.024,0.127,Yes,Mesotidal,Standing water of 2 - 3 cm during spring tides; Wet year most likely explains it,
+Essex,South,MA,No Action,No Action,NAC,2022,2017,5,South Creek,0.026,1.353,18.4,28.1,0.04,76.4,36.8,-0.01,0.037,Yes,Mesotidal,,
+Essex,South,MA,No Action,No Action,NAC,2024,2017,7,South Creek,0.053,1.353,48,45.6,-0.004,77.7,50.9,-0.054,0.091,Yes,Mesotidal,,
+Ipswich,,MA,Runnel,Runnel,RUN,2022,2022,0,Creek,0.047,1.456,4.8,43.9,0.052,73,47.4,0.002,0.056,Yes,Mesotidal,,Spot elevation in 2024 used for marsh elevations
+Ipswich,,MA,Runnel,Runnel,RUN,2024,2022,2,Creek,-0.025,1.456,17.2,25.9,0.053,55.1,27.6,0.003,0.072,Yes,Mesotidal,,Spot elevation in 2024 used for marsh elevations
+Ipswich,,MA,Reference,Reference,REF,2022,2022,0,Creek,0.188,1.39,1.1,49.1,0.188,2.4,50.9,0.138,0.15,No,Mesotidal,"Not sure whether to spring tide adjust it. If I do, standing pool above marsh surface. ",Spot elevation in 2024 used for marsh elevations; Not spring tide adjusted; Remove from the dataset
+Ipswich,,MA,Reference,Reference,REF,2024,2022,2,Creek,0.03,1.39,14.4,29.3,0.128,41.9,36.2,0.078,0.157,Yes,Mesotidal,,Spot elevation in 2024 used for marsh elevations
+Ipswich,,MA,No Action,No Action,NAC,2022,2022,0,Creek,0.022,1.42,92,45.6,-0.022,100,49.1,-0.072,0.056,Yes,Mesotidal,,Spot elevation in 2024 used for marsh elevations
+Ipswich,,MA,No Action,No Action,NAC,2024,2022,2,Creek,0.033,1.42,5.9,27.6,0.052,61.3,36.2,0.002,0.084,Yes,Mesotidal,,Spot elevation in 2024 used for marsh elevations
+Kents Island,,MA,Runnel,Runnel,RUN,2022,2022,0,Creek,-0.004,1.424,37.5,42.1,0.043,66.3,57.9,-0.007,0.09,Yes,Mesotidal,,
+Kents Island,,MA,Runnel,Runnel,RUN,2024,2022,2,Creek,-0.081,1.424,8.6,38.6,0.1,27.3,54.4,0.05,0.087,Yes,Mesotidal,,
+Kents Island,,MA,Reference,Reference,REF,2022,2022,0,Creek,0.037,1.39,,,,,,,,No,Mesotidal,Standing water of 5 - 8 cm for 1/2 of monitnoring,Elevation recalculated for only T2 of Reference (side of creek with WLR); Toss out of dataset
+Kents Island,,MA,Reference,Reference,REF,2024,2022,2,Creek,0.001,1.39,,,,,,,,No,Mesotidal,Standing water of 5 - 8 cm for 1/2 of monitnoring,Elevation recalculated for only T2 of Reference (side of creek with WLR); Toss out of dataset
+Kents Island,,MA,No Action,No Action,NAC,2022,2022,0,Creek,-0.008,1.431,57.6,40.4,0.025,77.9,56.1,-0.025,0.13,Yes,Mesotidal,,
+Kents Island,,MA,No Action,No Action,NAC,2024,2022,2,Creek,-0.036,1.431,36.6,33.3,0.049,69.7,52.6,-0.001,0.131,Yes,Mesotidal,,
+Old Town Hill,,MA,Runnel,Runnel,RUN,2022,2020,2,North Creek,0.039,1.412,4.7,33.3,0.112,20.8,45.6,0.062,0.103,Yes,Mesotidal,,
+Old Town Hill,,MA,Runnel,Runnel,RUN,2024,2020,4,South Creek,-0.014,1.412,6.8,36.8,0.06,48.3,63.2,0.01,0.06,Yes,Mesotidal,,
+Old Town Hill,,MA,Reference,Reference,REF,2022,2020,2,North Creek,0,1.485,27.7,28.1,0.154,33.4,40.4,0.104,0.138,Yes,Mesotidal,,
+Old Town Hill,,MA,Reference,Reference,REF,2024,2020,4,South Creek,WLR Malfunction,,,,,,,,,No,Mesotidal,,Not spring tide adjusted
+Old Town Hill,,MA,No Action,No Action,NAC,2022,2020,2,North Creek,0.088,1.349,100,66.7,-0.109,100,73.7,-0.159,0.095,Yes,Mesotidal,,Not spring tide adjusted
+Old Town Hill,,MA,No Action,No Action,NAC,2024,2020,4,South Creek,0.06,1.349,100,68.4,-0.144,100,75.4,-0.194,0.02,Yes,Mesotidal,,Not spring tide adjusted

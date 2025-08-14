@@ -1,0 +1,13 @@
+"","Site_Treatment","Transect","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Kents Island - No Action","T1",2022,1.413,0.01,0
+"2","Kents Island - No Action","T1",2024,1.408,0.012,-0.00500000000000012
+"3","Kents Island - No Action","T2",2022,1.425,0.01,0
+"4","Kents Island - No Action","T2",2024,1.398,0.015,-0.0270000000000001
+"5","Kents Island - Reference","T1",2022,1.364,0.014,0
+"6","Kents Island - Reference","T1",2024,1.351,0.014,-0.0130000000000001
+"7","Kents Island - Reference","T2",2022,1.394,0.03,0
+"8","Kents Island - Reference","T2",2024,1.384,0.033,-0.01
+"9","Kents Island - Runnel","T1",2022,1.383,0.02,0
+"10","Kents Island - Runnel","T1",2024,1.443,0.013,0.0600000000000001
+"11","Kents Island - Runnel","T2",2022,1.342,0.026,0
+"12","Kents Island - Runnel","T2",2024,1.425,0.009,0.083

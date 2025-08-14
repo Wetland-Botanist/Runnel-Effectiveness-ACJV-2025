@@ -1,0 +1,21 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2022,"Plum Island - PLHA - North - Reference","T1",1.47,1.44,1.5
+"2",2022,"Plum Island - PLHA - North - Reference","T2",1.45,1.41,1.49
+"3",2022,"Plum Island - PLHA - North - Runnel","T1",1.51,1.42,1.62
+"4",2022,"Plum Island - PLHA - North - Runnel","T2",1.46,1.36,1.61
+"5",2022,"Plum Island - PLHA - South - No Action","T1",NA,Inf,-Inf
+"6",2022,"Plum Island - PLHA - South - No Action","T2",NA,Inf,-Inf
+"7",2022,"Plum Island - PLHA - South - Reference","T1",1.46,1.44,1.47
+"8",2022,"Plum Island - PLHA - South - Reference","T2",1.44,1.41,1.47
+"9",2022,"Plum Island - PLHA - South - Runnel","T1",1.52,1.44,1.59
+"10",2022,"Plum Island - PLHA - South - Runnel","T2",1.48,1.39,1.62
+"11",2024,"Plum Island - PLHA - North - Reference","T1",1.5,1.47,1.52
+"12",2024,"Plum Island - PLHA - North - Reference","T2",1.48,1.44,1.51
+"13",2024,"Plum Island - PLHA - North - Runnel","T1",1.49,1.37,1.59
+"14",2024,"Plum Island - PLHA - North - Runnel","T2",1.42,1.31,1.57
+"15",2024,"Plum Island - PLHA - South - No Action","T1",NA,Inf,-Inf
+"16",2024,"Plum Island - PLHA - South - No Action","T2",NA,Inf,-Inf
+"17",2024,"Plum Island - PLHA - South - Reference","T1",1.28,1.26,1.29
+"18",2024,"Plum Island - PLHA - South - Reference","T2",1.25,1.22,1.28
+"19",2024,"Plum Island - PLHA - South - Runnel","T1",1.49,1.37,1.57
+"20",2024,"Plum Island - PLHA - South - Runnel","T2",1.47,1.33,1.61

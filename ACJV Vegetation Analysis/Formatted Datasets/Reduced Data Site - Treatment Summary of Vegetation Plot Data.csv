@@ -1,0 +1,125 @@
+"","Salt_Marsh","Site_Treatment","Season","Year_0","Time_Since_Restoration","Site","Sub_Site","Site_Treatment_ID","State","Overall_Treatment","Tidal_Regime","Marsh_Condition","Elevation_mean","SPALT_mean","abiotic_cover_mean","live_cover_mean","high_marsh_grams_mean","algae_cover_mean","richness_mean","Canopy_Height_cm_mean"
+"1","Ogunquit Marsh","No Action",2021,2011,10,"Moody Marsh","","Moody Marsh - No Action","Maine","No Action","Mesotidal","Pool",1.534,28.2,50.6,49.4,17.9,0.4,1.6,24.9
+"2","Ogunquit Marsh","Reference",2021,2011,10,"Moody Marsh","","Moody Marsh - Reference","Maine","Reference","Mesotidal","Pool",1.432,2.2,9.6,90.4,82.8,0,4.5,23.2
+"3","Ogunquit Marsh","Runnel",2021,2011,10,"Moody Marsh","","Moody Marsh - Runnel","Maine","Runnel","Mesotidal","Pool",1.241,29.9,35.2,64.8,21.8,3.2,2.7,31.7
+"4","Salt Ponds Region","No Action",2021,2013,8,"Winnapaug","","Winnapaug - No Action","Rhode Island","No Action","Microtidal","Pool",0.203,21.2,40,60,22.5,0,2.8,27
+"5","Salt Ponds Region","Reference",2021,2013,8,"Winnapaug","","Winnapaug - Reference","Rhode Island","Reference","Microtidal","Pool",0.252,9.4,20.6,79.4,67.1,0,3.8,23.6
+"6","Salt Ponds Region","Runnel",2021,2013,8,"Winnapaug","","Winnapaug - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.226,25.9,36.5,63.5,15.2,0,3.4,23.6
+"7","Narragansett Bay","No Action",2021,2014,7,"Round Marsh","","Round Marsh - No Action","Rhode Island","No Action","Microtidal","Panne",0.633,43.1,36.5,63.9,14.7,1.5,2.8,26.8
+"8","Narragansett Bay","Reference",2021,2014,7,"Round Marsh","","Round Marsh - Reference","Rhode Island","Reference","Microtidal","Panne",0.706,6.5,8.9,91.1,84.3,0,2.7,20.1
+"9","Narragansett Bay","Runnel",2021,2014,7,"Round Marsh","","Round Marsh - Runnel","Rhode Island","Runnel","Microtidal","Panne",0.648,18.3,30.5,70.1,48.5,0.5,2.9,24.9
+"10","Parker River Estuary","No Action",2021,2015,6,"Pine Island","North","Pine Island - No Action","Massachusetts","No Action","Mesotidal","Pool",1.53,29.4,39,61,27.5,14.3,1.8,27
+"11","Parker River Estuary","North Reference",2021,2015,6,"Pine Island","North","Pine Island - North Reference","Massachusetts","Reference","Mesotidal","Pool",1.523,0.2,7.5,92.5,91.7,0,2.5,18.2
+"12","Parker River Estuary","North Runnel",2021,2015,6,"Pine Island","North","Pine Island - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.465,11.9,24.9,75.1,56.1,9.4,2.8,21.2
+"13","Parker River Estuary","South Reference",2021,2015,6,"Pine Island","South","Pine Island - South Reference","Massachusetts","Reference","Mesotidal","Pool",1.493,5.3,13.8,86.2,80.3,0,2.2,16.6
+"14","Parker River Estuary","South Runnel",2021,2015,6,"Pine Island","South","Pine Island - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.221,41,56,44,2.1,11.4,1.3,51.4
+"15","Narragansett Bay","No Action",2021,2016,5,"Jacobs Point","","Jacobs Point - No Action","Rhode Island","No Action","Microtidal","Panne",0.788,20.6,48.1,51.9,31.3,0,2.1,37.4
+"16","Narragansett Bay","Reference",2021,2016,5,"Jacobs Point","","Jacobs Point - Reference","Rhode Island","Reference","Microtidal","Panne",0.82,1.4,15,85,83,0,2.4,22.6
+"17","Narragansett Bay","Runnel",2021,2016,5,"Jacobs Point","","Jacobs Point - Runnel","Rhode Island","Runnel","Microtidal","Panne",0.873,3,5.9,94.1,83.6,0,3.4,25
+"18","Parker River Estuary","North Reference",2021,2016,5,"Plum Island - DPR","North","Plum Island - DPR - North Reference","Massachusetts","Reference","Mesotidal","Panne",1.495,2.5,6.4,93.6,72.8,0,4.1,20.2
+"19","Parker River Estuary","North Runnel",2021,2016,5,"Plum Island - DPR","North","Plum Island - DPR - North Runnel","Massachusetts","Runnel","Mesotidal","Panne",1.507,39.3,30,70,29.6,0,2.5,48.8
+"20","Parker River Estuary","South No Action",2021,2017,4,"Plum Island - DPR","South","Plum Island - DPR - South No Action","Massachusetts","No Action","Mesotidal","Panne",1.494,40.4,36,64,19.4,3,2.2,37.3
+"21","Parker River Estuary","South Reference",2021,2017,4,"Plum Island - DPR","South","Plum Island - DPR - South Reference","Massachusetts","Reference","Mesotidal","Panne",1.501,3.2,8.6,91.4,85.2,0,2.5,22.6
+"22","Parker River Estuary","South Runnel",2021,2017,4,"Plum Island - DPR","South","Plum Island - DPR - South Runnel","Massachusetts","Runnel","Mesotidal","Panne",1.528,38.2,22.2,77.8,21.6,0.9,3.1,48.2
+"23","Salt Ponds Region","No Action",2021,2017,4,"Weekapaug","","Weekapaug - No Action","Rhode Island","No Action","Microtidal","Pool",0.175,11.9,63.1,36.2,21.9,4.4,2.1,25.5
+"24","Salt Ponds Region","Reference",2021,2017,4,"Weekapaug","","Weekapaug - Reference","Rhode Island","Reference","Microtidal","Pool",0.245,8.8,28.1,71.9,58,0.6,3.6,27.8
+"25","Salt Ponds Region","Runnel",2021,2017,4,"Weekapaug","","Weekapaug - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.199,38.2,50.7,49.3,10.2,14.2,1.8,22.8
+"26","Taunton River","Reference",2021,2017,4,"Broad Cove","","Broad Cove - Reference","Rhode Island","Reference","Microtidal","Panne",1.007,0.6,22.6,77.4,62.6,0,3.8,29.1
+"27","Taunton River","Runnel",2021,2017,4,"Broad Cove","","Broad Cove - Runnel","Rhode Island","Runnel","Microtidal","Panne",1.018,0,22.8,77.2,59.7,0,3.2,46.6
+"28","Salt Ponds Region","No Action",2021,2018,3,"Potters Pond","","Potters Pond - No Action","Rhode Island","No Action","Microtidal","Pool",0.122,24,54.3,45.7,21.7,26,1.7,24.3
+"29","Salt Ponds Region","Reference",2021,2018,3,"Potters Pond","","Potters Pond - Reference","Rhode Island","Reference","Microtidal","Pool",0.246,24,17.7,82.3,57.8,0,2.3,26.9
+"30","Salt Ponds Region","Runnel",2021,2018,3,"Potters Pond","","Potters Pond - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.174,31.4,52.2,47.8,12.4,4.6,1.4,19.1
+"31","Narrow River Estuary","No Action",2022,2015,7,"Canonchet","","Canonchet - No Action","Rhode Island","No Action","Microtidal","Panne",0.416,27.2,54.2,45.8,18.6,0,0.9,11.7
+"32","Narrow River Estuary","Reference",2022,2015,7,"Canonchet","","Canonchet - Reference","Rhode Island","Reference","Microtidal","Panne",0.453,17.1,14.2,85.8,65.9,0,3.9,24.9
+"33","Narrow River Estuary","Runnel",2022,2015,7,"Canonchet","","Canonchet - Runnel","Rhode Island","Runnel","Microtidal","Panne",0.428,30.4,29.5,70.5,30.8,0,2.8,19.6
+"34","Narrow River Estuary","No Action",2022,2016,6,"Middlebridge","","Middlebridge - No Action","Rhode Island","No Action","Microtidal","Pool",0.454,25.1,66,34,6.6,0,1.1,10.5
+"35","Narrow River Estuary","Reference",2022,2016,6,"Middlebridge","","Middlebridge - Reference","Rhode Island","Reference","Microtidal","Pool",0.427,18.1,23.9,76.1,56.6,0,2.6,26.7
+"36","Narrow River Estuary","Runnel",2022,2016,6,"Middlebridge","","Middlebridge - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.308,47.9,22.9,77.1,28.1,0,2.1,21.6
+"37","Narrow River Estuary","No Action",2022,2016,6,"Narrow River","","Narrow River - No Action","Rhode Island","No Action","Microtidal","Pool",0.508,26.7,45.4,54.6,26.7,0,1.2,14.9
+"38","Narrow River Estuary","Reference",2022,2016,6,"Narrow River","","Narrow River - Reference","Rhode Island","Reference","Microtidal","Pool",0.442,42.6,13.1,86.9,44.2,0,1.4,22
+"39","Narrow River Estuary","Runnel",2022,2016,6,"Narrow River","","Narrow River - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.467,38.4,28.9,71.1,29,0,2.3,20
+"40","Narragansett Bay","Reference",2022,2018,4,"Sapowet","North","Sapowet - Reference","Rhode Island","Reference","Microtidal","Pool",0.615,3.8,16.5,83.5,77.9,0,2.4,24.8
+"41","Narragansett Bay","Runnel",2022,2018,4,"Sapowet","North","Sapowet - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.626,13.7,51,49,31.9,0,1.9,18.4
+"42","Parker River Estuary","No Action",2022,2020,2,"Old Town Hill","","Old Town Hill - No Action","Massachusetts","No Action","Mesotidal","Panne",1.349,31.1,52.9,47.1,9.9,2.4,2,26.7
+"43","Parker River Estuary","Reference",2022,2020,2,"Old Town Hill","","Old Town Hill - Reference","Massachusetts","Reference","Mesotidal","Panne",1.485,5,14,86,79.8,0,3.8,26.5
+"44","Parker River Estuary","Runnel",2022,2020,2,"Old Town Hill","","Old Town Hill - Runnel","Massachusetts","Runnel","Mesotidal","Panne",1.366,48.5,31.5,68.5,19.8,1.3,2,28.7
+"45","Great Marsh","North No Action",2022,2022,0,"Essex","North","Essex - North No Action","Massachusetts","No Action","Mesotidal","Pool",1.488,53.8,28.2,71.8,18,0,2.2,26.2
+"46","Great Marsh","North Runnel",2022,2022,0,"Essex","North","Essex - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.512,49.2,46.9,53.1,3.8,0,2,20.3
+"47","Great Marsh","Reference",2022,2022,0,"Essex","South","Essex - Reference","Massachusetts","Reference","Mesotidal","Pool",1.407,1.8,12.9,87.1,85.3,0,2.2,16.4
+"48","Great Marsh","South No Action",2022,2022,0,"Essex","South","Essex - South No Action","Massachusetts","No Action","Mesotidal","Pool",1.463,3.4,34.5,65.5,56.1,0,2.8,14.4
+"49","Great Marsh","South Runnel",2022,2022,0,"Essex","South","Essex - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.234,32,28.2,71.8,38.8,1.4,2.2,22.6
+"50","Great Marsh","No Action",2022,2022,0,"Ipswich","","Ipswich - No Action","Massachusetts","No Action","Mesotidal","Panne",1.257,26.2,54.2,45.8,18.9,1.2,1.8,15.2
+"51","Great Marsh","Reference",2022,2022,0,"Ipswich","","Ipswich - Reference","Massachusetts","Reference","Mesotidal","Panne",1.203,18.2,17.9,82.1,62.8,0.7,3.6,20
+"52","Great Marsh","Runnel",2022,2022,0,"Ipswich","","Ipswich - Runnel","Massachusetts","Runnel","Mesotidal","Panne",1.327,27.1,60.6,39.4,9,10.4,1.6,11.8
+"53","Narragansett Bay","No Action",2022,2022,0,"Sapowet","South","Sapowet - No Action","Rhode Island","No Action","Microtidal","Pool",0.666,28.3,51.7,48.3,19.8,7,1.6,20.6
+"54","Narragansett Bay","Runnel",2022,2022,0,"Sapowet","South","Sapowet - Runnel","Rhode Island","Runnel","Microtidal","Pool",0.668,39.9,33.7,66.3,20.6,0,2,20.7
+"55","Parker River Estuary","No Action",2022,2022,0,"Kents Island","","Kents Island - No Action","Massachusetts","No Action","Mesotidal","Panne",1.42,30.3,58.5,41.5,9.9,0,1.7,20.1
+"56","Parker River Estuary","Reference",2022,2022,0,"Kents Island","","Kents Island - Reference","Massachusetts","Reference","Mesotidal","Panne",1.284,5.6,6.5,93.5,84,0,3.5,23.7
+"57","Parker River Estuary","Runnel",2022,2022,0,"Kents Island","","Kents Island - Runnel","Massachusetts","Runnel","Mesotidal","Panne",1.365,36.1,46.2,53.8,15,7.6,2,23
+"58","Parker River Estuary","North Reference",2022,2022,0,"Plum Island - PLHA","North","Plum Island - PLHA - North Reference","Massachusetts","Reference","Mesotidal","Pool",1.46,3.7,9.6,90.4,79,0,3.2,24.2
+"59","Parker River Estuary","North Runnel",2022,2022,0,"Plum Island - PLHA","North","Plum Island - PLHA - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.482,39.6,53.5,46.5,3.3,1.8,2.2,21.8
+"60","Parker River Estuary","No Action",2022,2022,0,"Plum Island - PLHA","South","Plum Island - PLHA - No Action","Massachusetts","No Action","Mesotidal","Pool",1.393,39.2,32.7,67.3,28.1,0.8,1.4,23.7
+"61","Parker River Estuary","South Reference",2022,2022,0,"Plum Island - PLHA","South","Plum Island - PLHA - South Reference","Massachusetts","Reference","Mesotidal","Pool",1.451,7.6,21.6,78.4,69.8,0,3.1,24.6
+"62","Parker River Estuary","South Runnel",2022,2022,0,"Plum Island - PLHA","South","Plum Island - PLHA - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",1.502,23.4,58.6,41.4,17.9,0,1.4,12.1
+"63","Ogunquit Marsh","No Action",2024,2011,13,"Moody Marsh","","Moody Marsh - No Action","Maine","No Action","Mesotidal","Pool",NA,19.2,60.1,39.9,15.3,0.2,1.9,22
+"64","Ogunquit Marsh","Reference",2024,2011,13,"Moody Marsh","","Moody Marsh - Reference","Maine","Reference","Mesotidal","Pool",NA,5.9,20.5,79.5,68.8,0,3.8,27
+"65","Ogunquit Marsh","Runnel",2024,2011,13,"Moody Marsh","","Moody Marsh - Runnel","Maine","Runnel","Mesotidal","Pool",NA,18.9,44.5,55.5,24,8.9,3.2,25.4
+"66","Salt Ponds Region","No Action",2024,2013,11,"Winnapaug","","Winnapaug - No Action","Rhode Island","No Action","Microtidal","Pool",NA,35.6,32,68,24.5,3.8,2.9,33.6
+"67","Salt Ponds Region","Reference",2024,2013,11,"Winnapaug","","Winnapaug - Reference","Rhode Island","Reference","Microtidal","Pool",NA,12.1,31.6,68.4,54.1,0,3.7,22.9
+"68","Salt Ponds Region","Runnel",2024,2013,11,"Winnapaug","","Winnapaug - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,20.8,50.4,49.6,21.1,7,2.4,23.8
+"69","Narragansett Bay","No Action",2024,2014,10,"Round Marsh","","Round Marsh - No Action","Rhode Island","No Action","Microtidal","Panne",NA,29.8,46,54,24.2,0.4,1.9,25.2
+"70","Narragansett Bay","Reference",2024,2014,10,"Round Marsh","","Round Marsh - Reference","Rhode Island","Reference","Microtidal","Panne",NA,14.3,7.4,92.6,78.3,0,2.1,46.6
+"71","Narragansett Bay","Runnel",2024,2014,10,"Round Marsh","","Round Marsh - Runnel","Rhode Island","Runnel","Microtidal","Panne",NA,31.7,22.9,77.1,44.6,0,2.7,33.6
+"72","Narrow River Estuary","No Action",2024,2015,9,"Canonchet","","Canonchet - No Action","Rhode Island","No Action","Microtidal","Panne",NA,19.8,62.9,37.1,17.2,0,1.1,18.5
+"73","Narrow River Estuary","Reference",2024,2015,9,"Canonchet","","Canonchet - Reference","Rhode Island","Reference","Microtidal","Panne",NA,22,23,77,47.6,0,4,31.7
+"74","Narrow River Estuary","Runnel",2024,2015,9,"Canonchet","","Canonchet - Runnel","Rhode Island","Runnel","Microtidal","Panne",NA,39.1,22.8,77.2,31.8,0,2.6,26.9
+"75","Parker River Estuary","No Action",2024,2015,9,"Pine Island","North","Pine Island - No Action","Massachusetts","No Action","Mesotidal","Pool",NA,26.8,32.5,67.5,35.9,6.7,2.3,22.6
+"76","Parker River Estuary","North Reference",2024,2015,9,"Pine Island","North","Pine Island - North Reference","Massachusetts","Reference","Mesotidal","Pool",NA,0,7.5,92.5,91.7,0,2.5,20.2
+"77","Parker River Estuary","North Runnel",2024,2015,9,"Pine Island","North","Pine Island - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,18.9,25.4,74.6,50,2.5,3,30.2
+"78","Parker River Estuary","South Reference",2024,2015,9,"Pine Island","South","Pine Island - South Reference","Massachusetts","Reference","Mesotidal","Pool",NA,7.1,10.8,89.2,79.8,0,2.8,20.5
+"79","Parker River Estuary","South Runnel",2024,2015,9,"Pine Island","South","Pine Island - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,57.1,33.6,66.4,6.8,0.3,2,64.8
+"80","Narragansett Bay","No Action",2024,2016,8,"Jacobs Point","","Jacobs Point - No Action","Rhode Island","No Action","Microtidal","Panne",NA,43.1,33.3,66.7,23.3,0,2,41.2
+"81","Narragansett Bay","Reference",2024,2016,8,"Jacobs Point","","Jacobs Point - Reference","Rhode Island","Reference","Microtidal","Panne",NA,0.6,24.9,75.1,73.7,0,2.9,27.1
+"82","Narragansett Bay","Runnel",2024,2016,8,"Jacobs Point","","Jacobs Point - Runnel","Rhode Island","Runnel","Microtidal","Panne",NA,5.4,25.2,74.8,63.5,0,2.6,43.2
+"83","Narrow River Estuary","No Action",2024,2016,8,"Middlebridge","","Middlebridge - No Action","Rhode Island","No Action","Microtidal","Pool",NA,24.8,65.7,34.3,7.2,0,1.3,14.4
+"84","Narrow River Estuary","Reference",2024,2016,8,"Middlebridge","","Middlebridge - Reference","Rhode Island","Reference","Microtidal","Pool",NA,14.6,15,85,68.7,0,2.9,27.9
+"85","Narrow River Estuary","Runnel",2024,2016,8,"Middlebridge","","Middlebridge - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,28,42.8,57.2,29.2,0,1.3,21.1
+"86","Narrow River Estuary","No Action",2024,2016,8,"Narrow River","","Narrow River - No Action","Rhode Island","No Action","Microtidal","Pool",NA,21.2,58.3,41.7,19.3,0,1.1,18.4
+"87","Narrow River Estuary","Reference",2024,2016,8,"Narrow River","","Narrow River - Reference","Rhode Island","Reference","Microtidal","Pool",NA,24.4,41.8,58.2,33.4,0,1.9,23.3
+"88","Narrow River Estuary","Runnel",2024,2016,8,"Narrow River","","Narrow River - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,34.2,28.3,71.7,32.8,0,2.9,26.2
+"89","Parker River Estuary","North Reference",2024,2016,8,"Plum Island - DPR","North","Plum Island - DPR - North Reference","Massachusetts","Reference","Mesotidal","Panne",NA,1.6,6.4,93.6,67.7,0,4,17.2
+"90","Parker River Estuary","North Runnel",2024,2016,8,"Plum Island - DPR","North","Plum Island - DPR - North Runnel","Massachusetts","Runnel","Mesotidal","Panne",NA,25.2,25.9,74.1,48.1,0.2,2.7,42.3
+"91","Parker River Estuary","South No Action",2024,2017,7,"Plum Island - DPR","South","Plum Island - DPR - South No Action","Massachusetts","No Action","Mesotidal","Panne",NA,41.4,41,59,13.6,7.5,2.3,31.9
+"92","Parker River Estuary","South Reference",2024,2017,7,"Plum Island - DPR","South","Plum Island - DPR - South Reference","Massachusetts","Reference","Mesotidal","Panne",NA,6.1,17.2,82.8,74.3,0,2.7,22.6
+"93","Parker River Estuary","South Runnel",2024,2017,7,"Plum Island - DPR","South","Plum Island - DPR - South Runnel","Massachusetts","Runnel","Mesotidal","Panne",NA,30.9,29.1,70.9,32.1,0,4.9,48.2
+"94","Salt Ponds Region","No Action",2024,2017,7,"Weekapaug","","Weekapaug - No Action","Rhode Island","No Action","Microtidal","Pool",NA,16.8,59.8,40.2,18.9,17.2,2.1,27
+"95","Salt Ponds Region","Reference",2024,2017,7,"Weekapaug","","Weekapaug - Reference","Rhode Island","Reference","Microtidal","Pool",NA,10.5,26.5,73.5,57.2,1.6,4.4,26
+"96","Salt Ponds Region","Runnel",2024,2017,7,"Weekapaug","","Weekapaug - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,36.3,50.7,49.3,11.4,20.7,1.8,29.8
+"97","Taunton River","Reference",2024,2017,7,"Broad Cove","","Broad Cove - Reference","Rhode Island","Reference","Microtidal","Panne",NA,1.1,4.8,95.2,78,0,3.7,38.6
+"98","Taunton River","Runnel",2024,2017,7,"Broad Cove","","Broad Cove - Runnel","Rhode Island","Runnel","Microtidal","Panne",NA,0,10.3,89.7,62.8,0,3.9,57.8
+"99","Narragansett Bay","Reference",2024,2018,6,"Sapowet","North","Sapowet - Reference","Rhode Island","Reference","Microtidal","Pool",NA,5.2,19.4,80.6,74.4,0,2.6,31.6
+"100","Narragansett Bay","Runnel",2024,2018,6,"Sapowet","North","Sapowet - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,43.2,32.2,67.8,21.6,0,2.7,36.9
+"101","Salt Ponds Region","No Action",2024,2018,6,"Potters Pond","","Potters Pond - No Action","Rhode Island","No Action","Microtidal","Pool",NA,21.7,61.7,38.3,15,1.7,1.7,18.7
+"102","Salt Ponds Region","Reference",2024,2018,6,"Potters Pond","","Potters Pond - Reference","Rhode Island","Reference","Microtidal","Pool",NA,30.3,22,78,43.4,0,2.8,33.2
+"103","Salt Ponds Region","Runnel",2024,2018,6,"Potters Pond","","Potters Pond - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,33.6,46.4,53.6,14.6,1.4,1.9,15.6
+"104","Parker River Estuary","No Action",2024,2020,4,"Old Town Hill","","Old Town Hill - No Action","Massachusetts","No Action","Mesotidal","Panne",NA,31,46.4,53.6,8.1,0,1.8,50.1
+"105","Parker River Estuary","Reference",2024,2020,4,"Old Town Hill","","Old Town Hill - Reference","Massachusetts","Reference","Mesotidal","Panne",NA,2.6,10.1,89.9,84.3,0,3.8,32
+"106","Parker River Estuary","Runnel",2024,2020,4,"Old Town Hill","","Old Town Hill - Runnel","Massachusetts","Runnel","Mesotidal","Panne",NA,44.7,26.9,73.1,25.9,0,2.5,34.3
+"107","Great Marsh","North No Action",2024,2022,2,"Essex","North","Essex - North No Action","Massachusetts","No Action","Mesotidal","Pool",NA,65.5,28.8,71.2,5.2,0,2,35
+"108","Great Marsh","North Runnel",2024,2022,2,"Essex","North","Essex - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,46.5,37.8,62.2,7.9,0.1,2.2,30.9
+"109","Great Marsh","Reference",2024,2022,2,"Essex","South","Essex - Reference","Massachusetts","Reference","Mesotidal","Pool",NA,3.3,32.2,67.8,63.9,0,2.3,22.6
+"110","Great Marsh","South No Action",2024,2022,2,"Essex","South","Essex - South No Action","Massachusetts","No Action","Mesotidal","Pool",NA,4.1,43,57,46.2,0.2,2.8,20.5
+"111","Great Marsh","South Runnel",2024,2022,2,"Essex","South","Essex - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,55,30.6,69.4,11.2,1.4,3,53.6
+"112","Great Marsh","No Action",2024,2022,2,"Ipswich","","Ipswich - No Action","Massachusetts","No Action","Mesotidal","Panne",NA,29.8,51.8,48.2,17.6,3.2,1.9,18.8
+"113","Great Marsh","Reference",2024,2022,2,"Ipswich","","Ipswich - Reference","Massachusetts","Reference","Mesotidal","Panne",NA,6.9,12.3,87.7,79.9,0,3.2,20.7
+"114","Great Marsh","Runnel",2024,2022,2,"Ipswich","","Ipswich - Runnel","Massachusetts","Runnel","Mesotidal","Panne",NA,35.8,57.6,42.4,5.8,2.5,1.9,20.3
+"115","Narragansett Bay","No Action",2024,2022,2,"Sapowet","South","Sapowet - No Action","Rhode Island","No Action","Microtidal","Pool",NA,27.8,51.3,48.7,20.6,1.5,1.8,27.1
+"116","Narragansett Bay","Runnel",2024,2022,2,"Sapowet","South","Sapowet - Runnel","Rhode Island","Runnel","Microtidal","Pool",NA,24.1,55.9,44.1,18.3,1.1,2,30.7
+"117","Parker River Estuary","No Action",2024,2022,2,"Kents Island","","Kents Island - No Action","Massachusetts","No Action","Mesotidal","Panne",NA,49.5,40.3,59.7,9.5,0,1.6,29.9
+"118","Parker River Estuary","Reference",2024,2022,2,"Kents Island","","Kents Island - Reference","Massachusetts","Reference","Mesotidal","Panne",NA,6.6,9.3,90.7,79.8,0,3.5,23.5
+"119","Parker River Estuary","Runnel",2024,2022,2,"Kents Island","","Kents Island - Runnel","Massachusetts","Runnel","Mesotidal","Panne",NA,45.5,34,66,18.7,0.3,2.2,35.1
+"120","Parker River Estuary","North Reference",2024,2022,2,"Plum Island - PLHA","North","Plum Island - PLHA - North Reference","Massachusetts","Reference","Mesotidal","Pool",NA,2.3,12.3,87.7,76.9,0,3.5,18.1
+"121","Parker River Estuary","North Runnel",2024,2022,2,"Plum Island - PLHA","North","Plum Island - PLHA - North Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,40.5,41.5,58.5,13.5,1.8,2.5,50.5
+"122","Parker River Estuary","No Action",2024,2022,2,"Plum Island - PLHA","South","Plum Island - PLHA - No Action","Massachusetts","No Action","Mesotidal","Pool",NA,36.4,32.8,67.2,28.4,1.4,2.2,38.9
+"123","Parker River Estuary","South Reference",2024,2022,2,"Plum Island - PLHA","South","Plum Island - PLHA - South Reference","Massachusetts","Reference","Mesotidal","Pool",NA,6.2,15.9,84.1,76.1,0,4,27.8
+"124","Parker River Estuary","South Runnel",2024,2022,2,"Plum Island - PLHA","South","Plum Island - PLHA - South Runnel","Massachusetts","Runnel","Mesotidal","Pool",NA,8.6,53,47,35.9,7.1,1.6,12.3

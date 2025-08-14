@@ -1,0 +1,117 @@
+"","Site","Sub_Site","Overall_Treatment","Site_Treatment","Year","Time_Since_Restoration","Tidal_Range","Platform_Flood_Duration","Platform_HT_Frequency","Platform_Drainage_Depth_cm","Root_Flood_Duration","Root_HT_Frequency","Root_Drainage_Depth_cm","Drainage_Amplitude_cm","Time_Relative_To_Metonic_Low_2015"
+"1","Broad Cove","","Runnel","Broad Cove - Runnel",2021,4,"Microtidal",41.4,31.6,4.7,58.6,40.4,-0.3,12.6,6
+"2","Broad Cove","","Runnel","Broad Cove - Runnel",2024,7,"Microtidal",9.6,12.1,14.4,30.5,19,9.4,13.2,9
+"3","Broad Cove","","Reference","Broad Cove - Reference",2024,7,"Microtidal",2,13.8,21.5,29.7,22.4,16.5,22.7,9
+"4","Canonchet","","Runnel","Canonchet - Runnel",2022,7,"Microtidal",44.3,57.9,6.4,53.7,71.9,1.4,12.4,7
+"5","Canonchet","","Runnel","Canonchet - Runnel",2024,9,"Microtidal",6.9,43.1,10.3,43.5,51.7,5.3,13.9,9
+"6","Canonchet","","Reference","Canonchet - Reference",2022,7,"Microtidal",21.1,45.6,8.4,53.5,64.9,3.4,14.7,7
+"7","Canonchet","","Reference","Canonchet - Reference",2024,9,"Microtidal",11.2,32.8,11.4,46,51.7,6.4,20,9
+"8","Canonchet","","No Action","Canonchet - No Action",2022,7,"Microtidal",100,61.4,-9,100,75.4,-14,6.1,7
+"9","Canonchet","","No Action","Canonchet - No Action",2024,9,"Microtidal",99.4,44.8,-5.5,100,55.2,-10.5,5.8,9
+"10","Jacobs Point","","Runnel","Jacobs Point - Runnel",2021,5,"Microtidal",11.1,42.1,7.4,31.6,54.4,2.4,2.7,6
+"11","Jacobs Point","","Runnel","Jacobs Point - Runnel",2024,8,"Microtidal",2.6,24.1,8.8,34.5,41.4,3.8,8.9,9
+"12","Jacobs Point","","Reference","Jacobs Point - Reference",2021,5,"Microtidal",8.9,56.1,3.6,84,63.2,-1.4,9.6,6
+"13","Jacobs Point","","Reference","Jacobs Point - Reference",2024,8,"Microtidal",4,43.1,13.2,17.2,50,8.2,17.5,9
+"14","Jacobs Point","","No Action","Jacobs Point - No Action",2021,5,"Microtidal",76.1,63.2,0.4,100,68.4,-4.6,4.5,6
+"15","Jacobs Point","","No Action","Jacobs Point - No Action",2024,8,"Microtidal",12.9,48.3,6.3,72.5,51.7,1.3,18.3,9
+"16","Middlebridge","","Runnel","Middlebridge - Runnel",2022,6,"Microtidal",55.9,86,4.6,73.5,93,-0.4,8.2,7
+"17","Middlebridge","","Runnel","Middlebridge - Runnel",2024,8,"Microtidal",13.6,58.6,18.4,18.2,74.1,13.4,15.4,9
+"18","Middlebridge","","Reference","Middlebridge - Reference",2022,6,"Microtidal",35.3,56.1,7.2,48.5,68.4,2.2,13.2,7
+"19","Middlebridge","","Reference","Middlebridge - Reference",2024,8,"Microtidal",6.3,27.6,14,35.5,46.6,9,18.4,9
+"20","Middlebridge","","No Action","Middlebridge - No Action",2022,6,"Microtidal",59.9,42.1,0.4,98.6,61.4,-4.6,6,7
+"21","Middlebridge","","No Action","Middlebridge - No Action",2024,8,"Microtidal",4.9,20.7,6.5,59,37.9,1.5,10.3,9
+"22","Narrow River","","Runnel","Narrow River - Runnel",2022,6,"Microtidal",7.5,22.8,22.4,13.8,36.8,17.4,11.1,7
+"23","Narrow River","","Runnel","Narrow River - Runnel",2024,8,"Microtidal",12,17.2,18.2,15.4,32.8,13.2,14,9
+"24","Narrow River","","Reference","Narrow River - Reference",2022,6,"Microtidal",29,31.6,5.5,37.7,43.9,0.5,9.5,7
+"25","Narrow River","","Reference","Narrow River - Reference",2024,8,"Microtidal",48.3,24.1,2.7,70.7,43.1,-2.3,11.8,9
+"26","Narrow River","","No Action","Narrow River - No Action",2022,6,"Microtidal",32.9,10.5,8.7,40.6,26.3,3.7,13.4,7
+"27","Narrow River","","No Action","Narrow River - No Action",2024,8,"Microtidal",2.7,6.9,6.4,49,19,1.4,11,9
+"28","Potters Pond","","Runnel","Potters Pond - Runnel",2021,3,"Microtidal",42.3,85.7,6.3,67.4,94.6,1.3,7.9,6
+"29","Potters Pond","","Runnel","Potters Pond - Runnel",2024,6,"Microtidal",29.2,56.9,9.1,59.1,74.1,4.1,11.2,9
+"30","Potters Pond","","Reference","Potters Pond - Reference",2021,3,"Microtidal",45.8,46.4,2.4,80.5,78.6,-2.6,10.3,6
+"31","Potters Pond","","Reference","Potters Pond - Reference",2024,6,"Microtidal",24,31,8.8,42.7,51.7,3.8,10.4,9
+"32","Potters Pond","","No Action","Potters Pond - No Action",2021,3,"Microtidal",68.1,94.6,1.6,96.8,100,-3.4,6,6
+"33","Potters Pond","","No Action","Potters Pond - No Action",2024,6,"Microtidal",82.4,75.9,-0.4,90.4,87.9,-5.4,22.9,9
+"34","Round Marsh","","Runnel","Round Marsh - Runnel",2024,10,"Microtidal",9.4,37.9,6.4,67.4,51.7,1.4,12.6,9
+"35","Round Marsh","","Reference","Round Marsh - Reference",2021,7,"Microtidal",2.4,50,4.8,83.6,58.9,-0.2,3.4,6
+"36","Round Marsh","","Reference","Round Marsh - Reference",2024,10,"Microtidal",3,19,6.1,61.5,36.2,1.1,7.3,9
+"37","Round Marsh","","No Action","Round Marsh - No Action",2021,7,"Microtidal",11.9,67.9,2.3,96,71.4,-2.7,4.1,6
+"38","Round Marsh","","No Action","Round Marsh - No Action",2024,10,"Microtidal",16,41.4,4.5,74.8,51.7,-0.5,10.3,9
+"39","Sapowet","North","Runnel","Sapowet - North - Runnel",2022,4,"Microtidal",2.3,10.3,18.7,11.8,13.8,13.7,14,7
+"40","Sapowet","North","Runnel","Sapowet - North - Runnel",2024,6,"Microtidal",10.2,33.3,9.1,38.6,43.9,4.1,11.8,9
+"41","Sapowet","North","Reference","Sapowet - North - Reference",2022,4,"Microtidal",1.5,10.3,27.6,2.2,15.5,22.6,21.6,7
+"42","Sapowet","North","Reference","Sapowet - North - Reference",2024,6,"Microtidal",18.6,35.1,7.8,69,47.4,2.8,24,9
+"43","Sapowet","South","Runnel","Sapowet - South - Runnel",2022,0,"Microtidal",5.1,13.8,14.8,13.6,25.9,9.8,9.7,7
+"44","Sapowet","South","Runnel","Sapowet - South - Runnel",2024,2,"Microtidal",15,43.9,7.2,44.7,50.9,2.2,11,9
+"45","Sapowet","South","No Action","Sapowet - South - No Action",2022,0,"Microtidal",1.5,10.3,15.3,2.7,12.1,10.3,9.7,7
+"46","Sapowet","South","No Action","Sapowet - South - No Action",2024,2,"Microtidal",29.8,31.6,4.1,73.1,38.6,-0.9,10.6,9
+"47","Weekapaug","","Runnel","Weekapaug - Runnel",2021,4,"Microtidal",76.2,96.4,0.3,97.1,100,-4.7,7.7,6
+"48","Weekapaug","","Runnel","Weekapaug - Runnel",2024,7,"Microtidal",21.8,67.2,11,29.1,82.8,6,17.1,9
+"49","Weekapaug","","Reference","Weekapaug - Reference",2021,4,"Microtidal",23.5,87.3,10.7,40.4,100,5.7,6.4,6
+"50","Weekapaug","","Reference","Weekapaug - Reference",2024,7,"Microtidal",15.2,56.9,10.9,25.9,69,5.9,7.4,9
+"51","Weekapaug","","No Action","Weekapaug - No Action",2021,4,"Microtidal",94.2,100,-4,100,100,-9,8,6
+"52","Weekapaug","","No Action","Weekapaug - No Action",2024,7,"Microtidal",31.5,72.4,7.6,69,86.2,2.6,12.6,9
+"53","Winnapaug","","Runnel","Winnapaug - Runnel",2021,8,"Microtidal",34.1,92.7,6.9,42.2,100,1.9,5.6,6
+"54","Winnapaug","","Runnel","Winnapaug - Runnel",2024,11,"Microtidal",48.8,62.1,2.9,86.5,72.4,-2.1,14.5,9
+"55","Winnapaug","","Reference","Winnapaug - Reference",2021,8,"Microtidal",30.3,87.3,7,73.9,96.4,2,7.9,6
+"56","Winnapaug","","Reference","Winnapaug - Reference",2024,11,"Microtidal",13.6,58.6,14.5,21.2,67.2,9.5,11.5,9
+"57","Winnapaug","","No Action","Winnapaug - No Action",2021,8,"Microtidal",40.3,96.4,3.2,95.2,100,-1.8,4.4,6
+"58","Winnapaug","","No Action","Winnapaug - No Action",2024,11,"Microtidal",86.5,67.2,-1.1,91.7,84.5,-6.1,20.6,9
+"59","Moody Marsh","","Runnel","Moody Marsh - Runnel",2021,10,"Mesotidal",12.5,62.5,8.1,34,66.1,3.1,2.8,6
+"60","Moody Marsh","","Runnel","Moody Marsh - Runnel",2024,13,"Mesotidal",18.2,71.9,12.2,29.1,78.9,7.2,9.9,9
+"61","Moody Marsh","","Reference","Moody Marsh - Reference",2021,10,"Mesotidal",54.6,25,5.7,60.9,26.8,0.7,15,6
+"62","Moody Marsh","","Reference","Moody Marsh - Reference",2024,13,"Mesotidal",5.1,29.8,10.7,56.6,35.1,5.7,18.5,9
+"63","Moody Marsh","","No Action","Moody Marsh - No Action",2021,10,"Mesotidal",100,16.1,-3.3,100,17.9,-8.3,1.3,6
+"64","Moody Marsh","","No Action","Moody Marsh - No Action",2024,13,"Mesotidal",27,19.3,2.5,88.3,22.8,-2.5,8.1,9
+"65","Pine Island","North","Runnel","Pine Island - North - Runnel",2022,7,"Mesotidal",84.4,66.7,-0.7,100,73.7,-5.7,3.4,7
+"66","Pine Island","North","Runnel","Pine Island - North - Runnel",2024,9,"Mesotidal",51.6,71.7,0.9,78.7,83.3,-4.1,11.5,9
+"67","Pine Island","North","Reference","Pine Island - North - Reference",2022,7,"Mesotidal",39.8,19.3,6.4,56.7,31.6,1.4,9.4,7
+"68","Pine Island","South","Runnel","Pine Island - South - Runnel",2022,7,"Mesotidal",6,38.6,17.4,8.9,54.4,12.4,4,7
+"69","Pine Island","South","Runnel","Pine Island - South - Runnel",2024,9,"Mesotidal",6.4,53.3,19.3,8.8,56.7,14.3,5.6,9
+"70","Pine Island","South","Reference","Pine Island - South - Reference",2022,7,"Mesotidal",1.7,19.3,15.8,3,28.1,10.8,11.8,7
+"71","Pine Island","South","Reference","Pine Island - South - Reference",2024,9,"Mesotidal",5,30,10.8,31.7,51.7,5.8,17.7,9
+"72","Pine Island","North","No Action","Pine Island - North - No Action",2022,7,"Mesotidal",3.5,19.3,4.9,89.7,35.1,-0.1,5.1,7
+"73","Pine Island","North","No Action","Pine Island - North - No Action",2024,9,"Mesotidal",7.6,33.3,6.3,44.2,53.3,1.3,16.8,9
+"74","Plum Island - DPR","North","Runnel","Plum Island - DPR - North - Runnel",2021,5,"Mesotidal",38.5,17,3.4,69.2,20.8,-1.6,7.9,6
+"75","Plum Island - DPR","North","Runnel","Plum Island - DPR - North - Runnel",2024,8,"Mesotidal",8,32.8,10.6,38.6,41.4,5.6,12.1,9
+"76","Plum Island - DPR","North","Reference","Plum Island - DPR - North - Reference",2021,5,"Mesotidal",40.1,17,6.1,52.1,22.6,1.1,9.9,6
+"77","Plum Island - DPR","North","Reference","Plum Island - DPR - North - Reference",2024,8,"Mesotidal",3.3,34.5,17.4,19.2,41.4,12.4,14.4,9
+"78","Plum Island - DPR","South","Runnel","Plum Island - DPR - South - Runnel",2021,4,"Mesotidal",4.5,17,11.1,21.3,20.8,6.1,7.7,6
+"79","Plum Island - DPR","South","Runnel","Plum Island - DPR - South - Runnel",2024,7,"Mesotidal",24.2,31,9.2,38.2,39.7,4.2,12.9,9
+"80","Plum Island - DPR","South","Reference","Plum Island - DPR - South - Reference",2021,4,"Mesotidal",42,17,3.9,68.5,22.6,-1.1,8.2,6
+"81","Plum Island - DPR","South","No Action","Plum Island - DPR - South - No Action",2021,4,"Mesotidal",89.3,17,-1.5,100,22.6,-6.5,3.5,6
+"82","Plum Island - DPR","South","No Action","Plum Island - DPR - South - No Action",2024,7,"Mesotidal",37.8,34.5,3.1,71.2,41.4,-1.9,10.4,9
+"83","Plum Island - PLHA","North","Runnel","Plum Island - PLHA - North - Runnel",2022,0,"Mesotidal",42.3,28.1,4.1,60.3,43.9,-0.9,14.6,7
+"84","Plum Island - PLHA","North","Runnel","Plum Island - PLHA - North - Runnel",2024,2,"Mesotidal",26.6,39.7,7.3,42,41.4,2.3,14.9,9
+"85","Plum Island - PLHA","North","Reference","Plum Island - PLHA - North - Reference",2022,0,"Mesotidal",18.8,35.1,17.7,28.9,54.4,12.7,19.7,7
+"86","Plum Island - PLHA","North","Reference","Plum Island - PLHA - North - Reference",2024,2,"Mesotidal",20.7,41.4,13.9,31.5,46.6,8.9,13.4,9
+"87","Plum Island - PLHA","South","Runnel","Plum Island - PLHA - South - Runnel",2022,3,"Mesotidal",6.1,24.6,15.9,9.6,40.4,10.9,9.5,7
+"88","Plum Island - PLHA","South","Runnel","Plum Island - PLHA - South - Runnel",2024,5,"Mesotidal",13.7,34.5,8.3,32.3,41.4,3.3,9.8,9
+"89","Plum Island - PLHA","South","Reference","Plum Island - PLHA - South - Reference",2022,3,"Mesotidal",11.9,40.4,17,33.2,56.1,12,24.6,7
+"90","Plum Island - PLHA","South","Reference","Plum Island - PLHA - South - Reference",2024,5,"Mesotidal",31.7,41.4,8.1,55.5,46.6,3.1,16.1,9
+"91","Plum Island - PLHA","South","No Action","Plum Island - PLHA - South - No Action",2022,3,"Mesotidal",7.6,56.1,7.1,51.9,59.6,2.1,11.5,7
+"92","Plum Island - PLHA","South","No Action","Plum Island - PLHA - South - No Action",2024,5,"Mesotidal",8,48.3,5.5,67.9,51.7,0.5,7.9,9
+"93","Essex","North","Runnel","Essex - North - Runnel",2022,0,"Mesotidal",12.2,24.6,7.5,38.4,36.8,2.5,6.8,7
+"94","Essex","North","Runnel","Essex - North - Runnel",2024,2,"Mesotidal",20.9,31.6,11.2,29.9,33.3,6.2,9.8,9
+"95","Essex","North","No Action","Essex - North - No Action",2022,0,"Mesotidal",100,42.1,-11,100,47.4,-16,3.6,7
+"96","Essex","North","No Action","Essex - North - No Action",2024,2,"Mesotidal",56.6,42.1,0.6,79.8,47.4,-4.4,8.6,9
+"97","Essex","South","Runnel","Essex - South - Runnel",2022,5,"Mesotidal",8.8,45.6,7.7,29.3,57.9,2.7,4.9,7
+"98","Essex","South","Runnel","Essex - South - Runnel",2024,7,"Mesotidal",21,61.4,7,57.9,80.7,2,10.4,9
+"99","Essex","South","Reference","Essex - South - Reference",2022,5,"Mesotidal",3.8,28.1,8.7,46.8,28.1,3.7,8,7
+"100","Essex","South","Reference","Essex - South - Reference",2024,7,"Mesotidal",32.4,43.9,7.4,45,45.6,2.4,12.7,9
+"101","Essex","South","No Action","Essex - South - No Action",2022,5,"Mesotidal",18.4,28.1,4,76.4,36.8,-1,3.7,7
+"102","Essex","South","No Action","Essex - South - No Action",2024,7,"Mesotidal",48,45.6,-0.4,77.7,50.9,-5.4,9.1,9
+"103","Ipswich","","Runnel","Ipswich - Runnel",2022,0,"Mesotidal",4.8,43.9,5.2,73,47.4,0.2,5.6,7
+"104","Ipswich","","Runnel","Ipswich - Runnel",2024,2,"Mesotidal",17.2,25.9,5.3,55.1,27.6,0.3,7.2,9
+"105","Ipswich","","Reference","Ipswich - Reference",2024,2,"Mesotidal",14.4,29.3,12.8,41.9,36.2,7.8,15.7,9
+"106","Ipswich","","No Action","Ipswich - No Action",2022,0,"Mesotidal",92,45.6,-2.2,100,49.1,-7.2,5.6,7
+"107","Ipswich","","No Action","Ipswich - No Action",2024,2,"Mesotidal",5.9,27.6,5.2,61.3,36.2,0.2,8.4,9
+"108","Kents Island","","Runnel","Kents Island - Runnel",2022,0,"Mesotidal",37.5,42.1,4.3,66.3,57.9,-0.7,9,7
+"109","Kents Island","","Runnel","Kents Island - Runnel",2024,2,"Mesotidal",8.6,38.6,10,27.3,54.4,5,8.7,9
+"110","Kents Island","","No Action","Kents Island - No Action",2022,0,"Mesotidal",57.6,40.4,2.5,77.9,56.1,-2.5,13,7
+"111","Kents Island","","No Action","Kents Island - No Action",2024,2,"Mesotidal",36.6,33.3,4.9,69.7,52.6,-0.1,13.1,9
+"112","Old Town Hill","","Runnel","Old Town Hill - Runnel",2022,2,"Mesotidal",4.7,33.3,11.2,20.8,45.6,6.2,10.3,7
+"113","Old Town Hill","","Runnel","Old Town Hill - Runnel",2024,4,"Mesotidal",6.8,36.8,6,48.3,63.2,1,6,9
+"114","Old Town Hill","","Reference","Old Town Hill - Reference",2022,2,"Mesotidal",27.7,28.1,15.4,33.4,40.4,10.4,13.8,7
+"115","Old Town Hill","","No Action","Old Town Hill - No Action",2022,2,"Mesotidal",100,66.7,-10.9,100,73.7,-15.9,9.5,7
+"116","Old Town Hill","","No Action","Old Town Hill - No Action",2024,4,"Mesotidal",100,68.4,-14.4,100,75.4,-19.4,2,9

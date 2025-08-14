@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Moody Marsh - No Action",2021,1.534,0.011,0
+"2","Moody Marsh - No Action",2024,1.534,0.015,0
+"3","Moody Marsh - Reference",2021,1.432,0.006,0
+"4","Moody Marsh - Reference",2024,1.409,0.005,-0.0229999999999999
+"5","Moody Marsh - Runnel",2021,1.241,0.04,0
+"6","Moody Marsh - Runnel",2024,1.187,0.043,-0.054

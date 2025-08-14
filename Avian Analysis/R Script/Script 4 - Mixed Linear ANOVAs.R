@@ -25,7 +25,7 @@ library(ggResidpanel)
 
 #Chapter 2: Load the 0 - 50 m SHARP Point Count dataset (surveys averaged per monitoring season)
 
-birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+birds <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
   select(-X) %>%
   select(PointID :saltysparrow, -c(Aerial:Wading)) %>%
   mutate(Year = as.factor(Year)) %>%
@@ -233,15 +233,15 @@ species_richness_tidy
 anova_tables <- rbind(total_anova, salty_anova, panne_anova, wetland_anova, species_richness_anova, shannon_anova)
 
 write.csv(anova_tables,
-          "Avian Analysis\\Output Stats\\Mixed ANOVA Tables Compiled.csv")
+          "Output Stats\\Mixed ANOVA Tables Compiled.csv")
 
 tidy_tables <- rbind(total_tidy, salty_tidy, panne_tidy, wetland_tidy, species_richness_tidy, shannon_tidy)
 
 write.csv(tidy_tables,
-          "Avian Analysis\\Output Stats\\Mixed Tidy Tables Compiled.csv")
+          "Output Stats\\Mixed Tidy Tables Compiled.csv")
 
 posthoc_tables <- rbind(total_posthoc, salty_posthoc)
 
 write.csv(anova_tables,
-          "Avian Analysis\\Output Stats\\ANOVA Posthoc Tables Compiled.csv")
+          "Output Stats\\ANOVA Posthoc Tables Compiled.csv")
   

@@ -5,7 +5,8 @@
 #Date Last Edited: March 21st, 2024
 
 
-# Purpose: Calculate mean +/- standard error for avian community metrics for Treatment + Year, Graph the statistics
+# Purpose: Calculate mean +/- standard error for avian community metrics for Treatment and Site, 
+#Graph the statistics
 
 # Chapter 1: Set up Code
 
@@ -29,23 +30,22 @@ library(pals)
 
 #Import the Bird 50 m distance band dataset with feeding habit and wetland scores, averaged across surveys each season
 
-birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
-  select(-X) %>%
-  filter(Site != "Moody Marsh") %>%
-  filter(Site != 'Broad Cove'| Treatment != 'No Action')
+birds <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+  select(-X)
 
 colnames(birds)
 
 
-#Chapter 3: Calculate Descriptive Statistics for Treatment - Year across all metrics
+#Chapter 3: Calculate Descriptive Statistics
 
+# Task 1: Calculate Descriptive Statistics By Treatment for each year
 treatment_stats <- birds %>%
   group_by(Treatment, Year) %>%
   #Calculate the mean and standard error using the across() function for all metrics and species
   summarise(across(weighted_wetland_score:YEWA,
                    list(
                      m = ~mean(., na.rm = TRUE),
-                     se = ~sd(., na.rm = TRUE)/sqrt(n()),
+                     se = ~sd(., na.rm = TRUE)/sqrt(n())
                    ))) %>%
   ungroup() %>%
   #Round the mean and standard error for all columns to 2 decimal points
@@ -57,8 +57,29 @@ treatment_stats <- birds %>%
 
 
 write.csv(treatment_stats,
-          "Avian Analysis\\Output Stats\\Descriptive Stats Treatment - Year.csv")  
+          "Output Stats\\Descriptive Stats Treatment - Year.csv")  
 
+
+# Task 1: Calculate Descriptive Statistics By Site for Each Year
+treatment_stats <- birds %>%
+  group_by(Treatment, Year) %>%
+  #Calculate the mean and standard error using the across() function for all metrics and species
+  summarise(across(weighted_wetland_score:YEWA,
+                   list(
+                     m = ~mean(., na.rm = TRUE),
+                     se = ~sd(., na.rm = TRUE)/sqrt(n())
+                   ))) %>%
+  ungroup() %>%
+  #Round the mean and standard error for all columns to 2 decimal points
+  mutate(across(weighted_wetland_score_m:YEWA_se,
+                ~round(., 2))) %>%
+  #Remove the descriptive statistics of the bird species (only keeping avian community metrics)
+  select(Treatment, Year,
+         weighted_wetland_score_m : saltysparrow_se)
+
+
+write.csv(treatment_stats,
+          "Output Stats\\Descriptive Stats Treatment - Year.csv")  
 
 
 #Chapter 4: Graph the descriptive statistics of the Feeding Habit
@@ -124,7 +145,7 @@ feeding_habit_graph <- ggplot(feeding_stats,
 feeding_habit_graph
 
 ggsave(feeding_habit_graph,
-       filename = "Avian Analysis\\Figures\\Feeding Habit Community Composition.jpg",
+       filename = "Figures\\Feeding Habit Community Composition.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 12, width = 14)
 
@@ -347,7 +368,7 @@ descrip_graph
 
 
 ggsave(descrip_graph,
-       filename = "Avian Analysis\\Figures\\Descriptive Stats Bar Charts.jpg",
+       filename = "Figures\\Descriptive Stats Bar Charts.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 12, width = 16)
   

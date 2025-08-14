@@ -1,0 +1,9 @@
+,Site_Treatment,Transect,Year,elevation_mean,elevation_se,Transect_difference
+1,Broad Cove - Reference,T1,2021,0.975,0.005,0
+2,Broad Cove - Reference,T1,2024,0.972,0.008,-0.003
+3,Broad Cove - Reference,T2,2021,1.032,0.019,0
+4,Broad Cove - Reference,T2,2024,1.197,0.032,0.165
+5,Broad Cove - Runnel,T1,2021,1.011,0.012,0
+6,Broad Cove - Runnel,T1,2024,1.002,0.014,-0.009
+7,Broad Cove - Runnel,T2,2021,1.028,0.023,0
+8,Broad Cove - Runnel,T2,2024,0.75,0.03,-0.278

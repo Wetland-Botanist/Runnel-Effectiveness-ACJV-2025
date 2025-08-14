@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Weekapaug - No Action",2021,0.175,0.019,0
+"2","Weekapaug - No Action",2024,0.221,0.025,0.046
+"3","Weekapaug - Reference",2021,0.245,0.006,0
+"4","Weekapaug - Reference",2024,0.293,0.011,0.048
+"5","Weekapaug - Runnel",2021,0.204,0.011,0
+"6","Weekapaug - Runnel",2024,0.268,0.016,0.064

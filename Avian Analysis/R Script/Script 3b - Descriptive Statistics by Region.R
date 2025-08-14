@@ -29,7 +29,7 @@ library(pals)
 
 #Import the Bird 50 m distance band dataset with feeding habit and wetland scores, averaged across surveys each season
 
-birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+birds <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
   select(-X) %>%
   filter(Site != "Moody Marsh") %>%
   mutate(State = ifelse(str_starts("Broad Cove", Site), "RI", State)) %>%
@@ -60,7 +60,7 @@ treatment_stats <- birds %>%
 
 
 write.csv(treatment_stats,
-          "Avian Analysis\\Output Stats\\Descriptive Stats Region - Treatment - Year.csv")  
+          "Output Stats\\Descriptive Stats Region - Treatment - Year.csv")  
 
 
 
@@ -127,7 +127,7 @@ feeding_habit_graph <- ggplot(feeding_stats,
 feeding_habit_graph
 
 ggsave(feeding_habit_graph,
-       filename = "Avian Analysis\\Figures\\Feeding Habit Community Composition.jpg",
+       filename = "Figures\\Feeding Habit Community Composition.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 12, width = 14)
 
@@ -350,7 +350,7 @@ descrip_graph
 
 
 ggsave(descrip_graph,
-       filename = "Avian Analysis\\Figures\\Descriptive Stats Bar Charts.jpg",
+       filename = "Figures\\Descriptive Stats Bar Charts.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 12, width = 16)
   

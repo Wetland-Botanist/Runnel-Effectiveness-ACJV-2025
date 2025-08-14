@@ -19,7 +19,7 @@ library(dplyr)
 
 #Chapter 2: Import Bird Dataset & Determine Species List for Dataset
 
-birds <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50 m Distance.csv")
+birds <- read.csv("Formatted Datasets\\SHARP Bird 50 m Distance.csv")
 
 bird_species <- birds %>%
   gather(key = AlphaCode, value = "Count", totalbirds:YEWA) %>%
@@ -30,7 +30,7 @@ bird_species <- birds %>%
 
 #Dataset is saved for background work on compiilng wetland scores and feeding habits
 write.csv(bird_species,
-          "Avian Analysis\\Formatted Datasets\\Bird Species List at 50m band.csv")
+          "Formatted Datasets\\Bird Species List at 50m band.csv")
 
 
 #Chapter 3: Import the Bird Species List with Wetland Score and Feeding Guild
@@ -52,7 +52,7 @@ write.csv(bird_species,
 # assigned a score by Grant McKown by similarly related species. Wetland scores are 0, 1, 3, and 5 with 0 being no 
 # wetland dependence by and 5 being fully dependent for habitat needs. 
 
-bird_species <- read.csv("Avian Analysis\\Input Data\\Bird_Species_50m.csv")
+bird_species <- read.csv("Input Data\\Bird_Species_50m.csv")
 
 birds_scores <- birds %>%
   dplyr::select(-totalbirds, -saltysparrow) %>%
@@ -72,7 +72,7 @@ feeding_scores <- bird_species %>%
   select(-AlphaCode)
 
 write.csv(feeding_scores,
-          "Avian ANalysis\\Formatted Datasets\\Feeding Classifications Table.csv")
+          "Formatted Datasets\\Feeding Classifications Table.csv")
 
 
 
@@ -132,7 +132,7 @@ glimpse(birds_compiled)
 
 # Dataset is saved for posterity
 write.csv(birds_compiled,
-          "Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Wetland and Feeding Scores - Final.csv")
+          "Formatted Datasets\\SHARP Bird 50m Dataset - Wetland and Feeding Scores - Final.csv")
 
 
 
@@ -160,7 +160,7 @@ glimpse(birds_subsetted)
 # multivariate analysis, and occupational modeling
 
 write.csv(birds_subsetted,
-          "Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv")
+          "Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv")
 
 
 

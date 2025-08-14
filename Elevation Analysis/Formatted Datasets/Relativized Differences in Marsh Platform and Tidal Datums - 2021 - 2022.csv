@@ -1,0 +1,63 @@
+"","Site","Year","Site_Treatment","Year_0","Time_Since_Restoration","Overall_Treatment","Marsh_Condition","Elevation_mean","State","Tidal_Regime","MHT","MHHT","Spring_Tide","Tidal_Range","MHT_diff","MHHT_diff","Spring_Tide_diff","MHT_rel","MHHT_rel","Spring_Tide_rel"
+"1","Broad Cove",2021,"Broad Cove - Reference",2017,4,"Reference","Panne",1.007,"MA","Microtidal",0.95,0.971,1.305,1.331,0.0569999999999999,0.0359999999999999,-0.298,4.28,2.7,-22.39
+"2","Broad Cove",2021,"Broad Cove - Runnel",2017,4,"Runnel","Panne",1.018,"MA","Microtidal",0.95,0.971,1.305,1.331,0.0680000000000001,0.047,-0.287,5.11,3.53,-21.56
+"3","Canonchet",2022,"Canonchet - No Action",2015,7,"No Action","Panne",0.416,"RI","Microtidal",0.454,0.503,0.764,1.056,-0.038,-0.087,-0.348,-3.6,-8.24,-32.95
+"4","Canonchet",2022,"Canonchet - Reference",2015,7,"Reference","Panne",0.453,"RI","Microtidal",0.454,0.503,0.764,1.056,-0.001,-0.05,-0.311,-0.09,-4.73,-29.45
+"5","Canonchet",2022,"Canonchet - Runnel",2015,7,"Runnel","Panne",0.428,"RI","Microtidal",0.454,0.503,0.764,1.056,-0.026,-0.075,-0.336,-2.46,-7.1,-31.82
+"6","Essex - North",2022,"Essex - North - No Action",2022,0,"No Action","Pool",1.488,"MA","Mesotidal",1.232,1.364,2.038,2.893,0.256,0.124,-0.55,8.85,4.29,-19.01
+"7","Essex - North",2022,"Essex - North - Runnel",2022,0,"Runnel","Pool",1.512,"MA","Mesotidal",1.232,1.364,2.038,2.893,0.28,0.148,-0.526,9.68,5.12,-18.18
+"8","Essex - South",2022,"Essex - South - Reference",2022,0,"Reference","Pool",1.407,"MA","Mesotidal",1.353,1.447,1.759,2.893,0.054,-0.04,-0.352,1.87,-1.38,-12.17
+"9","Essex - South",2022,"Essex - South - No Action",2022,0,"No Action","Pool",1.463,"MA","Mesotidal",1.353,1.447,1.759,2.893,0.11,0.016,-0.296,3.8,0.55,-10.23
+"10","Essex - South",2022,"Essex - South - Runnel",2022,0,"Runnel","Pool",1.234,"MA","Mesotidal",1.353,1.447,1.759,2.893,-0.119,-0.213,-0.525,-4.11,-7.36,-18.15
+"11","Ipswich",2022,"Ipswich - No Action",2022,0,"No Action","Panne",1.257,"MA","Mesotidal",1.35,1.446,1.703,2.893,-0.0930000000000002,-0.189,-0.446,-3.21,-6.53,-15.42
+"12","Ipswich",2022,"Ipswich - Reference",2022,0,"Reference","Panne",1.203,"MA","Mesotidal",1.35,1.446,1.703,2.893,-0.147,-0.243,-0.5,-5.08,-8.4,-17.28
+"13","Ipswich",2022,"Ipswich - Runnel",2022,0,"Runnel","Panne",1.327,"MA","Mesotidal",1.35,1.446,1.703,2.893,-0.0230000000000001,-0.119,-0.376,-0.8,-4.11,-13
+"14","Jacobs Point",2021,"Jacobs Point - No Action",2016,5,"No Action","Panne",0.788,"RI","Microtidal",0.808,0.864,1.263,1.056,-0.02,-0.076,-0.475,-1.89,-7.2,-44.98
+"15","Jacobs Point",2021,"Jacobs Point - Reference",2016,5,"Reference","Panne",0.82,"RI","Microtidal",0.808,0.864,1.263,1.056,0.0119999999999999,-0.044,-0.443,1.14,-4.17,-41.95
+"16","Jacobs Point",2021,"Jacobs Point - Runnel",2016,5,"Runnel","Panne",0.873,"RI","Microtidal",0.808,0.864,1.263,1.056,0.0649999999999999,0.00900000000000001,-0.39,6.16,0.85,-36.93
+"17","Kents Island",2022,"Kents Island - No Action",2022,0,"No Action","Panne",1.42,"MA","Mesotidal",1.381,1.5,1.829,2.893,0.0389999999999999,-0.0800000000000001,-0.409,1.35,-2.77,-14.14
+"18","Kents Island",2022,"Kents Island - Reference",2022,0,"Reference","Panne",1.284,"MA","Mesotidal",1.381,1.5,1.829,2.893,-0.097,-0.216,-0.545,-3.35,-7.47,-18.84
+"19","Kents Island",2022,"Kents Island - Runnel",2022,0,"Runnel","Panne",1.365,"MA","Mesotidal",1.381,1.5,1.829,2.893,-0.016,-0.135,-0.464,-0.55,-4.67,-16.04
+"20","Middlebridge",2022,"Middlebridge - No Action",2016,6,"No Action","Pool",0.454,"RI","Microtidal",0.448,0.497,0.764,1.056,0.00600000000000001,-0.043,-0.31,0.57,-4.07,-29.36
+"21","Middlebridge",2022,"Middlebridge - Reference",2016,6,"Reference","Pool",0.427,"RI","Microtidal",0.448,0.497,0.764,1.056,-0.021,-0.07,-0.337,-1.99,-6.63,-31.91
+"22","Middlebridge",2022,"Middlebridge - Runnel",2016,6,"Runnel","Pool",0.308,"RI","Microtidal",0.448,0.497,0.764,1.056,-0.14,-0.189,-0.456,-13.26,-17.9,-43.18
+"23","Moody Marsh",2021,"Moody Marsh - No Action",2011,10,"No Action","Pool",1.534,"ME","Mesotidal",1.252,1.38,2.047,2.487,0.282,0.154,-0.513,11.34,6.19,-20.63
+"24","Moody Marsh",2021,"Moody Marsh - Reference",2011,10,"Reference","Pool",1.432,"ME","Mesotidal",1.252,1.38,2.047,2.487,0.18,0.052,-0.615,7.24,2.09,-24.73
+"25","Moody Marsh",2021,"Moody Marsh - Runnel",2011,10,"Runnel","Pool",1.241,"ME","Mesotidal",1.252,1.38,2.047,2.487,-0.0109999999999999,-0.139,-0.806,-0.44,-5.59,-32.41
+"26","Narrow River",2022,"Narrow River - No Action",2016,6,"No Action","Pool",0.508,"RI","Microtidal",0.382,0.438,0.654,1.056,0.126,0.07,-0.146,11.93,6.63,-13.83
+"27","Narrow River",2022,"Narrow River - Reference",2016,6,"Reference","Pool",0.442,"RI","Microtidal",0.382,0.438,0.654,1.056,0.06,0.004,-0.212,5.68,0.38,-20.08
+"28","Narrow River",2022,"Narrow River - Runnel",2016,6,"Runnel","Pool",0.467,"RI","Microtidal",0.382,0.438,0.654,1.056,0.085,0.029,-0.187,8.05,2.75,-17.71
+"29","Old Town Hill",2022,"Old Town Hill - No Action",2020,2,"No Action","Panne",1.349,"MA","Mesotidal",1.388,1.495,1.762,2.893,-0.0389999999999999,-0.146,-0.413,-1.35,-5.05,-14.28
+"30","Old Town Hill",2022,"Old Town Hill - Reference",2020,2,"Reference","Panne",1.485,"MA","Mesotidal",1.388,1.495,1.762,2.893,0.0970000000000002,-0.01,-0.277,3.35,-0.35,-9.57
+"31","Old Town Hill",2022,"Old Town Hill - Runnel",2020,2,"Runnel","Panne",1.366,"MA","Mesotidal",1.388,1.495,1.762,2.893,-0.0219999999999998,-0.129,-0.396,-0.76,-4.46,-13.69
+"32","Pine Island - North",2021,"Pine Island - North - No Action",2015,6,"No Action","Pool",1.53,"MA","Mesotidal",1.376,1.471,1.76,2.893,0.154,0.0589999999999999,-0.23,5.32,2.04,-7.95
+"33","Pine Island - North",2021,"Pine Island - North - Reference",2015,6,"Reference","Pool",1.523,"MA","Mesotidal",1.376,1.471,1.76,2.893,0.147,0.0519999999999998,-0.237,5.08,1.8,-8.19
+"34","Pine Island - North",2021,"Pine Island - North - Runnel",2015,6,"Runnel","Pool",1.465,"MA","Mesotidal",1.376,1.471,1.76,2.893,0.0890000000000002,-0.00600000000000001,-0.295,3.08,-0.21,-10.2
+"35","Pine Island - South",2021,"Pine Island - South - Reference",2015,6,"Reference","Pool",1.493,"MA","Mesotidal",1.376,1.471,1.76,2.893,0.117,0.022,-0.267,4.04,0.76,-9.23
+"36","Pine Island - South",2021,"Pine Island - South - Runnel",2015,6,"Runnel","Pool",1.221,"MA","Mesotidal",1.376,1.471,1.76,2.893,-0.155,-0.25,-0.539,-5.36,-8.64,-18.63
+"37","Plum Island - DPR - North",2021,"Plum Island - DPR - North - Reference",2016,5,"Reference","Panne",1.495,"MA","Mesotidal",1.293,1.405,1.971,2.893,0.202,0.0900000000000001,-0.476,6.98,3.11,-16.45
+"38","Plum Island - DPR - North",2021,"Plum Island - DPR - North - Runnel",2016,5,"Runnel","Panne",1.507,"MA","Mesotidal",1.293,1.405,1.971,2.893,0.214,0.102,-0.464,7.4,3.53,-16.04
+"39","Plum Island - DPR - South",2021,"Plum Island - DPR - South - No Action",2017,4,"No Action","Panne",1.494,"MA","Mesotidal",1.293,1.405,1.971,2.893,0.201,0.089,-0.477,6.95,3.08,-16.49
+"40","Plum Island - DPR - South",2021,"Plum Island - DPR - South - Reference",2017,4,"Reference","Panne",1.501,"MA","Mesotidal",1.293,1.405,1.971,2.893,0.208,0.0959999999999999,-0.47,7.19,3.32,-16.25
+"41","Plum Island - DPR - South",2021,"Plum Island - DPR - South - Runnel",2017,4,"Runnel","Panne",1.528,"MA","Mesotidal",1.293,1.405,1.971,2.893,0.235,0.123,-0.443,8.12,4.25,-15.31
+"42","Plum Island - PLHA - North",2022,"Plum Island - PLHA - North - Reference",2022,0,"Reference","Pool",1.46,"MA","Mesotidal",1.398,1.537,1.989,2.893,0.0620000000000001,-0.077,-0.529,2.14,-2.66,-18.29
+"43","Plum Island - PLHA - North",2022,"Plum Island - PLHA - North - Runnel",2022,0,"Runnel","Pool",1.482,"MA","Mesotidal",1.398,1.537,1.989,2.893,0.0840000000000001,-0.0549999999999999,-0.507,2.9,-1.9,-17.53
+"44","Plum Island - PLHA - South",2022,"Plum Island - PLHA - South - No Action",2022,0,"No Action","Pool",1.393,"MA","Mesotidal",1.398,1.537,1.989,2.893,-0.00499999999999989,-0.144,-0.596,-0.17,-4.98,-20.6
+"45","Plum Island - PLHA - South",2022,"Plum Island - PLHA - South - Reference",2022,0,"Reference","Pool",1.451,"MA","Mesotidal",1.398,1.537,1.989,2.893,0.0530000000000002,-0.0859999999999999,-0.538,1.83,-2.97,-18.6
+"46","Plum Island - PLHA - South",2022,"Plum Island - PLHA - South - Runnel",2022,0,"Runnel","Pool",1.502,"MA","Mesotidal",1.398,1.537,1.989,2.893,0.104,-0.0349999999999999,-0.487,3.59,-1.21,-16.83
+"47","Potters Pond",2021,"Potters Pond - No Action",2018,3,"No Action","Pool",0.122,"RI","Microtidal",0.264,0.295,0.552,1.056,-0.142,-0.173,-0.43,-13.45,-16.38,-40.72
+"48","Potters Pond",2021,"Potters Pond - Reference",2018,3,"Reference","Pool",0.246,"RI","Microtidal",0.264,0.295,0.552,1.056,-0.018,-0.049,-0.306,-1.7,-4.64,-28.98
+"49","Potters Pond",2021,"Potters Pond - Runnel",2018,3,"Runnel","Pool",0.174,"RI","Microtidal",0.264,0.295,0.552,1.056,-0.09,-0.121,-0.378,-8.52,-11.46,-35.8
+"50","Round Marsh",2021,"Round Marsh - No Action",2014,7,"No Action","Panne",0.633,"RI","Microtidal",0.679,0.736,1.006,1.056,-0.046,-0.103,-0.373,-4.36,-9.75,-35.32
+"51","Round Marsh",2021,"Round Marsh - Reference",2014,7,"Reference","Panne",0.706,"RI","Microtidal",0.679,0.736,1.006,1.056,0.0269999999999999,-0.03,-0.3,2.56,-2.84,-28.41
+"52","Round Marsh",2021,"Round Marsh - Runnel",2014,7,"Runnel","Panne",0.648,"RI","Microtidal",0.679,0.736,1.006,1.056,-0.031,-0.088,-0.358,-2.94,-8.33,-33.9
+"53","Sapowet - North",2022,"Sapowet - North - Reference",2018,4,"Reference","Pool",0.615,"RI","Microtidal",0.543,0.624,0.932,1.056,0.072,-0.00900000000000001,-0.317,6.82,-0.85,-30.02
+"54","Sapowet - North",2022,"Sapowet - North - Runnel",2018,4,"Runnel","Pool",0.626,"RI","Microtidal",0.543,0.624,0.932,1.056,0.083,0.002,-0.306,7.86,0.19,-28.98
+"55","Sapowet - South",2022,"Sapowet - South - No Action",2022,0,"No Action","Pool",0.666,"RI","Microtidal",0.543,0.624,0.932,1.056,0.123,0.042,-0.266,11.65,3.98,-25.19
+"56","Sapowet - South",2022,"Sapowet - South - Runnel",2022,0,"Runnel","Pool",0.668,"RI","Microtidal",0.543,0.624,0.932,1.056,0.125,0.044,-0.264,11.84,4.17,-25
+"57","Weekapaug",2021,"Weekapaug - No Action",2017,4,"No Action","Pool",0.175,"RI","Microtidal",0.377,0.437,0.755,1.056,-0.202,-0.262,-0.58,-19.13,-24.81,-54.92
+"58","Weekapaug",2021,"Weekapaug - Reference",2017,4,"Reference","Pool",0.245,"RI","Microtidal",0.377,0.437,0.755,1.056,-0.132,-0.192,-0.51,-12.5,-18.18,-48.3
+"59","Weekapaug",2021,"Weekapaug - Runnel",2017,4,"Runnel","Pool",0.199,"RI","Microtidal",0.377,0.437,0.755,1.056,-0.178,-0.238,-0.556,-16.86,-22.54,-52.65
+"60","Winnapaug",2021,"Winnapaug - No Action",2013,8,"No Action","Pool",0.203,"RI","Microtidal",0.387,0.446,0.755,1.056,-0.184,-0.243,-0.552,-17.42,-23.01,-52.27
+"61","Winnapaug",2021,"Winnapaug - Reference",2013,8,"Reference","Pool",0.252,"RI","Microtidal",0.387,0.446,0.755,1.056,-0.135,-0.194,-0.503,-12.78,-18.37,-47.63
+"62","Winnapaug",2021,"Winnapaug - Runnel",2013,8,"Runnel","Pool",0.226,"RI","Microtidal",0.387,0.446,0.755,1.056,-0.161,-0.22,-0.529,-15.25,-20.83,-50.09

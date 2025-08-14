@@ -1,0 +1,17 @@
+"","Site_Treatment","Transect","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Pine Island - North - Reference","T1",2021,1.479,0.034,0
+"2","Pine Island - North - Reference","T1",2024,1.494,0.033,0.0149999999999999
+"3","Pine Island - North - Reference","T2",2021,1.574,0.015,0
+"4","Pine Island - North - Reference","T2",2024,1.59,0.02,0.016
+"5","Pine Island - North - Runnel","T1",2021,1.449,0.039,0
+"6","Pine Island - North - Runnel","T1",2024,1.472,0.035,0.0229999999999999
+"7","Pine Island - North - Runnel","T2",2021,1.527,0.007,0
+"8","Pine Island - North - Runnel","T2",2024,1.513,0.025,-0.014
+"9","Pine Island - South - Reference","T1",2021,1.563,0.005,0
+"10","Pine Island - South - Reference","T1",2024,1.558,0.004,-0.00499999999999989
+"11","Pine Island - South - Reference","T2",2021,1.453,0.028,0
+"12","Pine Island - South - Reference","T2",2024,1.443,0.028,-0.01
+"13","Pine Island - South - Runnel","T1",2021,1.231,0.03,0
+"14","Pine Island - South - Runnel","T1",2024,1.227,0.037,-0.004
+"15","Pine Island - South - Runnel","T2",2021,1.247,0.031,0
+"16","Pine Island - South - Runnel","T2",2024,1.276,0.033,0.0289999999999999

@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Jacobs Point - No Action",2021,0.794,0.008,0
+"2","Jacobs Point - No Action",2024,0.78,0.008,-0.014
+"3","Jacobs Point - Reference",2021,0.82,0.013,0
+"4","Jacobs Point - Reference",2024,0.793,0.017,-0.0269999999999999
+"5","Jacobs Point - Runnel",2021,0.867,0.02,0
+"6","Jacobs Point - Runnel",2024,0.853,0.013,-0.014

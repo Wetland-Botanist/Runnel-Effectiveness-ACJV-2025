@@ -8,11 +8,10 @@
 # Purpose: Conduct Mixed Linear Two-WAY ANOVAs on the avian community metrics, Graph the results
 
 
-# Chapter 1: Set up Code
+# Chapter 1: Package Library ------------------------------------------------------
 
 rm(list = ls())
 
-#Library & Packages
 #Stats & Data Organization Packages
 library(tidyr)
 library(dplyr)
@@ -30,16 +29,16 @@ library(viridis)
 
 set.seed(1994)
 
-#Chapter 2: Import the SHARP 0 - 50 m Survey Averaged Dataset
+#Chapter 2: Import the SHARP 0 - 50 m Survey Averaged Dataset -------------------------
 
-birds_compiled <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+birds_compiled <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
   select(-X) %>%
   filter(Site != 'Moody Marsh') %>%
   filter(Site != 'Broad Cove'| Treatment != 'No Action') %>%
   mutate(State = ifelse(str_starts("Broad Cove", Site), "RI", State)) %>%
-  mutate(Region = ifelse(State == "RI", "Narragansett Bay", 
-                         ifelse (State == "MA", "North Shore Mass", "North Shore Mass"))) %>%
-  select(PointID, Site, State, Region, Treatment:saltysparrow, AGWT:YEWA)
+  mutate(Tidal_Regime = ifelse(State == "RI", "Microtidal", 
+                         ifelse (State == "MA", "Mesotidal", "Mesotidal"))) %>%
+  select(PointID, Site, State, Tidal_Regime, Treatment:saltysparrow, AGWT:YEWA)
 
 
 
@@ -168,7 +167,7 @@ Bird_NMDS
 
 
 ggsave(Bird_NMDS,
-       filename = "Avian Analysis\\Figures\\NMDS - Year.jpg",
+       filename = "Figures\\NMDS - Year.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 10, width = 14)
 
@@ -181,17 +180,17 @@ ggsave(Bird_NMDS,
 nmds.points.mean <- as.data.frame(scores(nmds$points)) %>%
   mutate(Treatment = plots$Treatment,
          Site = plots$Site,
-         Region = plots$Region,
+         Tidal_Regime = plots$Tidal_Regime,
          PlotID = plots$PlotID,
          Year = as.factor(plots$Year)) %>%
-  group_by(Region) %>%
+  group_by(Tidal_Regime) %>%
   summarise(across(MDS1:MDS2, ~mean(.))) %>%
   ungroup()
 
 
 Bird_NMDS_Mean = ggplot(data = nmds.points.mean,
                    aes(x = MDS1, y = MDS2)) + 
-  geom_point(aes(colour = Region, shape = Region),
+  geom_point(aes(colour = Tidal_Regime, shape = Tidal_Regime),
              size = 6, alpha = 1, stroke = 1.5) + 
   #geom_text_repel(aes(label = Site_Date)) +
   geom_text(data = nmds.species,
@@ -221,7 +220,7 @@ Bird_NMDS_Mean
 
 
 ggsave(Bird_NMDS_Mean,
-       filename = "Avian Analysis\\Figures\\Mean NMDS - Region.jpg",
+       filename = "Figures\\Mean NMDS - Region.jpg",
        dpi = 300, units = "in", limitsize = FALSE,
        height = 10, width = 14)
 
@@ -273,19 +272,17 @@ perm_treatment
 
 #Analysis 3: Region
 
-perm_region <- adonis2(species ~ Region,  
+perm_tides <- adonis2(species ~ Tidal_Regime,  
                           method = "bray",
                           data = plots)
-perm_region
-
-perm_region <- tidy(perm_region)
+perm_tides
 
 
-permanova_tables <- rbind(tidy(perm_year), tidy(perm_treatment), tidy(perm_region))
+permanova_tables <- rbind(tidy(perm_year), tidy(perm_treatment), tidy(perm_tides))
 
 
 write.csv(permanova_tables,
-          "Avian Analysis\\Output Stats\\PERMANOVA Tables.csv")
+          "Output Stats\\PERMANOVA Tables.csv")
 
 #Chapter 6: Similarity of Percentages (SIMPER) Analysis
 

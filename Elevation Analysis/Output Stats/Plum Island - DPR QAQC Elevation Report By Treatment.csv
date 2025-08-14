@@ -1,0 +1,10 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Plum Island - DPR - North - Reference",2021,1.495,0.009,0
+"2","Plum Island - DPR - North - Reference",2024,1.41,0.008,-0.0850000000000002
+"3","Plum Island - DPR - North - Runnel",2021,1.513,0.008,0
+"4","Plum Island - DPR - North - Runnel",2024,1.49,0.011,-0.0229999999999999
+"5","Plum Island - DPR - South - No Action",2021,1.494,0.021,0
+"6","Plum Island - DPR - South - No Action",2024,1.5,0.018,0.00600000000000001
+"7","Plum Island - DPR - South - Reference",2024,1.496,0.005,0
+"8","Plum Island - DPR - South - Runnel",2021,1.514,0.01,0
+"9","Plum Island - DPR - South - Runnel",2024,1.468,0.016,-0.046

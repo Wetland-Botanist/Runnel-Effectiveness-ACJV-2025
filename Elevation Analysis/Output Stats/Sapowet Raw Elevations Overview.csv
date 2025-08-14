@@ -1,0 +1,17 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2022,"Sapowet - North - Reference","T1",0.63,0.62,0.64
+"2",2022,"Sapowet - North - Reference","T2",0.6,0.57,0.62
+"3",2022,"Sapowet - North - Runnel","T1",0.72,0.72,0.73
+"4",2022,"Sapowet - North - Runnel","T2",0.69,0.66,0.72
+"5",2022,"Sapowet - South - No Action","T1",0.68,0.61,0.71
+"6",2022,"Sapowet - South - No Action","T2",0.66,0.5,0.72
+"7",2022,"Sapowet - South - Runnel","T1",0.63,0.57,0.66
+"8",2022,"Sapowet - South - Runnel","T2",0.55,0.44,0.64
+"9",2024,"Sapowet - North - Reference","T1",0.92,0.92,0.93
+"10",2024,"Sapowet - North - Reference","T2",0.89,0.87,0.92
+"11",2024,"Sapowet - North - Runnel","T1",0.71,0.71,0.72
+"12",2024,"Sapowet - North - Runnel","T2",0.68,0.67,0.71
+"13",2024,"Sapowet - South - No Action","T1",0.67,0.56,0.72
+"14",2024,"Sapowet - South - No Action","T2",0.65,0.5,0.72
+"15",2024,"Sapowet - South - Runnel","T1",0.7,0.66,0.73
+"16",2024,"Sapowet - South - Runnel","T2",0.53,0.39,0.74

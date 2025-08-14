@@ -1,0 +1,13 @@
+"","Site_Treatment","Transect","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Weekapaug - No Action","T1",2021,0.133,0.028,0
+"2","Weekapaug - No Action","T1",2024,0.168,0.048,0.035
+"3","Weekapaug - No Action","T2",2021,0.2,0.019,0
+"4","Weekapaug - No Action","T2",2024,0.253,0.019,0.053
+"5","Weekapaug - Reference","T1",2021,0.232,0.007,0
+"6","Weekapaug - Reference","T1",2024,0.265,0.013,0.033
+"7","Weekapaug - Reference","T2",2021,0.253,0.007,0
+"8","Weekapaug - Reference","T2",2024,0.31,0.009,0.057
+"9","Weekapaug - Runnel","T1",2021,0.205,0.02,0
+"10","Weekapaug - Runnel","T1",2024,0.24,0.042,0.035
+"11","Weekapaug - Runnel","T2",2021,0.204,0.013,0
+"12","Weekapaug - Runnel","T2",2024,0.282,0.013,0.078

@@ -7,7 +7,7 @@
 
 # Purpose: Combine the separate SHARP datasets over 2021 - 2023 for exploratory, multivariate, and modeling analysis
 
-# Chapter 1: Set up Code
+# Chapter 1: Set up Code ----------------------------------------------------
 
 #Library & Packages
 rm(list = ls())
@@ -18,7 +18,7 @@ library(dplyr)
 library(vegan)
 
 
-#Chapter 2: Load all of the bird datasets
+#Chapter 2: Import all of the bird datasets ------------------------------------
 
 # Bird datasets include:
 # (1) Maine and Massachusetts 2021
@@ -33,7 +33,7 @@ library(vegan)
 
 
 # Load Maine and Massachusetts 2021 Dataset (no R formatting needed)
-bird_me_ma_21 <- read.csv("Avian Analysis\\Input Data\\Maine_Mass_2021.csv")
+bird_me_ma_21 <- read.csv("Input Data\\Maine_Mass_2021.csv")
   
 
 # Load Rhode Island 2021 Dataset (R formatting needed)
@@ -43,7 +43,7 @@ bird_me_ma_21 <- read.csv("Avian Analysis\\Input Data\\Maine_Mass_2021.csv")
 # so it had to be remedied after loading. 
 # Bird observations were added together for same SHARP Point, Visit, and Distance Band. Then only one entry was kept
 
-bird_ri_21 <- read.csv("Avian Analysis\\Input Data\\RhodeIsland_2021.csv") %>%
+bird_ri_21 <- read.csv("Input Data\\RhodeIsland_2021.csv") %>%
   filter(Site != "") %>%
   group_by(PointID, VisitNum, AlphaCode, DistBand) %>%
   mutate(across(Min.1:Min.12, ~max(.))) %>%
@@ -52,7 +52,7 @@ bird_ri_21 <- read.csv("Avian Analysis\\Input Data\\RhodeIsland_2021.csv") %>%
   distinct(PointID, VisitNum, AlphaCode, DistBand, .keep_all = TRUE)
 
 # All states 2022 bird data (No R formatting needed)
-bird_2022 <- read.csv("Avian Analysis\\Input Data\\Birds_All_2022.csv") %>%
+bird_2022 <- read.csv("Input Data\\Birds_All_2022.csv") %>%
   filter(Site != "") %>%
   group_by(PointID, VisitNum, AlphaCode, DistBand) %>%
   mutate(across(Min.1:Min.11, ~max(.))) %>%
@@ -61,8 +61,9 @@ bird_2022 <- read.csv("Avian Analysis\\Input Data\\Birds_All_2022.csv") %>%
   distinct(PointID, VisitNum, AlphaCode, DistBand, .keep_all = TRUE)
   
 # All states 2023 bird data (No R formatting needed)
-bird_2023 <- read.csv("Avian Analysis\\Input Data\\Birds_All_2023.csv") %>%
+bird_2023 <- read.csv("Input Data\\Birds_All_2023.csv") %>%
   filter(Site != "") %>%
+  # Issues with survey and can not trust the data -- removing from dataset
   filter(Site != "Canonchet" | Treatment != "RUN" | SurveyDate != "7/7/2023") %>%
   group_by(PointID, VisitNum, AlphaCode, DistBand) %>%
   mutate(across(Min.1:Min.12, ~max(.))) %>%
@@ -105,6 +106,11 @@ birds_all <- bind_rows(bird_me_ma_21, bird_ri_21, bird_2022, bird_2023) %>%
   mutate(Treatment = ifelse(Treatment == "RUN", "Runnel",
                             ifelse(Treatment == "NAC", "No Action",
                                    "Reference"))) %>%
+  # Add runnel age to the NAC and REF treatments
+  group_by(Site, Year) %>%
+  mutate(runnel_age = ifelse(is.na(runnel_age), max(runnel_age, na.rm = TRUE), 
+                             runnel_age)) %>%
+  ungroup() %>%
   #Keep only necessary columns for further analysis and arrange for easier viewing
   select(RegionNum, State, PointID, Site, Treatment, runnel_age, Point_X, Point_Y,
           VisitNum:Site_Date, richness, shannon, totalbirds, saltysparrow, AGWT:YEWA) %>%
@@ -113,7 +119,7 @@ birds_all <- bind_rows(bird_me_ma_21, bird_ri_21, bird_2022, bird_2023) %>%
 # Formatted bird dataset is sent to the "Formatted Datasets" folder for use in next step code
 # Dataset is saved for posterity
 write.csv(birds_all, 
-          "Avian Analysis\\Formatted Datasets\\SHARP Bird Dataset with Missing Distance Band.csv")
+          "Formatted Datasets\\SHARP Bird Dataset with Missing Distance Band.csv")
 
 
 
@@ -128,7 +134,7 @@ birds_complete <- birds_all %>%
   ungroup()
 
 write.csv(birds_complete,
-          "Avian Analysis\\Formatted Datasets\\SHARP Bird Dataset with Completed Distance Band.csv")
+          "Formatted Datasets\\SHARP Bird Dataset with Completed Distance Band.csv")
 
 
 #Chapter 4: Reduce and reformat the entire dataset for only distance bands of 0 - 50 m
@@ -139,7 +145,7 @@ birds_50 <- birds_complete %>%
 # Formatted bird dataset is sent to the "Formatted Datasets" folder for use in next step code
 # This is the dataset that will be used in Part II Script - Addition of Wetland and Feeding Habit Scores
 write.csv(birds_50,
-          "Avian Analysis\\Formatted Datasets\\SHARP Bird 50 m Distance.csv")
+          "Formatted Datasets\\SHARP Bird 50 m Distance.csv")
 
 
 
@@ -180,8 +186,20 @@ birds_meta <- birds_50 %>%
 
 # Dataset is saved for posterity and background information on the project
 write.csv(birds_meta,
-          "Avian Analysis\\Formatted Datasets\\Metadata of SHARP Point Visits.csv")
+          "Formatted Datasets\\Metadata of SHARP Point Visits.csv")
 
+  
+
+# Create a list of SHARP points where salty sparrows were never found
+
+no_salty <- birds_50 %>%
+  select(PointID, Year, saltysparrow) %>%
+  group_by(PointID) %>%
+  summarise(
+    salty_sparrow_count = sum(saltysparrow)) %>%
+  filter(salty_sparrow_count <= 2)
+
+  
   
 
 

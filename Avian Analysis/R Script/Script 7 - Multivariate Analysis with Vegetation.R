@@ -8,7 +8,7 @@
 # Purpose: Multivariate analysis of the 2023 SHARP Dataset and accompanying SHARP Vegetation
 
 
-# Chapter 1: Set up Code
+# Chapter 1: Package Library ---------------------------------------------
 
 rm(list = ls())
 
@@ -31,9 +31,8 @@ library(viridis)
 
 #SHARP Bird Dataset
 
-birds_compiled <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
+birds_compiled <- read.csv("Formatted Datasets\\SHARP Bird 50m Dataset - Surveys Averaged.csv") %>%
   select(-X) %>%
-  filter(Site != 'Moody Marsh') %>%
   mutate(State = ifelse(str_starts("Broad Cove", Site), "RI", State)) %>%
   mutate(Region = ifelse(State == "RI", "Narragansett Bay", 
                          ifelse (State == "MA", "North Shore Mass", "North Shore Mass"))) %>%
@@ -41,7 +40,7 @@ birds_compiled <- read.csv("Avian Analysis\\Formatted Datasets\\SHARP Bird 50m D
 
 #SHARP Veg Dataset
 
-veg <- read.csv("Avian Analysis\\Input Data\\SHARP_Veg_2023.csv")
+veg <- read.csv("Input Data\\SHARP_Veg_2023.csv")
 
 glimpse(veg)
 

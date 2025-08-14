@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Narrow River - No Action",2022,0.508,0.01,0
+"2","Narrow River - No Action",2024,0.513,0.012,0.005
+"3","Narrow River - Reference",2022,0.445,0.012,0
+"4","Narrow River - Reference",2024,0.469,0.012,0.024
+"5","Narrow River - Runnel",2022,0.467,0.006,0
+"6","Narrow River - Runnel",2024,0.511,0.01,0.044

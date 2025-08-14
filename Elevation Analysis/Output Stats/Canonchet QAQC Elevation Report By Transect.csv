@@ -1,0 +1,13 @@
+,Site_Treatment,Transect,Year,elevation_mean,elevation_se,Transect_difference
+1,Canonchet - No Action,T1,2022,0.435,0.022,0
+2,Canonchet - No Action,T1,2024,0.545,0.021,0.11
+3,Canonchet - No Action,T2,2022,0.392,0.031,0
+4,Canonchet - No Action,T2,2024,0.462,0.037,0.07
+5,Canonchet - Reference,T1,2022,0.47,0.04,0
+6,Canonchet - Reference,T1,2024,0.46,0.039,-0.01
+7,Canonchet - Reference,T2,2022,0.439,0.005,0
+8,Canonchet - Reference,T2,2024,0.441,0.005,0.002
+9,Canonchet - Runnel,T1,2022,0.414,0.004,0
+10,Canonchet - Runnel,T1,2024,0.455,0.007,0.041
+11,Canonchet - Runnel,T2,2022,0.443,0.013,0
+12,Canonchet - Runnel,T2,2024,0.475,0.019,0.032

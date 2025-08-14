@@ -1,0 +1,17 @@
+"","Site_Treatment","Transect","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Old Town Hill - No Action","T1",2022,1.353,0.046,0
+"2","Old Town Hill - No Action","T1",2024,1.363,0.056,0.01
+"3","Old Town Hill - No Action","T2",2022,1.346,0.043,0
+"4","Old Town Hill - No Action","T2",2024,1.37,0.05,0.024
+"5","Old Town Hill - Reference","T1",2022,1.495,0.007,0
+"6","Old Town Hill - Reference","T1",2024,1.432,0.009,-0.0630000000000002
+"7","Old Town Hill - Reference","T2",2022,1.474,0.011,0
+"8","Old Town Hill - Reference","T2",2024,1.409,0.011,-0.0649999999999999
+"9","Old Town Hill - Runnel","T1",2022,1.413,0.005,0
+"10","Old Town Hill - Runnel","T1",2024,1.427,0.003,0.014
+"11","Old Town Hill - Runnel","T2",2022,1.379,0.017,0
+"12","Old Town Hill - Runnel","T2",2024,1.394,0.014,0.0149999999999999
+"13","Old Town Hill - Runnel","T3",2022,1.413,0.004,0
+"14","Old Town Hill - Runnel","T3",2024,1.423,0.005,0.01
+"15","Old Town Hill - Runnel","T4",2022,1.407,0.007,0
+"16","Old Town Hill - Runnel","T4",2024,1.424,0.013,0.0169999999999999

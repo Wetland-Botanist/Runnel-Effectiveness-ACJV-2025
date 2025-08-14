@@ -1,0 +1,21 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2021,"Pine Island - North - No Action","T1",NA,Inf,-Inf
+"2",2021,"Pine Island - North - No Action","T2",NA,Inf,-Inf
+"3",2021,"Pine Island - North - Reference","T1",1.48,1.29,1.54
+"4",2021,"Pine Island - North - Reference","T2",1.57,1.51,1.62
+"5",2021,"Pine Island - North - Runnel","T1",1.45,1.3,1.51
+"6",2021,"Pine Island - North - Runnel","T2",1.53,1.52,1.53
+"7",2021,"Pine Island - South - Reference","T1",1.56,1.55,1.57
+"8",2021,"Pine Island - South - Reference","T2",1.45,1.31,1.52
+"9",2021,"Pine Island - South - Runnel","T1",1.23,1.17,1.33
+"10",2021,"Pine Island - South - Runnel","T2",1.25,1.17,1.35
+"11",2024,"Pine Island - North - No Action","T1",NA,Inf,-Inf
+"12",2024,"Pine Island - North - No Action","T2",NA,Inf,-Inf
+"13",2024,"Pine Island - North - Reference","T1",1.49,1.31,1.56
+"14",2024,"Pine Island - North - Reference","T2",1.59,1.5,1.64
+"15",2024,"Pine Island - North - Runnel","T1",1.47,1.34,1.53
+"16",2024,"Pine Island - North - Runnel","T2",1.51,1.49,1.54
+"17",2024,"Pine Island - South - Reference","T1",1.56,1.55,1.56
+"18",2024,"Pine Island - South - Reference","T2",1.44,1.31,1.51
+"19",2024,"Pine Island - South - Runnel","T1",1.23,1.13,1.3
+"20",2024,"Pine Island - South - Runnel","T2",1.28,1.21,1.4

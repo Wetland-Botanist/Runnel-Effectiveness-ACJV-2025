@@ -1,0 +1,13 @@
+,Site_Treatment,Transect,Year,elevation_mean,elevation_se,Transect_difference
+1,Middlebridge - No Action,T1,2022,0.434,0.012,0
+2,Middlebridge - No Action,T1,2024,0.285,0.027,-0.149
+3,Middlebridge - No Action,T2,2022,0.472,0.023,0
+4,Middlebridge - No Action,T2,2024,0.372,0.026,-0.1
+5,Middlebridge - Reference,T1,2022,0.428,0.017,0
+6,Middlebridge - Reference,T1,2024,0.381,0.019,-0.047
+7,Middlebridge - Reference,T2,2022,0.427,0.007,0
+8,Middlebridge - Reference,T2,2024,0.457,0.006,0.03
+9,Middlebridge - Runnel,T1,2022,0.321,0.01,0
+10,Middlebridge - Runnel,T1,2024,0.306,0.014,-0.015
+11,Middlebridge - Runnel,T2,2022,0.291,0.023,0
+12,Middlebridge - Runnel,T2,2024,0.288,0.025,-0.003

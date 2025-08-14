@@ -1,0 +1,13 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2021,"Potters Pond - No Action","T1",0.12,0.07,0.16
+"2",2021,"Potters Pond - Reference","T1",0.26,0.24,0.27
+"3",2021,"Potters Pond - Reference","T2",0.23,0.18,0.28
+"4",2021,"Potters Pond - Runnel","T1",0.21,0.17,0.27
+"5",2021,"Potters Pond - Runnel","T2",0.1,0.05,0.16
+"6",2021,"Potters Pond - Runnel","T3",0.19,0.17,0.24
+"7",2024,"Potters Pond - No Action","T1",0.2,0.14,0.22
+"8",2024,"Potters Pond - Reference","T1",0.3,0.28,0.32
+"9",2024,"Potters Pond - Reference","T2",0.23,0.18,0.29
+"10",2024,"Potters Pond - Runnel","T1",0.25,0.22,0.32
+"11",2024,"Potters Pond - Runnel","T2",0.17,0.12,0.24
+"12",2024,"Potters Pond - Runnel","T3",0.19,0.15,0.26

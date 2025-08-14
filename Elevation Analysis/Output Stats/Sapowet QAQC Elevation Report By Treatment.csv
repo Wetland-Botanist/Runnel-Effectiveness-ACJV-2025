@@ -1,0 +1,9 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Sapowet - North - Reference",2022,0.615,0.009,0
+"2","Sapowet - North - Reference",2024,0.907,0.008,0.292
+"3","Sapowet - North - Runnel",2022,0.702,0.009,0
+"4","Sapowet - North - Runnel",2024,0.69,0.007,-0.012
+"5","Sapowet - South - No Action",2022,0.666,0.021,0
+"6","Sapowet - South - No Action",2024,0.66,0.024,-0.00600000000000001
+"7","Sapowet - South - Runnel",2022,0.595,0.026,0
+"8","Sapowet - South - Runnel",2024,0.626,0.043,0.031

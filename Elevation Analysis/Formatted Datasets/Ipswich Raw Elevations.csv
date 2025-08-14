@@ -1,0 +1,13 @@
+"","Year","Site_Treatment","Transect","mean_elev","min_elev","max_elev"
+"1",2022,"Ipswich - No Action","T1",1.46,1.06,1.56
+"2",2022,"Ipswich - No Action","T2",1.49,1.25,1.55
+"3",2022,"Ipswich - Reference","T1",1.29,1.04,1.38
+"4",2022,"Ipswich - Reference","T2",1.37,1.12,1.43
+"5",2022,"Ipswich - Runnel","T1",1.37,1.21,1.46
+"6",2022,"Ipswich - Runnel","T2",1.29,0.98,1.4
+"7",2024,"Ipswich - No Action","T1",1.46,1.05,1.56
+"8",2024,"Ipswich - No Action","T2",1.49,1.23,1.55
+"9",2024,"Ipswich - Reference","T1",1.28,1.06,1.38
+"10",2024,"Ipswich - Reference","T2",1.36,1.08,1.41
+"11",2024,"Ipswich - Runnel","T1",1.4,1.24,1.5
+"12",2024,"Ipswich - Runnel","T2",1.33,1.04,1.44

@@ -1,0 +1,62 @@
+"","Site_Treatment","Platform_Flooding_Frequency_diff"
+"1","Broad Cove - Reference",0
+"2","Broad Cove - Runnel",-19.5
+"3","Canonchet - No Action",-16.6
+"4","Canonchet - Reference",-12.8
+"5","Canonchet - Runnel",-14.8
+"6","Essex - North - No Action",0
+"7","Essex - North - Runnel",7
+"8","Essex - South - No Action",17.5
+"9","Essex - South - Reference",15.8
+"10","Essex - South - Runnel",15.8
+"11","Ipswich - No Action",-18
+"12","Ipswich - Reference",0
+"13","Ipswich - Runnel",-18
+"14","Jacobs Point - No Action",-14.9
+"15","Jacobs Point - Reference",-13
+"16","Jacobs Point - Runnel",-18
+"17","Kents Island - No Action",-7.1
+"18","Kents Island - Runnel",-3.5
+"19","Middlebridge - No Action",-21.4
+"20","Middlebridge - Reference",-28.5
+"21","Middlebridge - Runnel",-27.4
+"22","Moody Marsh - No Action",3.2
+"23","Moody Marsh - Reference",4.8
+"24","Moody Marsh - Runnel",9.40000000000001
+"25","Narrow River - No Action",-3.6
+"26","Narrow River - Reference",-7.5
+"27","Narrow River - Runnel",-5.6
+"28","Old Town Hill - No Action",1.7
+"29","Old Town Hill - Reference",0
+"30","Old Town Hill - Runnel",3.5
+"31","Pine Island - North - No Action",14
+"32","Pine Island - North - Reference",0
+"33","Pine Island - North - Runnel",5
+"34","Pine Island - South - Reference",10.7
+"35","Pine Island - South - Runnel",14.7
+"36","Plum Island - DPR - North - Reference",17.5
+"37","Plum Island - DPR - North - Runnel",15.8
+"38","Plum Island - DPR - South - No Action",17.5
+"39","Plum Island - DPR - South - Reference",0
+"40","Plum Island - DPR - South - Runnel",14
+"41","Plum Island - PLHA - North - Reference",6.3
+"42","Plum Island - PLHA - North - Runnel",11.6
+"43","Plum Island - PLHA - South - No Action",-7.8
+"44","Plum Island - PLHA - South - Reference",1
+"45","Plum Island - PLHA - South - Runnel",9.9
+"46","Potters Pond - No Action",-18.7
+"47","Potters Pond - Reference",-15.4
+"48","Potters Pond - Runnel",-28.8
+"49","Round Marsh - No Action",-26.5
+"50","Round Marsh - Reference",-31
+"51","Round Marsh - Runnel",0
+"52","Sapowet - North - Reference",24.8
+"53","Sapowet - North - Runnel",23
+"54","Sapowet - South - No Action",21.3
+"55","Sapowet - South - Runnel",30.1
+"56","Weekapaug - No Action",-27.6
+"57","Weekapaug - Reference",-30.4
+"58","Weekapaug - Runnel",-29.2
+"59","Winnapaug - No Action",-29.2
+"60","Winnapaug - Reference",-28.7
+"61","Winnapaug - Runnel",-30.6

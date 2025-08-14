@@ -1,0 +1,7 @@
+"","Site_Treatment","Year","elevation_mean","elevation_se","Transect_difference"
+"1","Potters Pond - No Action",2021,0.122,0.025,0
+"2","Potters Pond - No Action",2024,0.195,0.028,0.073
+"3","Potters Pond - Reference",2021,0.246,0.01,0
+"4","Potters Pond - Reference",2024,0.276,0.014,0.03
+"5","Potters Pond - Runnel",2021,0.174,0.013,0
+"6","Potters Pond - Runnel",2024,0.212,0.012,0.038

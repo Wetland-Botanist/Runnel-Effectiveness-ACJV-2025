@@ -1,0 +1,602 @@
+"","Date","Season","State","Salt_Marsh","SubSite","Site_Treatment","Overall_Treatment","Transect","Distance_m","Depth_m","Depth_to_Benchmark_m","elevation","Description","X","X.1","Moody.Marsh","year1","year1_transect_start","year1_transect_end","year1_transect_start_elev","year1_transect_end_elev","transect_start_elev","transect_end_elev","transect_start_diff","transect_end_diff","transect_endpoints_avg","elev_corrected"
+"1","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",0,NA,NA,1.382,"HM, Transect Start",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.382
+"2","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",2.5,NA,NA,1.422,"HM, Embankment",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.422
+"3","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",5,NA,NA,1.437,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.437
+"4","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",7.5,NA,NA,1.447,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.447
+"5","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",10,NA,NA,1.457,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.457
+"6","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",12.5,NA,NA,1.472,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.472
+"7","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",15,NA,NA,1.452,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.452
+"8","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",17.5,NA,NA,1.432,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.432
+"9","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",20,NA,NA,1.437,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.437
+"10","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",22.5,NA,NA,1.442,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.442
+"11","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",25,NA,NA,1.407,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.407
+"12","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",27.5,NA,NA,1.417,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.417
+"13","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",30,NA,NA,1.417,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.417
+"14","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",32.5,NA,NA,1.417,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.417
+"15","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",35,NA,NA,1.407,"Open Water, Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.407
+"16","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",37.5,NA,NA,1.417,"Open Water, Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.417
+"17","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",40,NA,NA,1.432,"Open Water, Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.432
+"18","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",42.5,NA,NA,1.442,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.442
+"19","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",45,NA,NA,1.467,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.467
+"20","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T1",47.2,NA,NA,1.622,"UE, Transect End",NA,NA,"",2021,0,47.2,1.382,1.622,1.382,1.622,0,0,0,1.622
+"21","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",0,NA,NA,1.367,"HM, Transect Start",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.367
+"22","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",2.5,NA,NA,1.432,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.432
+"23","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",5,NA,NA,1.457,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.457
+"24","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",7.5,NA,NA,1.467,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.467
+"25","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",10,NA,NA,1.467,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.467
+"26","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",12.5,NA,NA,1.427,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.427
+"27","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",15,NA,NA,1.432,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.432
+"28","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",17.5,NA,NA,1.432,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.432
+"29","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",20,NA,NA,1.437,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.437
+"30","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",22.5,NA,NA,1.422,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.422
+"31","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",25,NA,NA,1.442,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.442
+"32","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",27.5,NA,NA,1.432,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.432
+"33","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",30,NA,NA,1.442,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.442
+"34","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",32.5,NA,NA,1.417,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.417
+"35","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",35,NA,NA,1.407,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.407
+"36","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",37.5,NA,NA,1.387,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.387
+"37","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",40,NA,NA,1.362,"Open Water, Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.362
+"38","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",42.5,NA,NA,1.472,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.472
+"39","10/19/2021",2021,"Massachusetts","Kents Island","","No Action","No Action","T2",45.2,NA,NA,1.587,"UE, Transect End",NA,NA,"",2021,0,45.2,1.367,1.587,1.367,1.587,0,0,0,1.587
+"40","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",0,NA,NA,1.253,"HM, Transect Start",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.253
+"41","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",2.5,NA,NA,1.288,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.288
+"42","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",5,NA,NA,1.313,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.313
+"43","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",7.5,NA,NA,1.323,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.323
+"44","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",10,NA,NA,1.323,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.323
+"45","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",12.5,NA,NA,1.323,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.323
+"46","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",15,NA,NA,1.323,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.323
+"47","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",17.5,NA,NA,1.328,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.328
+"48","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",20,NA,NA,1.343,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.343
+"49","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",22.5,NA,NA,1.333,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.333
+"50","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",25,NA,NA,1.343,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.343
+"51","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",27.5,NA,NA,1.353,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.353
+"52","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",30,NA,NA,1.368,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.368
+"53","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",32.5,NA,NA,1.353,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.353
+"54","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",35,NA,NA,1.383,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.383
+"55","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T1",36,NA,NA,1.453,"UE, Transect End",NA,NA,"",2021,0,36,1.253,1.453,1.253,1.453,0,0,0,1.453
+"56","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",0,NA,NA,1.273,"HM, Transect Start",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.273
+"57","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",2.5,NA,NA,1.323,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.323
+"58","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",5,NA,NA,1.373,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.373
+"59","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",7.5,NA,NA,1.383,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.383
+"60","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",10,NA,NA,1.393,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.393
+"61","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",12.5,NA,NA,1.408,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.408
+"62","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",15,NA,NA,1.403,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.403
+"63","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",17.5,NA,NA,1.413,"UE",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.413
+"64","10/13/2021",2021,"Massachusetts","Kents Island","","Reference","Reference","T2",20,NA,NA,1.523,"UE, Transect End",NA,NA,"",2021,0,20,1.273,1.523,1.273,1.523,0,0,0,1.523
+"65","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",0,NA,NA,1.355,"HM, Transect Start",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.355
+"66","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",2.5,NA,NA,1.41,"HM",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.41
+"67","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",5,NA,NA,1.405,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.405
+"68","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",7.5,NA,NA,1.405,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.405
+"69","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",10,NA,NA,1.385,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.385
+"70","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",12.5,NA,NA,1.39,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.39
+"71","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",15,NA,NA,1.395,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.395
+"72","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",17.5,NA,NA,1.395,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.395
+"73","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",20,NA,NA,1.39,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.39
+"74","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",22.5,NA,NA,1.38,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.38
+"75","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",25,NA,NA,1.36,"Panne - Pool Edge",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.36
+"76","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",27.5,NA,NA,1.385,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.385
+"77","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",30,NA,NA,1.355,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.355
+"78","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",32.5,NA,NA,1.335,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.335
+"79","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",35,NA,NA,1.38,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.38
+"80","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",37.5,NA,NA,1.37,"Low SPALT Panne",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.37
+"81","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",40,NA,NA,1.32,"Panne - Pool Edge",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.32
+"82","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",42.5,NA,NA,1.445,"HM",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.445
+"83","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",45,NA,NA,1.525,"HM",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.525
+"84","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T1",46,NA,NA,1.635,"Upland Edge, Transect End",NA,NA,"",2021,0,46,1.355,1.635,1.355,1.635,0,0,0,1.635
+"85","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",0,NA,NA,1.365,"HM, Transect Start",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.365
+"86","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",2.5,NA,NA,1.36,"HM",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.36
+"87","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",5,NA,NA,1.345,"Transition",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.345
+"88","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",7.5,NA,NA,1.235,"Transition, Low Spot",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.235
+"89","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",10,NA,NA,1.27,"Transition",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.27
+"90","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",12.5,NA,NA,1.31,"Transition, Edge of Embankment",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.31
+"91","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",15,NA,NA,1.365,"HM, Embankment",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.365
+"92","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",17.5,NA,NA,1.32,"Low SPALT Panne",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.32
+"93","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",20,NA,NA,1.395,"Panne - Pool Edge",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.395
+"94","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",22.5,NA,NA,1.26,"Pool",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.26
+"95","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",25,NA,NA,1.295,"Pool",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.295
+"96","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",27.5,NA,NA,1.405,"Panne Island in Pool",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.405
+"97","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",30,NA,NA,1.39,"Panne - Pool Edge",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.39
+"98","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",32.5,NA,NA,1.39,"Low SPALT Panne",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.39
+"99","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",35,NA,NA,1.38,"Panne - Pool Edge",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.38
+"100","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",37.5,NA,NA,1.445,"Transition",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.445
+"101","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",40,NA,NA,1.44,"HM",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.44
+"102","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",42.5,NA,NA,1.445,"HM",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.445
+"103","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 1","Runnel","T2",45,NA,NA,1.48,"Upland Edge, Transect End",NA,NA,"",2021,0,45,1.365,1.48,1.365,1.48,0,0,0,1.48
+"104","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",0,NA,NA,1.537,"Upland Edge, Transect Start",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.537
+"105","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",2.5,NA,NA,1.422,"HM",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.422
+"106","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",5,NA,NA,1.437,"HM, Peat Hummock",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.437
+"107","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",7.5,NA,NA,1.407,"HM",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.407
+"108","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",10,NA,NA,1.387,"Transition",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.387
+"109","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",12.5,NA,NA,1.397,"Transition",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.397
+"110","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",15,NA,NA,1.422,"Transition",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.422
+"111","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",17.5,NA,NA,1.377,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.377
+"112","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",20,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.397
+"113","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",22.5,NA,NA,1.392,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.392
+"114","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",25,NA,NA,1.402,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.402
+"115","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",27.5,NA,NA,1.357,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.357
+"116","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",30,NA,NA,1.377,"Panne, Hole",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.377
+"117","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",32.5,NA,NA,1.382,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.382
+"118","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",35,NA,NA,1.392,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.392
+"119","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",37.5,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.397
+"120","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",40,NA,NA,1.367,"Low SPALT Panne",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.367
+"121","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",42.5,NA,NA,1.432,"HM",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.432
+"122","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T1",45,NA,NA,1.432,"HM, Transect End",NA,NA,"",2021,0,45,1.537,1.432,1.537,1.432,0,0,0,1.432
+"123","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",0,NA,NA,1.517,"Upland Edge, Transect Start",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.517
+"124","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",2.5,NA,NA,1.422,"HM - Transition Edge",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.422
+"125","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",5,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"126","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",7.5,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"127","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",10,NA,NA,1.392,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.392
+"128","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",12.5,NA,NA,1.392,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.392
+"129","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",15,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"130","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",17.5,NA,NA,1.402,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.402
+"131","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",20,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"132","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",22.5,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"133","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",25,NA,NA,1.402,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.402
+"134","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",27.5,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"135","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",30,NA,NA,1.402,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.402
+"136","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",32.5,NA,NA,1.387,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.387
+"137","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",35,NA,NA,1.397,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"138","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",37.5,NA,NA,1.362,"Low SPALT Panne",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.362
+"139","10/13/2021",2021,"Massachusetts","Kents Island","","Runnel 2","Runnel","T2",40,NA,NA,1.397,"Panne, Transect End",NA,NA,"",2021,0,40,1.517,1.397,1.517,1.397,0,0,0,1.397
+"140","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",0,NA,NA,1.348,"HM, Transect Start",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.348
+"141","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",2.5,NA,NA,1.368,"HM",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.368
+"142","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",5,NA,NA,1.338,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.338
+"143","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",7.5,NA,NA,1.343,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.343
+"144","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",10,NA,NA,1.328,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.328
+"145","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",12.5,NA,NA,1.378,"Panne, Rise",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.378
+"146","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",15,NA,NA,1.348,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.348
+"147","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",17.5,NA,NA,1.348,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.348
+"148","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",20,NA,NA,1.363,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.363
+"149","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",22.5,NA,NA,1.293,"Open Water, Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.293
+"150","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",25,NA,NA,1.358,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.358
+"151","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",27.5,NA,NA,1.288,"Open Water, Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.288
+"152","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",30,NA,NA,1.293,"Open Water, Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.293
+"153","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",32.5,NA,NA,1.383,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.383
+"154","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",35,NA,NA,1.353,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.353
+"155","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",37.5,NA,NA,1.348,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.348
+"156","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",40,NA,NA,1.363,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.363
+"157","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",42.5,NA,NA,1.298,"Open Water, Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.298
+"158","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",45,NA,NA,1.288,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.288
+"159","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",47.5,NA,NA,1.313,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.313
+"160","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",50,NA,NA,1.368,"Panne, Rise",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.368
+"161","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",52.5,NA,NA,1.363,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.363
+"162","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",55,NA,NA,1.328,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.328
+"163","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",57.5,NA,NA,1.313,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.313
+"164","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",60,NA,NA,1.343,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.343
+"165","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",62.5,NA,NA,1.343,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.343
+"166","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",65,NA,NA,1.353,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.353
+"167","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",67.5,NA,NA,1.338,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.338
+"168","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",70,NA,NA,1.353,"Panne",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.353
+"169","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",72.5,NA,NA,1.363,"HM",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.363
+"170","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",75,NA,NA,1.373,"HM",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.373
+"171","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T1",76.6,NA,NA,1.363,"HM, Transect End",NA,NA,"",2021,0,76.6,1.348,1.363,1.348,1.363,0,0,0,1.363
+"172","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",0,NA,NA,1.694,"UE, Transect start",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.694
+"173","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",2.5,NA,NA,1.469,"HM",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.469
+"174","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",5,NA,NA,1.334,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.334
+"175","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",7.5,NA,NA,1.324,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.324
+"176","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",10,NA,NA,1.304,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.304
+"177","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",12.5,NA,NA,1.349,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.349
+"178","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",15,NA,NA,1.329,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.329
+"179","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",17.5,NA,NA,1.404,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.404
+"180","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",20,NA,NA,1.454,"Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.454
+"181","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",22.5,NA,NA,1.319,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.319
+"182","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",25,NA,NA,1.294,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.294
+"183","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",27.5,NA,NA,1.304,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.304
+"184","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",30,NA,NA,1.294,"Open Water, Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.294
+"185","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",30.9,NA,NA,1.364,"Panne - Water Edge",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.364
+"186","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",32.5,NA,NA,1.424,"Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.424
+"187","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",35,NA,NA,1.424,"Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.424
+"188","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",37.5,NA,NA,1.424,"Panne",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.424
+"189","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",40,NA,NA,1.424,"HM Edge",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.424
+"190","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",42.5,NA,NA,1.439,"HM",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.439
+"191","10/19/2021",2021,"Massachusetts","Kents Island","","Runnel 3","Runnel","T2",45,NA,NA,1.449,"HM, Transect End",NA,NA,"",2021,0,45,1.694,1.449,1.694,1.449,0,0,0,1.449
+"192","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",0,NA,NA,1.538,"UE, Transect Start",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.538
+"193","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",2.5,NA,NA,1.458,"HM",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.458
+"194","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",5,NA,NA,1.453,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.453
+"195","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",7.5,NA,NA,1.453,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.453
+"196","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",9,NA,NA,1.463,"Center of Berm",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.463
+"197","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",10,NA,NA,1.458,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.458
+"198","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",12.5,NA,NA,1.448,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.448
+"199","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",15,NA,NA,1.388,"Open Water, Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.388
+"200","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",17.5,NA,NA,1.413,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.413
+"201","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",20,NA,NA,1.438,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.438
+"202","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",22.5,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.423
+"203","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",25,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.423
+"204","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",27.5,NA,NA,1.408,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.408
+"205","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",30,NA,NA,1.453,"HM Ridge",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.453
+"206","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",32.5,NA,NA,1.433,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.433
+"207","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",35,NA,NA,1.428,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.428
+"208","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",37.5,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.423
+"209","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",40,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.423
+"210","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",42.5,NA,NA,1.433,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.433
+"211","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",45,NA,NA,1.403,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.403
+"212","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",47,NA,NA,1.463,"HM Ridge",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.463
+"213","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",47.5,NA,NA,1.403,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.403
+"214","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",50,NA,NA,1.453,"HM, Transect End",NA,NA,"",2021,0,50,1.538,1.453,1.538,1.453,0,0,0,1.453
+"215","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",0,NA,NA,1.488,"HM, Transect Start",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.488
+"216","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",2.5,NA,NA,1.478,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.478
+"217","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",5,NA,NA,1.468,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.468
+"218","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",7.5,NA,NA,1.358,"HM Ridge",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.358
+"219","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",10,NA,NA,1.458,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.458
+"220","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",12.5,NA,NA,1.348,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.348
+"221","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",15,NA,NA,1.378,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.378
+"222","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",17.5,NA,NA,1.358,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.358
+"223","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",19,NA,NA,1.453,"HM Ridge",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.453
+"224","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",20,NA,NA,1.388,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.388
+"225","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",22.5,NA,NA,1.358,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.358
+"226","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",25,NA,NA,1.348,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.348
+"227","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",27.5,NA,NA,1.338,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.338
+"228","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",30,NA,NA,1.353,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.353
+"229","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",32.5,NA,NA,1.348,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.348
+"230","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",35,NA,NA,1.433,"HM Ridge",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.433
+"231","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",37.5,NA,NA,1.388,"HM Ridge",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.388
+"232","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",40,NA,NA,1.393,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.393
+"233","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",42.5,NA,NA,1.393,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.393
+"234","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",45,NA,NA,1.398,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.398
+"235","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",47.5,NA,NA,1.398,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.398
+"236","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",50,NA,NA,1.378,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.378
+"237","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",52.5,NA,NA,1.408,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.408
+"238","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",55,NA,NA,1.398,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.398
+"239","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",57.5,NA,NA,1.448,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.448
+"240","10/20/2021",2021,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",60,NA,NA,1.418,"HM, Transect End",NA,NA,"",2021,0,60,1.488,1.418,1.488,1.418,0,0,0,1.418
+"241","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",0,NA,NA,1.391,"South post (HM)",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.385
+"242","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",2.5,NA,NA,1.431,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.425
+"243","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",5,NA,NA,1.446,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.44
+"244","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",7.5,NA,NA,1.436,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.43
+"245","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",10,NA,NA,1.456,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.45
+"246","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",12.5,NA,NA,1.466,"trans",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.46
+"247","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",15,NA,NA,1.436,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.43
+"248","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",17.5,NA,NA,1.436,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.43
+"249","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",20,NA,NA,1.416,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.41
+"250","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",22.5,NA,NA,1.431,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.425
+"251","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",25,NA,NA,1.376,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.369
+"252","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",27.5,NA,NA,1.406,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.4
+"253","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",28,NA,NA,1.306,"hole",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.3
+"254","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",30,NA,NA,1.396,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.39
+"255","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",32.5,NA,NA,1.406,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.4
+"256","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",35,NA,NA,1.396,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.39
+"257","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",37.5,NA,NA,1.406,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.4
+"258","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",40,NA,NA,1.416,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.41
+"259","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",42.5,NA,NA,1.416,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.41
+"260","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",45,NA,NA,1.456,"HM",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.45
+"261","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T1",47.2,NA,NA,1.626,"North Post (UE)",NA,NA,"",2021,0,47.2,1.382,1.622,1.391,1.626,0.00900000000000012,0.00399999999999978,0.00649999999999995,1.619
+"262","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",0,NA,NA,1.376,"South post (trans)",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.372
+"263","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",2.5,NA,NA,1.446,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.442
+"264","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",5,NA,NA,1.456,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.452
+"265","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",7.5,NA,NA,1.456,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.452
+"266","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",10,NA,NA,1.456,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.452
+"267","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",12.5,NA,NA,1.426,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.422
+"268","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",15,NA,NA,1.426,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.422
+"269","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",17.5,NA,NA,1.436,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.432
+"270","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",20,NA,NA,1.431,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.427
+"271","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",22.5,NA,NA,1.451,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.447
+"272","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",25,NA,NA,1.431,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.427
+"273","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",27.5,NA,NA,1.426,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.422
+"274","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",30,NA,NA,1.436,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.432
+"275","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",32.5,NA,NA,1.376,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.372
+"276","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",35,NA,NA,1.396,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.392
+"277","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",37.5,NA,NA,1.391,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.387
+"278","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",40,NA,NA,1.371,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.367
+"279","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",42.5,NA,NA,1.466,"HM",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.462
+"280","8/1/2022",2022,"Massachusetts","Kents Island","","No Action","No Action","T2",45.2,NA,NA,1.586,"North Post (UE)",NA,NA,"",2021,0,45.2,1.367,1.587,1.376,1.586,0.0089999999999999,-0.00099999999999989,0.004,1.582
+"281","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",0,NA,NA,1.292,"West post (HM)",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.248
+"282","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",2.5,NA,NA,1.337,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.293
+"283","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",5,NA,NA,1.352,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.308
+"284","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",7.5,NA,NA,1.372,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.328
+"285","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",10,NA,NA,1.372,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.328
+"286","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",12.5,NA,NA,1.372,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.328
+"287","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",15,NA,NA,1.372,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.328
+"288","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",17.5,NA,NA,1.367,"Trans",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.323
+"289","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",20,NA,NA,1.372,"Trans",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.328
+"290","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",22.5,NA,NA,1.382,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.338
+"291","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",25,NA,NA,1.377,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.333
+"292","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",27.5,NA,NA,1.402,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.358
+"293","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",30,NA,NA,1.412,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.368
+"294","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",32.5,NA,NA,1.392,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.348
+"295","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",35,NA,NA,1.457,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.413
+"296","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T1",36,NA,NA,1.502,"East post (UE)",NA,NA,"",2021,0,36,1.253,1.453,1.292,1.502,0.0390000000000001,0.0489999999999999,0.044,1.458
+"297","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",0,NA,NA,1.312,"East post (HM)",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.283
+"298","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",2.5,NA,NA,1.362,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.333
+"299","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",5,NA,NA,1.392,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.363
+"300","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",7.5,NA,NA,1.412,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.383
+"301","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",10,NA,NA,1.432,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.403
+"302","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",12.5,NA,NA,1.442,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.413
+"303","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",15,NA,NA,1.442,"HM",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.413
+"304","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",17.5,NA,NA,1.462,"UE",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.433
+"305","8/1/2022",2022,"Massachusetts","Kents Island","","Reference","Reference","T2",20,NA,NA,1.542,"West post (UE)",NA,NA,"",2021,0,20,1.273,1.523,1.312,1.542,0.0390000000000001,0.0190000000000001,0.0290000000000001,1.513
+"306","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",0,NA,NA,1.401,"South post (HM)",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.436
+"307","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",2,NA,NA,1.381,"Upper runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.416
+"308","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",2.1,NA,NA,1.251,"lower runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.285
+"309","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",2.5,NA,NA,1.206,"runnel center",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.24
+"310","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",3.1,NA,NA,1.271,"lower runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.305
+"311","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",3.5,NA,NA,1.391,"Upper runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.426
+"312","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",5,NA,NA,1.371,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.406
+"313","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",7.5,NA,NA,1.376,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.41
+"314","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",9,NA,NA,1.391,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.426
+"315","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",10,NA,NA,1.391,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.426
+"316","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",12.5,NA,NA,1.381,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.416
+"317","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",15,NA,NA,1.401,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.436
+"318","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",17.5,NA,NA,1.381,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.416
+"319","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",20,NA,NA,1.411,"HM Ridge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.446
+"320","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",22.5,NA,NA,1.371,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.406
+"321","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",25,NA,NA,1.361,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.396
+"322","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",27.5,NA,NA,1.366,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.401
+"323","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",30,NA,NA,1.381,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.416
+"324","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",32.5,NA,NA,1.361,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.396
+"325","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",35,NA,NA,1.341,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.376
+"326","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",37.5,NA,NA,1.391,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.426
+"327","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",40,NA,NA,1.431,"HM embankment",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.466
+"328","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",42.1,NA,NA,1.171,"ditch center",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.206
+"329","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",42.5,NA,NA,1.401,"ditch edge",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.436
+"330","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",45,NA,NA,1.406,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.441
+"331","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",47,NA,NA,1.431,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.466
+"332","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",47.5,NA,NA,1.426,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.461
+"333","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",50,NA,NA,1.496,"North post (trans)",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.53
+"334","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T1",51,NA,NA,1.521,"UE",NA,NA,"",2021,0,50,1.538,1.453,1.401,1.521,-0.137,0.0679999999999998,-0.0345000000000001,1.555
+"335","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",0,NA,NA,1.411,"South post (HM)",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.418
+"336","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",2.5,NA,NA,1.451,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.458
+"337","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",5,NA,NA,1.386,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.393
+"338","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",7.5,NA,NA,1.401,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"339","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",10,NA,NA,1.381,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.388
+"340","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",12.5,NA,NA,1.401,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"341","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",15,NA,NA,1.401,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"342","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",17.5,NA,NA,1.386,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.393
+"343","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",19,NA,NA,1.351,"bare panne pool ",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.358
+"344","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",20,NA,NA,1.401,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"345","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",22.5,NA,NA,1.401,"HM ribbon",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"346","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",25,NA,NA,1.401,"HM ribbon",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.408
+"347","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",27.5,NA,NA,1.356,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.363
+"348","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",30,NA,NA,1.331,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.338
+"349","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",32.5,NA,NA,1.331,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.338
+"350","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",35,NA,NA,1.341,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.348
+"351","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",37.5,NA,NA,1.351,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.358
+"352","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",40,NA,NA,1.386,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.393
+"353","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",42.5,NA,NA,1.351,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.358
+"354","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",43.4,NA,NA,1.351,"Upper runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.358
+"355","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",43.7,NA,NA,1.211,"lower runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.218
+"356","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",44.1,NA,NA,1.166,"runnel center",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.173
+"357","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",45,NA,NA,1.281,"lower runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.288
+"358","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",45.1,NA,NA,1.386,"Upper runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.393
+"359","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",47.5,NA,NA,1.351,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.358
+"360","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",50,NA,NA,1.451,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.458
+"361","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",52.5,NA,NA,1.346,"die back panne",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.353
+"362","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",55,NA,NA,1.421,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.428
+"363","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",57.5,NA,NA,1.471,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.478
+"364","8/1/2022",2022,"Massachusetts","Kents Island","","Runnel 4","Runnel ","T2",60,NA,NA,1.481,"North post (HM)",NA,NA,"",2021,0,60,1.488,1.418,1.411,1.481,-0.077,0.0630000000000002,-0.0069999999999999,1.488
+"365","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",0,NA,NA,1.402,"South Post, High MArsh",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.394
+"366","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",2.5,NA,NA,1.442,"High Marsh",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.434
+"367","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",5,NA,NA,1.452,"High Marsh",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.445
+"368","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",7.5,NA,NA,1.467,"High Marsh",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.46
+"369","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",10,NA,NA,1.482,"Transition",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.474
+"370","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",12.5,NA,NA,1.472,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.465
+"371","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",15,NA,NA,1.462,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.454
+"372","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",17.5,NA,NA,1.452,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.445
+"373","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",20,NA,NA,1.442,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.434
+"374","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",22.5,NA,NA,1.452,"Panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.445
+"375","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",25,NA,NA,1.412,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.405
+"376","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",27.5,NA,NA,1.402,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.394
+"377","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",30,NA,NA,1.397,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.39
+"378","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",32.5,NA,NA,1.417,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.41
+"379","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",35,NA,NA,1.422,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.414
+"380","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",37.5,NA,NA,1.402,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.394
+"381","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",40,NA,NA,1.422,"Panne - Water",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.414
+"382","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",42.5,NA,NA,1.432,"Pool ",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.425
+"383","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",45,NA,NA,1.472,"High Marsh",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.465
+"384","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T1",47.2,NA,NA,1.617,"South Post, Upland Edge",NA,NA,"",2021,0,47.2,1.382,1.622,1.402,1.617,0.02,-0.00500000000000012,0.00749999999999995,1.61
+"385","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",0,NA,NA,1.402,"High Marsh",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.385
+"386","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",2.5,NA,NA,1.442,"Transition",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.425
+"387","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",5,NA,NA,1.472,"Transition",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.454
+"388","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",7.5,NA,NA,1.472,"Transition",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.454
+"389","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",10,NA,NA,1.472,"Transition",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.454
+"390","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",12.5,NA,NA,1.432,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.414
+"391","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",15,NA,NA,1.442,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.425
+"392","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",17.5,NA,NA,1.462,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.445
+"393","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",20,NA,NA,1.442,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.425
+"394","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",22.5,NA,NA,1.442,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.425
+"395","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",25,NA,NA,1.437,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.42
+"396","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",27.5,NA,NA,1.447,"Panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.43
+"397","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",30,NA,NA,1.442,"Panne - Water",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.425
+"398","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",32.5,NA,NA,1.417,"Panne - Water",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.4
+"399","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",35,NA,NA,1.412,"Panne - Water",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.394
+"400","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",37.5,NA,NA,1.402,"Panne - Water",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.385
+"401","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",40,NA,NA,1.362,"Panne - Water, Pool?",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.344
+"402","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",42.5,NA,NA,1.462,"High Marsh",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.445
+"403","9/13/2023",2023,"Massachusetts","Kents Island","","No Action","No Action","T2",45.2,NA,NA,1.587,"North Post, Upland Edge",NA,NA,"",2021,0,45.2,1.367,1.587,1.402,1.587,0.0349999999999999,0,0.0175,1.57
+"404","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",0,NA,NA,1.273,"Creek Edge",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.253
+"405","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",2.5,NA,NA,1.313,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.293
+"406","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",5,NA,NA,1.333,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.313
+"407","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",7.5,NA,NA,1.348,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.328
+"408","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",10,NA,NA,1.353,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.333
+"409","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",12.5,NA,NA,1.348,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.328
+"410","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",15,NA,NA,1.353,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.333
+"411","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",17.5,NA,NA,1.353,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.333
+"412","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",20,NA,NA,1.353,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.333
+"413","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",22.5,NA,NA,1.358,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.338
+"414","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",25,NA,NA,1.348,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.328
+"415","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",27.5,NA,NA,1.373,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.353
+"416","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",30,NA,NA,1.383,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.363
+"417","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",32.5,NA,NA,1.373,"High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.353
+"418","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",35,NA,NA,1.428,"Upland Edge - High Marsh",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.408
+"419","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T1",36,NA,NA,1.473,"East Post, Upland Edge",NA,NA,"",2021,0,36,1.253,1.453,1.273,1.473,0.02,0.02,0.02,1.453
+"420","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",0,NA,NA,1.293,"Creek Edge",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.275
+"421","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",2.5,NA,NA,1.343,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.325
+"422","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",5,NA,NA,1.373,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.355
+"423","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",7.5,NA,NA,1.408,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.39
+"424","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",10,NA,NA,1.413,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.396
+"425","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",12.5,NA,NA,1.433,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.416
+"426","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",15,NA,NA,1.423,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.406
+"427","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",17.5,NA,NA,1.433,"High Marsh",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.416
+"428","9/6/2023",2023,"Massachusetts","Kents Island","","Reference","Reference","T2",20,NA,NA,1.538,"West Post, Upland Edge",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.538,0.02,0.0150000000000001,0.0175000000000001,1.52
+"429","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",0,NA,NA,1.543,"Panne Edge, North Post",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.546
+"430","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",2.5,NA,NA,1.463,"Transition - Wrack",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.466
+"431","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",5,NA,NA,1.468,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.47
+"432","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",7.5,NA,NA,1.438,"Ditch Edge, Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.441
+"433","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",7.7,NA,NA,1.203,"Small Ditch",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.206
+"434","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",10,NA,NA,1.483,"Embankment, Transition",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.486
+"435","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",12.5,NA,NA,1.453,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.456
+"436","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",15,NA,NA,1.373,"Small Pool",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.376
+"437","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",17.5,NA,NA,1.438,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.441
+"438","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",20,NA,NA,1.433,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.436
+"439","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",22.5,NA,NA,1.428,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.43
+"440","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",25,NA,NA,1.403,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.406
+"441","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",27.5,NA,NA,1.403,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.406
+"442","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",30,NA,NA,1.443,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.446
+"443","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",32.5,NA,NA,1.443,"Transition",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.446
+"444","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",35,NA,NA,1.433,"Transition",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.436
+"445","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",37.5,NA,NA,1.428,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.43
+"446","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",40,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.426
+"447","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",41,NA,NA,1.428,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.43
+"448","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",42.5,NA,NA,1.423,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.426
+"449","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",45,NA,NA,1.413,"Runnel Center",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.416
+"450","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",46.5,NA,NA,1.393,"Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.396
+"451","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",47,NA,NA,1.253,"Edge of Runnel, Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.256
+"452","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",47.5,NA,NA,1.368,"Edge of Runnel, Panne",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.371
+"453","9/15/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",50,NA,NA,1.443,"South Post, Transition",NA,NA,"",2021,0,50,1.538,1.453,1.543,1.443,0.00499999999999989,-0.01,-0.00250000000000006,1.446
+"454","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",0,NA,NA,1.543,"North Post, High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.488
+"455","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",2.5,NA,NA,1.513,"High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.458
+"456","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",5,NA,NA,1.483,"High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.428
+"457","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",7.5,NA,NA,1.473,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.418
+"458","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",10,NA,NA,1.468,"High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.413
+"459","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",12.5,NA,NA,1.383,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.328
+"460","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",14.9,NA,NA,1.433,"Panne Edge",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.378
+"461","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",15,NA,NA,1.283,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.228
+"462","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",16.3,NA,NA,1.203,"Pool",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.148
+"463","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",16.6,NA,NA,1.398,"Pool",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.343
+"464","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",17.5,NA,NA,1.403,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.348
+"465","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",20,NA,NA,1.448,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.393
+"466","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",22.5,NA,NA,1.403,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.348
+"467","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",25,NA,NA,1.393,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.338
+"468","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",27.5,NA,NA,1.378,"Pool",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.323
+"469","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",30,NA,NA,1.403,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.348
+"470","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",32.5,NA,NA,1.403,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.348
+"471","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",35,NA,NA,1.463,"High Marsh Edge",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.408
+"472","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",40,NA,NA,1.448,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.393
+"473","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",41,NA,NA,1.383,"Pool",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.328
+"474","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",42.5,NA,NA,1.443,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.388
+"475","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",45,NA,NA,1.443,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.388
+"476","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",47.5,NA,NA,1.443,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.388
+"477","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",50,NA,NA,1.438,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.383
+"478","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",52.5,NA,NA,1.453,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.398
+"479","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",55,NA,NA,1.443,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.388
+"480","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",57.5,NA,NA,1.488,"High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.433
+"481","9/13/2023",2023,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",60,NA,NA,1.473,"South Post, High Marsh",NA,NA,"",2021,0,60,1.488,1.418,1.543,1.473,0.0549999999999999,0.0550000000000002,0.055,1.418
+"482","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",0,1.765,-0.405,1.359,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.39
+"483","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",2.5,1.69,-0.33,1.434,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.464
+"484","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",5,1.69,-0.33,1.434,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.464
+"485","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",7.5,1.685,-0.325,1.439,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.47
+"486","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",10,1.68,-0.32,1.444,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.474
+"487","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",12.5,1.68,-0.32,1.444,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.474
+"488","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",15,1.7,-0.34,1.424,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.454
+"489","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",17.5,1.7,-0.34,1.424,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.454
+"490","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",20,1.69,-0.33,1.434,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.464
+"491","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",22.5,1.695,-0.335,1.429,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.46
+"492","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",25,1.725,-0.365,1.399,"wet panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.43
+"493","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",27.5,1.72,-0.36,1.404,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.434
+"494","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",30,1.76,-0.4,1.364,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.395
+"495","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",32.5,1.74,-0.38,1.384,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.414
+"496","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",35,1.75,-0.39,1.374,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.405
+"497","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",37.5,1.75,-0.39,1.374,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.405
+"498","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",40,1.72,-0.36,1.404,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.434
+"499","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",42.5,1.74,-0.38,1.384,"panne",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.414
+"500","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",45,1.67,-0.31,1.454,"HM edge",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.484
+"501","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T1",47.2,1.54,-0.18,1.584,"HM edge",NA,NA,"",2021,0,47.2,1.382,1.622,1.359,1.584,-0.0229999999999999,-0.038,-0.0305,1.614
+"502","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",0,1.775,-0.415,1.349,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.38
+"503","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",2.5,1.71,-0.35,1.414,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.444
+"504","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",5,1.695,-0.335,1.429,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.46
+"505","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",7.5,1.68,-0.32,1.444,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.474
+"506","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",10,1.69,-0.33,1.434,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.464
+"507","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",12.5,1.7,-0.34,1.424,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.454
+"508","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",15,1.715,-0.355,1.409,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.44
+"509","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",17.5,1.685,-0.325,1.439,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.47
+"510","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",20,1.7,-0.34,1.424,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.454
+"511","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",22.5,1.72,-0.36,1.404,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.434
+"512","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",25,1.72,-0.36,1.404,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.434
+"513","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",27.5,1.7,-0.34,1.424,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.454
+"514","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",30,1.72,-0.36,1.404,"panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.434
+"515","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",32.5,1.755,-0.395,1.369,"wet panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.4
+"516","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",35,1.75,-0.39,1.374,"wet panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.405
+"517","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",37.5,1.755,-0.395,1.369,"wet panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.4
+"518","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",40,1.82,-0.46,1.304,"wet panne",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.334
+"519","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",42.5,1.68,-0.32,1.444,"HM edge",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.474
+"520","8/30/2024",2024,"Massachusetts","Kents Island","","No Action","No Action","T2",45.2,1.58,-0.22,1.544,"HM edge",NA,NA,"",2021,0,45.2,1.367,1.587,1.349,1.544,-0.018,-0.0429999999999999,-0.0305,1.574
+"521","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",0,1.62,-0.58,1.278,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.245
+"522","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",2.5,1.58,-0.54,1.318,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.285
+"523","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",5,1.56,-0.52,1.338,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.305
+"524","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",7.5,1.54,-0.5,1.358,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.325
+"525","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",10,1.54,-0.5,1.358,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.325
+"526","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",12.5,1.55,-0.51,1.348,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.316
+"527","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",15,1.545,-0.505,1.353,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.32
+"528","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",17.5,1.54,-0.5,1.358,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.325
+"529","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",20,1.54,-0.5,1.358,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.325
+"530","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",22.5,1.525,-0.485,1.373,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.34
+"531","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",25,1.52,-0.48,1.378,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.345
+"532","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",27.5,1.505,-0.465,1.393,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.36
+"533","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",30,1.505,-0.465,1.393,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.36
+"534","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",32.5,1.51,-0.47,1.388,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.355
+"535","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",35,1.455,-0.415,1.443,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.41
+"536","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T1",36,1.405,-0.365,1.493,"HM",NA,NA,"",2021,0,36,1.253,1.453,1.278,1.493,0.0250000000000001,0.04,0.0325000000000001,1.461
+"537","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",0,1.605,-0.565,1.293,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.268
+"538","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",2.5,1.554,-0.514,1.344,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.319
+"539","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",5,1.515,-0.475,1.383,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.358
+"540","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",7.5,1.49,-0.45,1.408,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.383
+"541","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",10,1.475,-0.435,1.423,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.398
+"542","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",12.5,1.465,-0.425,1.433,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.408
+"543","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",15,1.46,-0.42,1.438,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.413
+"544","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",17.5,1.445,-0.405,1.453,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.428
+"545","8/30/2024",2024,"Massachusetts","Kents Island","","Reference","Reference","T2",20,1.345,-0.305,1.553,"TM",NA,NA,"",2021,0,20,1.273,1.523,1.293,1.553,0.02,0.03,0.025,1.528
+"546","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",0,1.74,-0.475,1.431,"HM",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"547","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",2.4,1.82,-0.555,1.351,"runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.356
+"548","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",2.5,1.93,-0.665,1.241,"runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.246
+"549","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",2.7,1.92,-0.655,1.251,"runnel center",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.256
+"550","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",2.9,1.92,-0.655,1.251,"runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.256
+"551","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",3,1.85,-0.585,1.321,"runnel edge",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.325
+"552","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",5,1.76,-0.495,1.411,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.416
+"553","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",7.5,1.75,-0.485,1.421,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.426
+"554","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",9,1.74,-0.475,1.431,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"555","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",10,1.74,-0.475,1.431,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"556","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",12.5,1.745,-0.48,1.426,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.43
+"557","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",15,1.735,-0.47,1.436,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.441
+"558","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",17.5,1.73,-0.465,1.441,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.446
+"559","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",20,1.725,-0.46,1.446,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.45
+"560","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",22.5,1.75,-0.485,1.421,"ridge, panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.426
+"561","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",25,1.755,-0.49,1.416,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.421
+"562","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",27.5,1.74,-0.475,1.431,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"563","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",30,1.74,-0.475,1.431,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"564","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",32.5,1.755,-0.49,1.416,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.421
+"565","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",35,1.785,-0.52,1.386,"panne, next to pool",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.39
+"566","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",37.5,1.74,-0.475,1.431,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.436
+"567","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",40,1.69,-0.425,1.481,"emabnkment HM",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.486
+"568","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",42.5,1.715,-0.45,1.456,"panne, next to ditch",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.461
+"569","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",45,1.715,-0.45,1.456,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.461
+"570","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",47,1.71,-0.445,1.461,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.466
+"571","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",47.5,1.705,-0.44,1.466,"panne",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.47
+"572","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T1",50,1.62,-0.355,1.551,"UE",NA,NA,"",2021,0,50,1.538,1.453,1.431,1.551,-0.107,0.0979999999999999,-0.00450000000000006,1.555
+"573","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",0,1.705,-0.44,1.466,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.403
+"574","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",2.5,1.68,-0.415,1.491,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.428
+"575","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",5,1.735,-0.47,1.436,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.373
+"576","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",7.5,1.73,-0.465,1.441,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.378
+"577","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",10,1.735,-0.47,1.436,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.373
+"578","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",12.5,1.72,-0.455,1.451,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.388
+"579","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",15,1.735,-0.47,1.436,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.373
+"580","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",17.5,1.74,-0.475,1.431,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.368
+"581","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",19,1.75,-0.485,1.421,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.358
+"582","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",20,1.73,-0.465,1.441,"Panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.378
+"583","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",22.5,1.73,-0.465,1.441,"panne, ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.378
+"584","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",25,1.715,-0.45,1.456,"panne ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.393
+"585","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",27.5,1.75,-0.485,1.421,"panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.358
+"586","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",30,1.795,-0.53,1.376,"panne- old pool",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.313
+"587","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",32.5,1.8,-0.535,1.371,"panne - old pool",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.308
+"588","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",35,1.785,-0.52,1.386,"pane - old pool",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.323
+"589","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",37.5,1.77,-0.505,1.401,"panne",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.338
+"590","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",40,1.74,-0.475,1.431,"panne, edge of ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.368
+"591","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",42.5,1.765,-0.5,1.406,"panne, near runnel",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.343
+"592","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",43.5,1.845,-0.58,1.326,"runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.263
+"593","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",44,1.985,-0.72,1.186,"runnel center",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.123
+"594","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",44.9,1.905,-0.64,1.266,"runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.203
+"595","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",45,1.74,-0.475,1.431,"runnel edge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.368
+"596","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",47.5,1.78,-0.515,1.391,"panne- old pool",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.328
+"597","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",50,1.68,-0.415,1.491,"HM ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.428
+"598","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",52.5,1.805,-0.54,1.366,"depression",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.303
+"599","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",55,1.67,-0.405,1.501,"HM ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.438
+"600","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",57.5,1.64,-0.375,1.531,"HM ridge",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.468
+"601","9/6/2024",2024,"Massachusetts","Kents Island","","Runnel 4","Runnel","T2",60,1.605,-0.34,1.566,"HM",NA,NA,"",2021,0,60,1.488,1.418,1.466,1.566,-0.022,0.148,0.0630000000000001,1.503
